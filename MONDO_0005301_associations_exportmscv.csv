@@ -1,0 +1,945 @@
+riskAllele,pValue,pValueAnnotation,riskFrequency,orValue,beta,ci,mappedGenes,traitName,efoTraits,bgTraits,accessionId,locations,pubmedId,author
+rs117518546-T,2E-25,-,0.345,2.916,-,-,IGHG1,Neuromyelitis optica spectrum disorder (AQP4-IgG-positive),AQP4-IgG-positive neuromyelitis optica,-,GCST90277235,14:105737776,33559384,Zhong X
+rs28383224-A,6E-12,-,0.42,2.24,-,[1.78-2.82],"HLA-DRB1,HLA-DQA1",Neuromyelitis optica,neuromyelitis optica,-,GCST005964,6:32615876,29769526,Estrada K
+rs1150757-A,7E-12,-,0.10,2.86,-,[1.98-4.14],TNXB,Neuromyelitis optica,neuromyelitis optica,-,GCST005964,6:32061428,29769526,Estrada K
+HLA-DRB1*03:01-?,2E-12,-,0.12,2.71,-,[2.05-3.57],-,Neuromyelitis optica,neuromyelitis optica,-,GCST005964,-,29769526,Estrada K
+HLA-B*08:01-?,6E-12,-,0.11,2.72,-,[2.05-3.63],-,Neuromyelitis optica,neuromyelitis optica,-,GCST005964,-,29769526,Estrada K
+HLA-DQB1*02:01-?,1E-11,-,0.13,2.58,-,[1.96-3.40],-,Neuromyelitis optica,neuromyelitis optica,-,GCST005964,-,29769526,Estrada K
+HLA-C*07:01-?,1E-10,-,0.15,2.38,-,[1.83-3.10],-,Neuromyelitis optica,neuromyelitis optica,-,GCST005964,-,29769526,Estrada K
+HLA-DQA1*05:01-?,5E-10,-,0.23,2.2,-,[1.72-2.82],-,Neuromyelitis optica,neuromyelitis optica,-,GCST005964,-,29769526,Estrada K
+rs28383224-A,8E-11,-,0.42,2.66,-,[1.98-3.56],"HLA-DRB1,HLA-DQA1",Neuromyelitis optica (AQP4-IgG-positive),AQP4-IgG-positive neuromyelitis optica,-,GCST006937,6:32615876,29769526,Estrada K
+rs1150757-A,3E-16,-,0.1,4.66,-,[3.22-6.74],TNXB,Neuromyelitis optica (AQP4-IgG-positive),AQP4-IgG-positive neuromyelitis optica,-,GCST006937,6:32061428,29769526,Estrada K
+HLA-DRB1*03:01-?,4E-16,-,0.12,4.09,-,[2.91-5.74],-,Neuromyelitis optica (AQP4-IgG-positive),AQP4-IgG-positive neuromyelitis optica,-,GCST006937,-,29769526,Estrada K
+HLA-B*08:01-?,6E-16,-,0.11,4.23,-,[2.98-5.99],-,Neuromyelitis optica (AQP4-IgG-positive),AQP4-IgG-positive neuromyelitis optica,-,GCST006937,-,29769526,Estrada K
+HLA-DQB1*02:01-?,4E-15,-,0.13,3.79,-,[2.72-5.28],-,Neuromyelitis optica (AQP4-IgG-positive),AQP4-IgG-positive neuromyelitis optica,-,GCST006937,-,29769526,Estrada K
+HLA-C*07:01-?,5E-13,-,0.15,3.26,-,[2.36-4.49],-,Neuromyelitis optica (AQP4-IgG-positive),AQP4-IgG-positive neuromyelitis optica,-,GCST006937,-,29769526,Estrada K
+HLA-DQA1*05:01-?,1E-11,-,0.23,2.9,-,[2.13-3.95],-,Neuromyelitis optica (AQP4-IgG-positive),AQP4-IgG-positive neuromyelitis optica,-,GCST006937,-,29769526,Estrada K
+rs9272219-A,8E-10,-,0.42,2.48,-,[1.86-3.32],HLA-DQA1,Neuromyelitis optica,neuromyelitis optica,-,GCST011432,6:32634492,32792643,Romero-Hidalgo S
+kgp1734375-?,2E-06,-,NR,3.4,-,[2.1-5.7],-,Severe prolonged lymphopenia in dimethyl fumarate-treated relapsing-remitting multiple sclerosis,"response to dimethyl fumarate,lymphopenia",relapsing-remitting multiple sclerosis,GCST009546,-,31749835,Sangurdekar D
+kgp4224365-?,5E-06,-,NR,2.9,-,[1.8-4.6],-,Severe prolonged lymphopenia in dimethyl fumarate-treated relapsing-remitting multiple sclerosis,"response to dimethyl fumarate,lymphopenia",relapsing-remitting multiple sclerosis,GCST009546,-,31749835,Sangurdekar D
+kgp6724547-?,6E-06,-,NR,3.8,-,[2.1-6.8],-,Severe prolonged lymphopenia in dimethyl fumarate-treated relapsing-remitting multiple sclerosis,"response to dimethyl fumarate,lymphopenia",relapsing-remitting multiple sclerosis,GCST009546,-,31749835,Sangurdekar D
+rs12249496-?,1E-06,-,NR,2.2,-,[1.6-3.0],"LINC02667,LINC01163",Moderate or severe prolonged lymphopenia in dimethyl fumarate-treated relapsing-remitting multiple sclerosis,"response to dimethyl fumarate,lymphopenia",relapsing-remitting multiple sclerosis,GCST009545,10:128875540,31749835,Sangurdekar D
+rs17417060-?,1E-06,-,NR,2.1,-,[1.6-2.9],"TMEM72,TMEM72-AS1",Moderate or severe prolonged lymphopenia in dimethyl fumarate-treated relapsing-remitting multiple sclerosis,"response to dimethyl fumarate,lymphopenia",relapsing-remitting multiple sclerosis,GCST009545,10:44917329,31749835,Sangurdekar D
+kgp3442760-?,1E-06,-,NR,1.9,-,[1.5-2.5],-,Moderate or severe prolonged lymphopenia in dimethyl fumarate-treated relapsing-remitting multiple sclerosis,"response to dimethyl fumarate,lymphopenia",relapsing-remitting multiple sclerosis,GCST009545,-,31749835,Sangurdekar D
+kgp5383559-?,3E-06,-,NR,2.0,-,[1.5-2.8],-,Moderate or severe prolonged lymphopenia in dimethyl fumarate-treated relapsing-remitting multiple sclerosis,"response to dimethyl fumarate,lymphopenia",relapsing-remitting multiple sclerosis,GCST009545,-,31749835,Sangurdekar D
+kgp4348860-?,4E-06,-,NR,2.4,-,[1.7-3.6],-,Moderate or severe prolonged lymphopenia in dimethyl fumarate-treated relapsing-remitting multiple sclerosis,"response to dimethyl fumarate,lymphopenia",relapsing-remitting multiple sclerosis,GCST009545,-,31749835,Sangurdekar D
+kgp2538268-?,6E-06,-,NR,1.8,-,[1.4-2.3],-,Moderate or severe prolonged lymphopenia in dimethyl fumarate-treated relapsing-remitting multiple sclerosis,"response to dimethyl fumarate,lymphopenia",relapsing-remitting multiple sclerosis,GCST009545,-,31749835,Sangurdekar D
+rs4953911-T,2E-07,-,0.36,-,-,-,MGAT5,Multiple sclerosis (severity),multiple sclerosis,-,GCST000577,2:134311223,20117844,Brynedal B
+rs931555-?,4E-07,-,NR,1.25,-,[1.15-1.36],SPEF2,Multiple sclerosis,multiple sclerosis,-,GCST000949,5:35803475,21244703,Wang JH
+rs4939490-?,1E-09,-,NR,1.3,-,[1.19-1.42],"CD6,LINC02954",Multiple sclerosis,multiple sclerosis,-,GCST000949,11:61026179,21244703,Wang JH
+rs12025416-?,1E-07,-,NR,1.45,-,[1.25-1.69],"LINC01762,CD58",Multiple sclerosis,multiple sclerosis,-,GCST000949,1:116495665,21244703,Wang JH
+rs13117816-?,7E-06,-,NR,-,-,-,"LINC02616,MIR4801",Multiple sclerosis--Brain Glutamate Levels,multiple sclerosis,-,GCST000783,4:37062709,20802204,Baranzini SE
+rs8007846-?,9E-06,-,NR,-,-,-,"FUT8,NCOA4P1",Multiple sclerosis--Brain Glutamate Levels,multiple sclerosis,-,GCST000783,14:65796245,20802204,Baranzini SE
+rs8074980-?,2E-06,-,NR,-,-,-,CUEDC1,Multiple sclerosis--Brain Glutamate Levels,multiple sclerosis,-,GCST000783,17:57933599,20802204,Baranzini SE
+rs794185-?,6E-07,-,NR,-,-,-,SUMF1,Multiple sclerosis--Brain Glutamate Levels,multiple sclerosis,-,GCST000783,3:4395674,20802204,Baranzini SE
+rs2038256-?,2E-06,-,NR,-,-,-,LINC01551,Multiple sclerosis--Brain Glutamate Levels,multiple sclerosis,-,GCST000783,14:28780143,20802204,Baranzini SE
+rs7779014-T,8E-06,(Continuous),0.2,-,0.48 unit increase,[NR],YWHAG,Multiple sclerosis,multiple sclerosis,-,GCST001096,7:76346269,21654844,Briggs FB
+rs17149161-A,6E-06,(Extreme),0.2,1.87,-,[NR],YWHAG,Multiple sclerosis,multiple sclerosis,-,GCST001096,7:76348912,21654844,Briggs FB
+rs12644284-?,4E-06,(Extreme),0.67,2.04,-,[NR],TRIM2,Multiple sclerosis,multiple sclerosis,-,GCST001096,4:153232848,21654844,Briggs FB
+rs7789940-G,6E-06,(Extreme),0.19,1.87,-,[NR],"FPASL,YWHAG",Multiple sclerosis,multiple sclerosis,-,GCST001096,7:76321913,21654844,Briggs FB
+rs758944-T,8E-06,(Continuous),0.2,-,0.48 unit increase,[NR],"YWHAG,FPASL",Multiple sclerosis,multiple sclerosis,-,GCST001096,7:76323980,21654844,Briggs FB
+rs11962089-G,8E-06,(Continuous),0.16,-,0.69 unit decrease,[NR],"BVES-AS1,POPDC3",Multiple sclerosis,multiple sclerosis,-,GCST001096,6:105164345,21654844,Briggs FB
+rs2503875-A,2E-07,-,NR,1.66,-,[1.37-2.00],"LINC02633,RASGEF1A",Multiple sclerosis,multiple sclerosis,-,GCST000716,10:43318601,20598377,Nischwitz S
+rs3780792-G,1E-06,-,NR,1.6,-,[1.32-1.92],VAV2,Multiple sclerosis,multiple sclerosis,-,GCST000716,9:133970221,20598377,Nischwitz S
+rs9271366-G,4E-17,-,NR,2.62,-,[2.09-3.28],"HLA-DQA1,HLA-DRB1",Multiple sclerosis,multiple sclerosis,-,GCST000716,6:32619077,20598377,Nischwitz S
+rs3745672-?,1E-06,-,NR,7.39,-,[3.32-16.47],"ZNF433,ZNF433-AS1",Multiple sclerosis,multiple sclerosis,-,GCST000716,19:12035555,20598377,Nischwitz S
+rs11026091-?,2E-06,(Cluxel minimum distance),NR,-,-,-,"MRGPRE,NDUFA5P8",Multiple sclerosis,multiple sclerosis,-,GCST001860,11:3238579,23412934,Gourraud PA
+rs13279485-?,1E-06,(Cluxel size),NR,-,-,-,"KBTBD11-OT1,ARHGEF10",Multiple sclerosis,multiple sclerosis,-,GCST001860,8:1935186,23412934,Gourraud PA
+rs4669226-?,5E-06,(Cluxel size),NR,-,-,-,"LINC01871,LINC00298",Multiple sclerosis,multiple sclerosis,-,GCST001860,2:7913466,23412934,Gourraud PA
+rs9568281-?,3E-07,(Cluxel size),NR,-,-,-,"ARL11,RCBTB1",Multiple sclerosis,multiple sclerosis,-,GCST001860,13:49611068,23412934,Gourraud PA
+rs7924357-?,1E-06,(Cluxel size),NR,-,-,-,WTAPP1,Multiple sclerosis,multiple sclerosis,-,GCST001860,11:102757321,23412934,Gourraud PA
+rs733724-?,3E-07,(Cluxel size),NR,-,-,-,HACE1,Multiple sclerosis,multiple sclerosis,-,GCST001860,6:104775989,23412934,Gourraud PA
+rs17267338-?,8E-06,(Cluxel size),NR,-,-,-,VTI1A,Multiple sclerosis,multiple sclerosis,-,GCST001860,10:112628513,23412934,Gourraud PA
+rs17749211-?,8E-06,(Cluxel size),NR,-,-,-,SAMD12,Multiple sclerosis,multiple sclerosis,-,GCST001860,8:118379170,23412934,Gourraud PA
+rs1821625-?,7E-06,(Cluxel size),NR,-,-,-,NCKAP5,Multiple sclerosis,multiple sclerosis,-,GCST001860,2:133472646,23412934,Gourraud PA
+rs12513380-?,5E-06,(Cluxel size),NR,-,-,-,TLL1,Multiple sclerosis,multiple sclerosis,-,GCST001860,4:165909212,23412934,Gourraud PA
+rs533259-?,6E-09,(Cluxel size),NR,-,-,-,RNASEL,Multiple sclerosis,multiple sclerosis,-,GCST001860,1:182579884,23412934,Gourraud PA
+rs17090640-?,3E-06,(Cluxel size),NR,-,-,-,"RNA5SP173,NDUFB5P1",Multiple sclerosis,multiple sclerosis,-,GCST001860,4:179746494,23412934,Gourraud PA
+rs4271113-?,9E-07,(Cluxel minimum distance),NR,-,-,-,"TMEM47,FAM47B",Multiple sclerosis,multiple sclerosis,-,GCST001860,X:34874386,23412934,Gourraud PA
+rs2920001-?,1E-06,(Cluxel minimum distance),NR,-,-,-,"DSCAS,DSG1",Multiple sclerosis,multiple sclerosis,-,GCST001860,18:31209762,23412934,Gourraud PA
+rs5978649-?,4E-06,(Cluxel minimum distance),NR,-,-,-,EGFL6,Multiple sclerosis,multiple sclerosis,-,GCST001860,X:13596999,23412934,Gourraud PA
+rs4916321-?,7E-06,(Cluxel size),NR,-,-,-,"PRDX6-AS1,TNFSF4",Multiple sclerosis,multiple sclerosis,-,GCST001860,1:173315060,23412934,Gourraud PA
+rs3129934-T,9E-11,-,NR,3.3,-,[2.3-4.9],"TSBP1,TSBP1-AS1",Multiple sclerosis,multiple sclerosis,-,GCST000252,6:32368410,18941528,Comabella M
+rs11871306-C,2E-10,-,0.02,2.15,-,[1.70-2.78],WNT9B,Relapse in treatment-naive multiple sclerosis (time to event),"disease recurrence,multiple sclerosis",-,GCST012218,17:46877618,33704824,Vandebergh M
+rs10514650-A,2E-06,-,NR,4.2,-,NR,"TDRD15,NUTF2P8",Depression in multiple sclerosis (pre-diagnosis),"major depressive disorder,multiple sclerosis",-,GCST011679,2:21296299,33296963,Brugger SW
+rs10832000-G,2E-06,-,NR,4.27,-,NR,"BMAL1,RASSF10",Depression in multiple sclerosis (pre-diagnosis),"major depressive disorder,multiple sclerosis",-,GCST011679,11:13228852,33296963,Brugger SW
+rs28758178-A,3E-06,-,NR,4.44,-,NR,TM2D3,Depression in multiple sclerosis (pre-diagnosis),"major depressive disorder,multiple sclerosis",-,GCST011679,15:101648782,33296963,Brugger SW
+rs74696548-G,3E-06,-,NR,5.1,-,NR,SGO1-AS1,Depression in multiple sclerosis (pre-diagnosis),"major depressive disorder,multiple sclerosis",-,GCST011679,3:20734902,33296963,Brugger SW
+rs12612334-C,3E-06,-,NR,1.91,-,NR,"SUCLA2P2,GCFC2",Depression in multiple sclerosis (post-diagnosis),"major depressive disorder,multiple sclerosis",-,GCST011678,2:75885737,33296963,Brugger SW
+rs898-C,4E-06,-,NR,2.02,-,NR,PTGFR,Depression in multiple sclerosis (post-diagnosis),"major depressive disorder,multiple sclerosis",-,GCST011678,1:78537573,33296963,Brugger SW
+rs10513196-A,4E-07,-,NR,1.9,-,NR,"LINC01990,BBX",Depression in multiple sclerosis,"major depressive disorder,multiple sclerosis",-,GCST011680,3:107506831,33296963,Brugger SW
+rs3003482-G,3E-06,-,NR,1.83,-,NR,PADI1,Depression in multiple sclerosis,"major depressive disorder,multiple sclerosis",-,GCST011680,1:17224106,33296963,Brugger SW
+rs7941030-?,8E-06,-,NR,-,-,[0.8691-0.9509],"GLULP3,UBASH3B",Multiple sclerosis and HDL levels (pleiotropy),"high density lipoprotein cholesterol measurement,multiple sclerosis",-,GCST007124,11:122651667,26920376,Wang Y
+rs7255066-?,4E-06,-,NR,-,-,[0.8566-0.9447],CEACAM16-AS1,Multiple sclerosis and HDL levels (pleiotropy),"high density lipoprotein cholesterol measurement,multiple sclerosis",-,GCST007124,19:44642803,26920376,Wang Y
+rs210131-?,2E-08,-,NR,-,-,[1.1096-1.2146],GGNBP1,Multiple sclerosis and systolic blood pressure (pleiotropy),"systolic blood pressure,multiple sclerosis",-,GCST007125,6:33567689,26920376,Wang Y
+rs394199-?,2E-08,-,NR,-,-,[0.8625-0.9356],GGNBP1,Multiple sclerosis and systolic blood pressure (pleiotropy),"systolic blood pressure,multiple sclerosis",-,GCST007125,6:33585803,26920376,Wang Y
+rs12456021-?,8E-06,-,NR,-,-,[0.8663-0.9455],ALPK2,Multiple sclerosis and systolic blood pressure (pleiotropy),"systolic blood pressure,multiple sclerosis",-,GCST007125,18:58546158,26920376,Wang Y
+rs942637-?,2E-07,-,NR,-,-,[1.0883-1.1837],ITPR3,Multiple sclerosis and body mass index (pleiotropy),"body mass index,multiple sclerosis",-,GCST007126,6:33685334,26920376,Wang Y
+rs471942-?,5E-06,-,NR,-,-,[1.0918-1.2145],IP6K3,Multiple sclerosis and waist-to-hip-ratio (pleiotropy),"waist-hip ratio,multiple sclerosis",-,GCST007127,6:33729008,26920376,Wang Y
+rs17519972-?,9E-08,-,NR,-,-,[1.0719-1.1489],RPAP2,Multiple sclerosis and C-reactive protein levels (pleiotropy),"C-reactive protein measurement,multiple sclerosis",-,GCST007121,1:92362948,26920376,Wang Y
+rs17123757-?,3E-06,-,NR,-,-,[1.0664-1.1551],"S1PR1-DT,DPH5-DT",Multiple sclerosis and C-reactive protein levels (pleiotropy),"C-reactive protein measurement,multiple sclerosis",-,GCST007121,1:101157404,26920376,Wang Y
+rs771767-?,1E-08,-,NR,-,-,[1.0713-1.1401],"ZPLD1,RDUR",Multiple sclerosis and C-reactive protein levels (pleiotropy),"C-reactive protein measurement,multiple sclerosis",-,GCST007121,3:102029794,26920376,Wang Y
+rs1500710-?,6E-06,-,NR,-,-,[0.8841-0.9526],ARHGEF3,Multiple sclerosis and triglyceride levels (pleiotropy),"triglyceride measurement,multiple sclerosis",-,GCST007122,3:56880037,26920376,Wang Y
+rs1398607-?,1E-08,-,NR,-,-,[1.0794-1.1687],"ZPLD1,RDUR",Multiple sclerosis and triglyceride levels (pleiotropy),"triglyceride measurement,multiple sclerosis",-,GCST007122,3:102036894,26920376,Wang Y
+rs1920296-?,7E-08,-,NR,-,-,[0.8523-0.9336],IQCB1,Multiple sclerosis and triglyceride levels (pleiotropy),"triglyceride measurement,multiple sclerosis",-,GCST007122,3:121824730,26920376,Wang Y
+rs806321-?,4E-06,-,NR,-,-,[1.0466-1.1118],DLEU1,Multiple sclerosis and triglyceride levels (pleiotropy),"triglyceride measurement,multiple sclerosis",-,GCST007122,13:50267187,26920376,Wang Y
+rs307896-?,1E-06,-,NR,-,-,[1.0574-1.1396],SAE1,Multiple sclerosis and triglyceride levels (pleiotropy),"triglyceride measurement,multiple sclerosis",-,GCST007122,19:47158236,26920376,Wang Y
+rs2072711-?,4E-06,-,NR,-,-,[1.0615-1.1455],NCF4,Multiple sclerosis and triglyceride levels (pleiotropy),"triglyceride measurement,multiple sclerosis",-,GCST007122,22:36872513,26920376,Wang Y
+rs9821630-?,8E-06,-,NR,-,-,[0.8628-0.9484],PLCL2,Multiple sclerosis and HDL levels (pleiotropy),"high density lipoprotein cholesterol measurement,multiple sclerosis",-,GCST007124,3:16929446,26920376,Wang Y
+rs338610-?,3E-07,-,NR,-,-,[0.8376-0.9303],LINC01967,Multiple sclerosis and HDL levels (pleiotropy),"high density lipoprotein cholesterol measurement,multiple sclerosis",-,GCST007124,3:28039951,26920376,Wang Y
+rs4285028-?,4E-08,-,NR,-,-,[1.0701-1.1419],SLC15A2,Multiple sclerosis and HDL levels (pleiotropy),"high density lipoprotein cholesterol measurement,multiple sclerosis",-,GCST007124,3:121941817,26920376,Wang Y
+rs290986-?,1E-06,-,NR,-,-,[1.0641-1.1436],"OR7E108P,SYK",Multiple sclerosis and HDL levels (pleiotropy),"high density lipoprotein cholesterol measurement,multiple sclerosis",-,GCST007124,9:90801254,26920376,Wang Y
+rs9643199-A,2E-06,-,0.26,-,0.465 unit increase,-,MTSS1,Median relapse-independent longitudinal Multiple Sclerosis Severity Scale score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274853,8:124687848,36448302,Jokubaitis VG
+rs2725556-A,2E-06,-,0.08,-,0.709 unit increase,-,"UNC13C,RNU6-449P",Median relapse-independent longitudinal Multiple Sclerosis Severity Scale score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274853,15:53933206,36448302,Jokubaitis VG
+rs61578937-G,3E-06,-,0.13,-,0.562 unit decrease,-,"LINC03020,NCOA2",Median relapse-independent longitudinal Multiple Sclerosis Severity Scale score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274853,8:70421623,36448302,Jokubaitis VG
+rs7758683-T,4E-06,-,0.23,-,0.456 unit decrease,-,"EPHA7,MTCYBP36",Median relapse-independent longitudinal Multiple Sclerosis Severity Scale score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274853,6:93531565,36448302,Jokubaitis VG
+rs56089601-C,5E-06,-,0.1,-,0.631 unit increase,-,STK32B,Median relapse-independent longitudinal Multiple Sclerosis Severity Scale score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274853,4:5228654,36448302,Jokubaitis VG
+rs4495680-G,6E-06,-,0.41,-,0.39 unit decrease,-,"RGS13,RGS1",Median relapse-independent longitudinal Multiple Sclerosis Severity Scale score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274853,1:192623390,36448302,Jokubaitis VG
+rs56363129-G,7E-06,-,0.15,-,0.516 unit increase,-,"SEPHS1,BEND7",Median relapse-independent longitudinal Multiple Sclerosis Severity Scale score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274853,10:13350425,36448302,Jokubaitis VG
+rs111399831-A,7E-06,-,0.15,-,0.534 unit decrease,-,"RN7SL700P,GNG5P5",Median relapse-independent longitudinal Multiple Sclerosis Severity Scale score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274853,13:47431879,36448302,Jokubaitis VG
+rs11704853-T,7E-06,-,0.09,-,0.6603 unit decrease,-,"RNU6-225P,ZNF74",Median relapse-independent longitudinal Multiple Sclerosis Severity Scale score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274853,22:20408665,36448302,Jokubaitis VG
+rs698805-G,4E-08,-,0.07,-,1.54 unit decrease,-,CAMKMT,Median relapse-independent longitudinal Multiple Sclerosis Severity Scale score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274854,2:44473990,36448302,Jokubaitis VG
+rs7315384-C,8E-08,-,0.24,-,1.02 unit increase,-,STAB2,Median relapse-independent longitudinal Multiple Sclerosis Severity Scale score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274854,12:103659642,36448302,Jokubaitis VG
+rs3885012-G,4E-07,-,0.06,-,1.312 unit decrease,-,"SNORA70,RN7SL734P",Median relapse-independent longitudinal Multiple Sclerosis Severity Scale score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274854,12:75919395,36448302,Jokubaitis VG
+rs7070182-C,4E-07,-,0.18,-,1.054 unit decrease,-,TCF7L2,Median relapse-independent longitudinal Multiple Sclerosis Severity Scale score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274854,10:113062939,36448302,Jokubaitis VG
+rs10967273-T,4E-08,-,0.13,-,0.83 unit increase,-,"CAAP1,GARIN3P1",Median relapse-independent longitudinal Multiple Sclerosis Severity Scale score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274855,9:26257387,36448302,Jokubaitis VG
+rs9643199-A,7E-08,-,0.26,-,0.631 unit increase,-,MTSS1,Median relapse-independent longitudinal Multiple Sclerosis Severity Scale score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274855,8:124687848,36448302,Jokubaitis VG
+rs17169210-C,1E-07,-,0.23,-,0.621 unit decrease,-,SLC25A48,Median relapse-independent longitudinal Multiple Sclerosis Severity Scale score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274855,5:135834219,36448302,Jokubaitis VG
+rs1219732-T,2E-07,-,0.35,-,0.55 unit increase,-,CPXM2,Median relapse-independent longitudinal Multiple Sclerosis Severity Scale score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274855,10:123767944,36448302,Jokubaitis VG
+rs7289446-G,3E-07,-,0.27,-,0.488 unit decrease,-,SEZ6L,Median relapse-independent longitudinal age-related multiple sclerosis severity score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274850,22:26240110,36448302,Jokubaitis VG
+rs1207401-A,3E-07,-,0.27,-,0.49 unit decrease,-,SEZ6L,Median relapse-independent longitudinal age-related multiple sclerosis severity score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274850,22:26239582,36448302,Jokubaitis VG
+rs7758683-T,2E-06,-,0.23,-,0.477 unit decrease,-,"EPHA7,MTCYBP36",Median relapse-independent longitudinal age-related multiple sclerosis severity score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274850,6:93531565,36448302,Jokubaitis VG
+rs56089601-C,3E-06,-,0.1,-,0.655 unit increase,-,STK32B,Median relapse-independent longitudinal age-related multiple sclerosis severity score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274850,4:5228654,36448302,Jokubaitis VG
+rs12953974-A,4E-06,-,0.12,-,0.607 unit decrease,-,CTIF,Median relapse-independent longitudinal age-related multiple sclerosis severity score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274850,18:48678493,36448302,Jokubaitis VG
+rs56194930-G,4E-06,-,0.11,-,0.648 unit increase,-,"MTCO3P30,HMGB3P23",Median relapse-independent longitudinal age-related multiple sclerosis severity score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274850,9:31640774,36448302,Jokubaitis VG
+rs73091975-G,4E-06,-,0.09,-,0.68 unit decrease,-,"NEUROD6,ITPRID1",Median relapse-independent longitudinal age-related multiple sclerosis severity score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274850,7:31430168,36448302,Jokubaitis VG
+rs2274333-G,5E-06,-,0.29,-,0.429 unit decrease,-,CA6,Median relapse-independent longitudinal age-related multiple sclerosis severity score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274850,1:8957145,36448302,Jokubaitis VG
+rs295254-G,6E-06,-,0.38,-,0.388 unit increase,-,RCL1,Median relapse-independent longitudinal age-related multiple sclerosis severity score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274850,9:4848630,36448302,Jokubaitis VG
+rs11057374-G,6E-06,-,0.35,-,0.39 unit decrease,-,DNAH10,Median relapse-independent longitudinal age-related multiple sclerosis severity score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274850,12:123860606,36448302,Jokubaitis VG
+rs111399831-A,7E-06,-,0.21,-,0.468 unit decrease,-,"RN7SL700P,GNG5P5",Median relapse-independent longitudinal age-related multiple sclerosis severity score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274850,13:47431879,36448302,Jokubaitis VG
+rs12976899-G,1E-05,-,0.454,-,0.3829 unit increase,-,"USP29,RPL7AP69",Median relapse-independent longitudinal age-related multiple sclerosis severity score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274850,19:57087538,36448302,Jokubaitis VG
+rs58352802-A,9E-06,-,0.124,-,0.5665 unit decrease,-,"DSG4,DSG1-AS1",Median relapse-independent longitudinal age-related multiple sclerosis severity score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274850,18:31407482,36448302,Jokubaitis VG
+rs7583400-G,8E-06,-,0.349,-,0.3974 unit decrease,-,TMEM17,Median relapse-independent longitudinal age-related multiple sclerosis severity score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274850,2:62500310,36448302,Jokubaitis VG
+rs7315384-C,1E-07,-,0.24,-,1.041 unit increase,-,STAB2,Median relapse-independent longitudinal age-related multiple sclerosis severity score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274851,12:103659642,36448302,Jokubaitis VG
+rs7070182-C,4E-07,-,0.18,-,1.112 unit decrease,-,TCF7L2,Median relapse-independent longitudinal age-related multiple sclerosis severity score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274851,10:113062939,36448302,Jokubaitis VG
+rs11845242-G,6E-07,-,0.41,-,0.8 unit decrease,-,LINC00520,Median relapse-independent longitudinal age-related multiple sclerosis severity score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274851,14:55787949,36448302,Jokubaitis VG
+rs3885012-G,1E-06,-,0.06,-,1.499 unit decrease,-,"SNORA70,RN7SL734P",Median relapse-independent longitudinal age-related multiple sclerosis severity score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274851,12:75919395,36448302,Jokubaitis VG
+rs698805-G,6E-06,-,0.0748,-,1.4199 unit decrease,-,CAMKMT,Median relapse-independent longitudinal age-related multiple sclerosis severity score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274851,2:44473990,36448302,Jokubaitis VG
+rs1219732-T,6E-08,-,0.35,-,0.569 unit increase,-,CPXM2,Median relapse-independent longitudinal age-related multiple sclerosis severity score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274852,10:123767944,36448302,Jokubaitis VG
+rs10967273-T,1E-07,-,0.13,-,0.799 unit increase,-,"CAAP1,GARIN3P1",Median relapse-independent longitudinal age-related multiple sclerosis severity score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274852,9:26257387,36448302,Jokubaitis VG
+rs4572384-A,3E-06,-,0.4,-,0.487 unit increase,-,"CRISPLD2,USP10",Median relapse-independent longitudinal age-related multiple sclerosis severity score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274852,16:84809371,36448302,Jokubaitis VG
+rs2776741-A,3E-06,-,0.31,-,0.516 unit decrease,-,"NIPAL3,RCAN3AS",Median relapse-independent longitudinal age-related multiple sclerosis severity score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274852,1:24485005,36448302,Jokubaitis VG
+rs1207401-A,3E-07,-,0.27,-,0.484 unit decrease,-,SEZ6L,Median relapse-independent longitudinal Multiple Sclerosis Severity Scale score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274853,22:26239582,36448302,Jokubaitis VG
+rs7289446-G,3E-07,-,0.27,-,0.479 unit decrease,-,SEZ6L,Median relapse-independent longitudinal Multiple Sclerosis Severity Scale score in relapse-onset multiple sclerosis,multiple sclerosis symptom measurement,relapsing-remitting multiple sclerosis,GCST90274853,22:26240110,36448302,Jokubaitis VG
+rs9292777-T,1E-09,-,NR,1.19,-,[1.12-1.25],"RNU1-150P,TTC33",Multiple sclerosis,multiple sclerosis,-,GCST001505,5:40437846,22570697,Matesanz F
+rs12722489-C,3E-08, ,0.85,1.25,-,[1.11-1.36],IL2RA,Multiple sclerosis,multiple sclerosis,-,GCST000062,10:6060049,17660530,Hafler DA
+rs6604026-C,8E-06,-,0.29,1.15,-,[1.08-1.22],"DIPK1A,RPL5",Multiple sclerosis,multiple sclerosis,-,GCST000062,1:92838046,17660530,Hafler DA
+rs10984447-A,8E-06, ,0.77,1.17,-,[1.09-1.25],BRINP1,Multiple sclerosis,multiple sclerosis,-,GCST000062,9:119222275,17660530,Hafler DA
+rs3135388-A,9E-81, ,0.23,1.99,-,[1.84-2.15],"HLA-DRB9,HLA-DRA",Multiple sclerosis,multiple sclerosis,-,GCST000062,6:32445274,17660530,Hafler DA
+rs6498169-G,4E-06,-,0.37,1.14,-,[1.08-1.21],CLEC16A,Multiple sclerosis,multiple sclerosis,-,GCST000062,16:11155472,17660530,Hafler DA
+rs6897932-C,3E-07, ,0.75,1.18,-,[1.11-1.26],IL7R,Multiple sclerosis,multiple sclerosis,-,GCST000062,5:35874473,17660530,Hafler DA
+rs10492972-C,3E-10,-,0.27,1.34,-,[1.23-1.48],KIF1B,Multiple sclerosis,multiple sclerosis,-,GCST000263,1:10293054,18997785,Aulchenko YS
+rs3129934-T,7E-16,-,0.10,2.34,-,[1.90-2.87],"TSBP1,TSBP1-AS1",Multiple sclerosis,multiple sclerosis,-,GCST001459,6:32368410,22457343,Martinelli-Boneschi F
+rs9320598-?,9E-07,-,0.951,2.17,-,[NR],"MIR2113,MMS22L",Multiple sclerosis (OCB status),multiple sclerosis,-,GCST002072,6:97571204,23785401,Leone MA
+rs6659742-?,7E-07,(OCB negative vs. controls),NR,1.99,-,[1.52-2.61],SNHG28,Multiple sclerosis (OCB status),"oligoclonal band measurement,multiple sclerosis",-,GCST001892,1:159848723,23472185,Mero IL
+rs9283487-?,3E-07,(OCB positive vs. controls),NR,1.61,-,[1.33-1.92],-,Multiple sclerosis (OCB status),"oligoclonal band measurement,multiple sclerosis",-,GCST001892,-,23472185,Mero IL
+rs3817963-?,8E-06,(OCB positive vs. controls),NR,1.52,-,[1.27-1.79],"BTNL2,TSBP1-AS1",Multiple sclerosis (OCB status),"oligoclonal band measurement,multiple sclerosis",-,GCST001892,6:32400310,23472185,Mero IL
+rs3129871-?,1E-16,(OCB positive vs. controls),NR,1.98,-,[1.68-2.32],"HLA-DRA,TSBP1-AS1",Multiple sclerosis (OCB status),"oligoclonal band measurement,multiple sclerosis",-,GCST001892,6:32438565,23472185,Mero IL
+rs3828840-?,5E-15,(OCB positive vs. controls),NR,1.94,-,[1.64-2.29],HLA-DRB6,Multiple sclerosis (OCB status),"oligoclonal band measurement,multiple sclerosis",-,GCST001892,6:32553130,23472185,Mero IL
+rs9271640-?,2E-20,(OCB positive vs. controls),NR,2.37,-,[1.97-2.84],"HLA-DQA1,HLA-DRB1",Multiple sclerosis (OCB status),"oligoclonal band measurement,multiple sclerosis",-,GCST001892,6:32624423,23472185,Mero IL
+rs9275563-?,6E-11,(OCB positive vs. controls),NR,1.75,-,[1.47-2.04],"HLA-DQB3,MTCO3P1",Multiple sclerosis (OCB status),"oligoclonal band measurement,multiple sclerosis",-,GCST001892,6:32710135,23472185,Mero IL
+rs3129720-?,5E-15,(OCB positive vs. controls),NR,1.91,-,[1.62-2.24],"MTCO3P1,HLA-DQB1",Multiple sclerosis (OCB status),"oligoclonal band measurement,multiple sclerosis",-,GCST001892,6:32695854,23472185,Mero IL
+rs17411949-?,8E-07,-,NR,1.85,-,[1.45-2.37],CLSTN2,Multiple sclerosis (OCB status),multiple sclerosis,-,GCST001891,3:140380851,23472185,Mero IL
+rs3817963-?,6E-10,-,NR,1.61,-,[1.38-1.87],"BTNL2,TSBP1-AS1",Multiple sclerosis (OCB status),multiple sclerosis,-,GCST001891,6:32400310,23472185,Mero IL
+rs3129871-?,6E-15,-,NR,1.72,-,[1.59-1.86],"HLA-DRA,TSBP1-AS1",Multiple sclerosis (OCB status),multiple sclerosis,-,GCST001891,6:32438565,23472185,Mero IL
+rs3761959-?,1E-06,-,NR,-,-,[0.8596-0.9422],FCRL3,Multiple sclerosis and LDL levels (pleiotropy),"low density lipoprotein cholesterol measurement,multiple sclerosis",-,GCST007123,1:157699488,26920376,Wang Y
+rs4409785-?,6E-06,-,NR,-,-,[0.8432-0.9405],"FAM76B,LNCRNA-IUR",Multiple sclerosis and LDL levels (pleiotropy),"low density lipoprotein cholesterol measurement,multiple sclerosis",-,GCST007123,11:95578258,26920376,Wang Y
+rs4792814-?,5E-06,-,NR,-,-,[0.8694-0.9496],"RNA5SP443,MAP3K14",Multiple sclerosis and LDL levels (pleiotropy),"low density lipoprotein cholesterol measurement,multiple sclerosis",-,GCST007123,17:45325639,26920376,Wang Y
+rs2413436-?,9E-06,-,NR,-,-,[1.0437-1.1088],CSF2RB,Multiple sclerosis and LDL levels (pleiotropy),"low density lipoprotein cholesterol measurement,multiple sclerosis",-,GCST007123,22:36916519,26920376,Wang Y
+rs12756986-?,4E-06,-,NR,-,-,[1.068-1.1594],"DPH5-DT,S1PR1-DT",Multiple sclerosis and HDL levels (pleiotropy),"high density lipoprotein cholesterol measurement,multiple sclerosis",-,GCST007124,1:101139197,26920376,Wang Y
+rs3095350-?,2E-10,-,NR,-,-,-,"RN7SKP186,LINC02570",Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:30850089,37377963,Wen YP
+rs2523545-?,3E-10,-,NR,-,-,-,HLA-B,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:31365722,37377963,Wen YP
+rs9261269-?,4E-10,-,NR,-,-,-,POLR1H,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:30062337,37377963,Wen YP
+rs9273011-?,6E-10,-,NR,-,-,-,HLA-DQA1,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:32643834,37377963,Wen YP
+rs9261425-?,1E-09,-,NR,-,-,-,TRIM31-AS1,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:30113331,37377963,Wen YP
+rs1264372-?,1E-09,-,NR,-,-,-,LINC00243,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:30801949,37377963,Wen YP
+rs41288889-?,1E-09,-,NR,-,-,-,HLA-DQA2,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:32744232,37377963,Wen YP
+rs3132131-?,1E-09,-,NR,-,-,-,"HLA-Z,HLA-DMB",Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:32931708,37377963,Wen YP
+rs112586220-?,2E-09,-,NR,-,-,-,H2BC15,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:27839049,37377963,Wen YP
+rs2281816-?,3E-09,-,NR,-,-,-,"MLN,LINC01016",Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:33804558,37377963,Wen YP
+rs13190937-?,3E-09,-,NR,-,-,-,ZSCAN23,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:28443467,37377963,Wen YP
+rs1055569-?,3E-09,-,NR,-,-,-,HCP5,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:31472305,37377963,Wen YP
+rs213204-?,4E-09,-,NR,-,-,-,RPS18,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:33273299,37377963,Wen YP
+rs9296088-?,5E-09,-,NR,-,-,-,"COL11A2,HCG24",Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:33157965,37377963,Wen YP
+rs417812-?,6E-09,-,NR,-,-,-,HLA-DOA,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:33006304,37377963,Wen YP
+rs9266380-?,6E-09,-,NR,-,-,-,"DHFRP2,HLA-B",Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:31366700,37377963,Wen YP
+rs3763308-?,7E-09,-,NR,-,-,-,"TSBP1-AS1,BTNL2",Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:32406863,37377963,Wen YP
+rs6911639-?,1E-08,-,NR,-,-,-,"HLA-DOA,HLA-DPA1",Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:33010401,37377963,Wen YP
+rs76864766-?,2E-08,-,NR,-,-,-,"HMGN4,ABT1",Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:26577173,37377963,Wen YP
+rs3763354-?,5E-29,-,NR,-,-,-,HLA-DOB,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:32819140,37377963,Wen YP
+rs9275602-?,2E-26,-,NR,-,-,-,"HLA-DQB3,MTCO3P1",Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:32715035,37377963,Wen YP
+rs2269423-?,6E-22,-,NR,-,-,-,AGPAT1,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:32177930,37377963,Wen YP
+rs2284178-?,2E-21,-,NR,-,-,-,HCP5,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:31464348,37377963,Wen YP
+rs3749981-?,4E-20,-,NR,-,-,-,"PPP1R2P1,HLA-Z",Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:32894905,37377963,Wen YP
+rs9368737-?,8E-20,-,NR,-,-,-,"HLA-DQB1,MTCO3P1",Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:32690652,37377963,Wen YP
+rs9275698-?,2E-19,-,NR,-,-,-,"HLA-DQB3,MTCO3P1",Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:32720196,37377963,Wen YP
+rs6679677-?,2E-19,-,NR,-,-,-,"RSBN1,PHTF1",Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,1:113761186,37377963,Wen YP
+rs440841-?,4E-17,-,NR,-,-,-,"HLA-DPA1,HLA-DOA",Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:33051866,37377963,Wen YP
+rs16870908-?,8E-10,-,NR,-,-,-,TAP2,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:32822312,37377963,Wen YP
+rs465151-?,7E-17,-,NR,-,-,-,WDR46,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:33287592,37377963,Wen YP
+rs115277907-?,3E-16,-,NR,-,-,-,C2,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:31933313,37377963,Wen YP
+rs9273529-?,4E-16,-,NR,-,-,-,HLA-DQB1,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:32660921,37377963,Wen YP
+rs2975043-?,5E-16,-,NR,-,-,-,"HLA-W,HLA-A",Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:29950957,37377963,Wen YP
+rs9266658-?,7E-16,-,NR,-,-,-,"FGFR3P1,ZDHHC20P2",Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:31379867,37377963,Wen YP
+rs2239707-?,1E-15,-,NR,-,-,-,NFKBIL1,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:31557542,37377963,Wen YP
+rs8283-?,3E-15,-,NR,-,-,-,ATF6B,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:32115523,37377963,Wen YP
+rs2534671-?,2E-14,-,NR,-,-,-,MICB,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:31497884,37377963,Wen YP
+rs2523589-?,8E-14,-,NR,-,-,-,HLA-B,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:31359557,37377963,Wen YP
+rs3873444-?,1E-13,-,NR,-,-,-,"HLA-DQB3,MTCO3P1",Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:32714947,37377963,Wen YP
+rs17208314-?,4E-13,-,NR,-,-,-,TSBP1-AS1,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:32287994,37377963,Wen YP
+rs7743807-?,1E-12,-,NR,-,-,-,EHMT2,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:31886766,37377963,Wen YP
+rs3819715-?,1E-12,-,NR,-,-,-,TAP2,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:32836442,37377963,Wen YP
+rs3218816-?,1E-12,-,NR,-,-,-,GTF2H4,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:30911080,37377963,Wen YP
+rs144595899-?,1E-12,-,NR,-,-,-,ATF6B,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:32120825,37377963,Wen YP
+rs9267821-?,2E-12,-,NR,-,-,-,NOTCH4,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:32201797,37377963,Wen YP
+rs2859448-?,2E-12,-,NR,-,-,-,HCP5,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:31468496,37377963,Wen YP
+rs2157338-?,3E-12,-,NR,-,-,-,HLA-DRB9,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:32471546,37377963,Wen YP
+rs9461856-?,3E-12,-,NR,-,-,-,SYNGAP1,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:33427422,37377963,Wen YP
+rs9265549-?,4E-12,-,NR,-,-,-,"LINC02571,HLA-B",Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:31330463,37377963,Wen YP
+rs3830041-?,8E-12,-,NR,-,-,-,NOTCH4,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:32223562,37377963,Wen YP
+rs7731626-?,3E-11,-,NR,-,-,-,ANKRD55,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,5:56148856,37377963,Wen YP
+rs4711253-?,4E-11,-,NR,-,-,-,"HCG22,MUC22",Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:31039304,37377963,Wen YP
+rs3134931-?,2E-10,-,NR,-,-,-,NOTCH4,Rheumatoid arthritis or multiple sclerosis,"rheumatoid arthritis,multiple sclerosis",-,GCST90302861,6:32222843,37377963,Wen YP
+rs669607-C,1E-10,-,NR,1.18,-,[1.12-1.24],LINC01967,Multiple sclerosis,multiple sclerosis,-,GCST90132190,3:28029953,35545683,Sorosina M
+rs1870071-C,3E-08,-,NR,1.16,-,[1.1-1.23],EPS15L1,Multiple sclerosis,multiple sclerosis,-,GCST90132190,19:16394295,35545683,Sorosina M
+rs12025416-?,3E-08,-,NR,-,-,-,"LINC01762,CD58",B-cell lymphoblastic leukemia or multiple sclerosis (pleiotropy),"B-cell acute lymphoblastic leukemia,multiple sclerosis",-,GCST90428833,1:116495665,38616254,Yu X
+rs9494168-?,1E-08,-,NR,-,-,-,"HBS1L,MYB",B-cell lymphoblastic leukemia or multiple sclerosis (pleiotropy),"B-cell acute lymphoblastic leukemia,multiple sclerosis",-,GCST90428833,6:135169288,38616254,Yu X
+rs7385730-?,2E-13,-,NR,-,-,-,"IKZF1,SPMIP7",B-cell lymphoblastic leukemia or multiple sclerosis (pleiotropy),"B-cell acute lymphoblastic leukemia,multiple sclerosis",-,GCST90428833,7:50279342,38616254,Yu X
+rs10102877-?,2E-09,-,NR,-,-,-,"ZC2HC1A,IL7",B-cell lymphoblastic leukemia or multiple sclerosis (pleiotropy),"B-cell acute lymphoblastic leukemia,multiple sclerosis",-,GCST90428833,8:78686127,38616254,Yu X
+rs3781092-?,9E-10,-,NR,-,-,-,GATA3,B-cell lymphoblastic leukemia or multiple sclerosis (pleiotropy),"B-cell acute lymphoblastic leukemia,multiple sclerosis",-,GCST90428833,10:8064390,38616254,Yu X
+rs17413179-?,1E-10,-,NR,-,-,-,"EBLN1,ADIPOR1P1",B-cell lymphoblastic leukemia or multiple sclerosis (pleiotropy),"B-cell acute lymphoblastic leukemia,multiple sclerosis",-,GCST90428833,10:22189212,38616254,Yu X
+rs2836438-?,5E-09,-,NR,-,-,-,ERG,B-cell lymphoblastic leukemia or multiple sclerosis (pleiotropy),"B-cell acute lymphoblastic leukemia,multiple sclerosis",-,GCST90428833,21:38492803,38616254,Yu X
+rs2300747-A,3E-10,-,0.88,1.3,-,[1.14-1.47],CD58,Multiple sclerosis,multiple sclerosis,-,GCST000424,1:116561593,19525953,De Jager PL
+rs3135388-A,4E-225,-,0.22,2.75,-,[2.46-3.07],"HLA-DRB9,HLA-DRA",Multiple sclerosis,multiple sclerosis,-,GCST000424,6:32445274,19525953,De Jager PL
+rs2523393-A,1E-17,-,0.59,1.28,-,[1.18-1.39],"HLA-F-AS1,HLA-F",Multiple sclerosis,multiple sclerosis,-,GCST000424,6:29737882,19525953,De Jager PL
+rs4680534-C,6E-06,-,0.37,1.12,-,[1.02-1.22],IL12A-AS1,Multiple sclerosis,multiple sclerosis,-,GCST000424,3:159981157,19525953,De Jager PL
+rs2104286-T,9E-08,-,0.76,1.15,-,[1.04-1.27],IL2RA,Multiple sclerosis,multiple sclerosis,-,GCST000424,10:6057082,19525953,De Jager PL
+rs4149584-T,5E-06,-,0.022,1.58,-,[1.15-2.17],TNFRSF1A,Multiple sclerosis,multiple sclerosis,-,GCST000424,12:6333477,19525953,De Jager PL
+rs882300-C,1E-07,-,0.61,1.19,-,[1.09-1.30],"HNRNPKP2,UBBP1",Multiple sclerosis,multiple sclerosis,-,GCST000424,2:136218685,19525953,De Jager PL
+rs11865121-C,2E-07,-,0.69,1.15,-,[1.04-1.25],CLEC16A,Multiple sclerosis,multiple sclerosis,-,GCST000424,16:11072831,19525953,De Jager PL
+rs6897932-C,2E-06,-,0.75,1.12,-,[1.02-1.23],IL7R,Multiple sclerosis,multiple sclerosis,-,GCST000424,5:35874473,19525953,De Jager PL
+rs17445836-G,4E-09,-,0.81,1.25,-,[1.12-1.39],"LINC02132,LINC01082",Multiple sclerosis,multiple sclerosis,-,GCST000424,16:85984057,19525953,De Jager PL
+rs17824933-G,4E-09,-,0.25,1.18,-,[1.07-1.30],CD6,Multiple sclerosis,multiple sclerosis,-,GCST000424,11:60993140,19525953,De Jager PL
+rs6896969-C,2E-07,-,0.62,1.1,-,[1.01-1.20],"TTC33,RNU1-150P",Multiple sclerosis,multiple sclerosis,-,GCST000424,5:40424324,19525953,De Jager PL
+rs1790100-G,7E-07,-,0.24,1.11,-,[1.00-1.22],MPHOSPH9,Multiple sclerosis,multiple sclerosis,-,GCST000424,12:123172178,19525953,De Jager PL
+rs1250540-G,2E-06,-,0.35,1.12,-,[1.02-1.22],ZMIZ1,Multiple sclerosis,multiple sclerosis,-,GCST000424,10:79276250,19525953,De Jager PL
+rs1800693-C,2E-11,-,0.45,1.2,-,[1.10-1.31],TNFRSF1A,Multiple sclerosis,multiple sclerosis,-,GCST000424,12:6330843,19525953,De Jager PL
+rs3135338-A,2E-25,-,0.13,3.43,-,[NR],"HLA-DRA,TSBP1-AS1",Multiple sclerosis,multiple sclerosis,-,GCST000593,6:32433440,20159113,Jakkula E
+rs744166-G,3E-10,-,0.41,1.15,-,[1.10-1.20],STAT3,Multiple sclerosis,multiple sclerosis,-,GCST000593,17:42362183,20159113,Jakkula E
+rs1458175-?,2E-06,-,0.49,1.34,-,[NR],PDZRN4,Multiple sclerosis,multiple sclerosis,-,GCST000269,12:41572059,19010793,Baranzini SE
+rs908821-?,3E-06,-,0.71,1.37,-,[NR],"TRIM42,RPL23AP41",Multiple sclerosis,multiple sclerosis,-,GCST000269,3:140821876,19010793,Baranzini SE
+rs7672826-?,8E-06,-,0.34,1.37,-,[NR],"LINC02500,TEMN3-AS1",Multiple sclerosis,multiple sclerosis,-,GCST000269,4:181478542,19010793,Baranzini SE
+rs9523762-?,1E-06,-,0.35,1.36,-,[NR],GPC5,Multiple sclerosis,multiple sclerosis,-,GCST000269,13:92679633,19010793,Baranzini SE
+rs1529316-?,2E-06,-,0.47,1.36,-,[NR],CSMD1,Multiple sclerosis,multiple sclerosis,-,GCST000269,8:3970616,19010793,Baranzini SE
+rs1755289-?,3E-06,-,0.61,1.35,-,[NR],ADAMTSL1,Multiple sclerosis,multiple sclerosis,-,GCST000269,9:17938353,19010793,Baranzini SE
+rs397020-?,8E-07,-,0.52,1.41,-,[NR],"C20orf202,RAD21L1",Multiple sclerosis,multiple sclerosis,-,GCST000269,20:1225242,19010793,Baranzini SE
+rs1109670-?,9E-06,-,0.26,1.38,-,[NR],"RPL30P3,ASAP2",Multiple sclerosis,multiple sclerosis,-,GCST000269,2:9109909,19010793,Baranzini SE
+rs651477-?,7E-06,-,0.26,1.38,-,[NR],"THORLNC,LINC01956",Multiple sclerosis,multiple sclerosis,-,GCST000269,2:118638115,19010793,Baranzini SE
+rs1841770-?,8E-06,-,0.53,1.34,-,[NR],"LINC02032,NPM1P28",Multiple sclerosis,multiple sclerosis,-,GCST000269,3:148038899,19010793,Baranzini SE
+rs1437898-?,8E-06,-,0.40,-,-,[NR],NCKAP5,Multiple sclerosis (age of onset),"age at onset,multiple sclerosis",-,GCST000267,2:132989057,19010793,Baranzini SE
+rs1557351-?,4E-06,-,0.22,-,-,[NR],"BOD1L2,LINC-ROR",Multiple sclerosis (age of onset),"age at onset,multiple sclerosis",-,GCST000267,18:57085083,19010793,Baranzini SE
+rs17157903-?,3E-06,-,0.14,-,-,[NR],RELN,Multiple sclerosis (age of onset),"age at onset,multiple sclerosis",-,GCST000267,7:103987589,19010793,Baranzini SE
+rs2116078-?,3E-06,-,0.48,-,-,[NR],"RNA5SP271,KCNB2",Multiple sclerosis (age of onset),"age at onset,multiple sclerosis",-,GCST000267,8:72451754,19010793,Baranzini SE
+rs4704970-?,7E-06,-,0.20,-,-,[NR],SGCD,Multiple sclerosis (age of onset),"age at onset,multiple sclerosis",-,GCST000267,5:156073982,19010793,Baranzini SE
+rs1386330-?,2E-06,-,0.13,-,-,[NR],"Y_RNA,MTCYBP41",Multiple sclerosis (age of onset),"age at onset,multiple sclerosis",-,GCST000267,11:88086259,19010793,Baranzini SE
+rs2842483-?,5E-06,-,0.29,-,-,[NR],PCSK5,Multiple sclerosis (age of onset),"age at onset,multiple sclerosis",-,GCST000267,9:76291234,19010793,Baranzini SE
+rs12047808-?,6E-06,-,0.13,-,-,[NR],AXDND1,Multiple sclerosis (age of onset),"age at onset,multiple sclerosis",-,GCST000267,1:179500179,19010793,Baranzini SE
+rs1927457-?,8E-06,-,0.31,-,-,[NR],SVIL,Normalized brain volume,multiple sclerosis,-,GCST000268,10:29719734,19010793,Baranzini SE
+rs11957313-?,9E-06,-,0.13,-,-,[NR],KCNIP1,Normalized brain volume,multiple sclerosis,-,GCST000268,5:170523390,19010793,Baranzini SE
+rs9480865-?,7E-06,-,0.16,-,-,[NR],FOXO3,Normalized brain volume,multiple sclerosis,-,GCST000268,6:108595370,19010793,Baranzini SE
+rs716595-?,8E-06,-,0.08,-,-,[NR],MXI1,Normalized brain volume,multiple sclerosis,-,GCST000268,10:110246728,19010793,Baranzini SE
+rs261902-?,4E-06,-,0.16,-,-,[NR],BICD1,Normalized brain volume,multiple sclerosis,-,GCST000268,12:32323793,19010793,Baranzini SE
+rs11666377-?,7E-06,-,0.14,-,-,[NR],CPAMD8,Brain lesion load,multiple sclerosis,-,GCST000265,19:17007623,19010793,Baranzini SE
+rs2039485-?,6E-06,-,0.22,-,-,[NR],"NUBPL,LINC02313",Brain lesion load,multiple sclerosis,-,GCST000265,14:31884044,19010793,Baranzini SE
+rs6917747-?,7E-06,-,0.15,-,-,[NR],IGF2R,Brain lesion load,multiple sclerosis,-,GCST000265,6:159981673,19010793,Baranzini SE
+rs2602397-?,4E-06,-,0.45,-,-,[NR],LPP,Brain lesion load,multiple sclerosis,-,GCST000265,3:188205927,19010793,Baranzini SE
+rs10243024-?,6E-06,-,0.23,-,-,[NR],MET,Multiple sclerosis (severity),multiple sclerosis,-,GCST000266,7:116706549,19010793,Baranzini SE
+rs299175-?,4E-06,-,0.46,-,-,[NR],NLRP11,Multiple sclerosis (severity),multiple sclerosis,-,GCST000266,19:55802162,19010793,Baranzini SE
+rs7253363-?,9E-06,-,0.05,-,-,[NR],ZNF627,Multiple sclerosis (severity),multiple sclerosis,-,GCST000266,19:11571680,19010793,Baranzini SE
+rs10259085-?,4E-06,-,0.46,-,-,[NR],C1GALT1,Multiple sclerosis (severity),multiple sclerosis,-,GCST000266,7:7228800,19010793,Baranzini SE
+rs180358-?,6E-06,-,0.23,-,-,[NR],"BUD13,LINC02702",Multiple sclerosis (severity),multiple sclerosis,-,GCST000266,11:116728676,19010793,Baranzini SE
+rs1478091-?,2E-06,-,0.06,-,-,[NR],"RNU6-224P,GAPDHP56",Multiple sclerosis (severity),multiple sclerosis,-,GCST000266,4:130869346,19010793,Baranzini SE
+rs7191888-?,6E-06,-,0.17,-,-,[NR],ZFHX3,Multiple sclerosis (severity),multiple sclerosis,-,GCST000266,16:73547159,19010793,Baranzini SE
+rs12638253-?,2E-06,-,0.47,-,-,[NR],LEKR1,Multiple sclerosis (severity),multiple sclerosis,-,GCST000266,3:156908302,19010793,Baranzini SE
+rs337718-?,9E-06,-,0.29,-,-,[NR],"CBLN2,LINC01899",Multiple sclerosis (severity),multiple sclerosis,-,GCST000266,18:72107043,19010793,Baranzini SE
+rs10518025-?,4E-06,-,0.14,-,-,[NR],"RNU1-63P,RNU6-699P",Multiple sclerosis (severity),multiple sclerosis,-,GCST000266,4:67198722,19010793,Baranzini SE
+rs6941421-?,6E-06,-,0.24,-,-,[NR],"RPL6P17,RNU6-793P",Multiple sclerosis (severity),multiple sclerosis,-,GCST000266,6:15088920,19010793,Baranzini SE
+rs9657904-T,2E-10,-,0.826,1.4,-,[1.27-1.57],CBLB,Multiple sclerosis,multiple sclerosis,-,GCST000680,3:105867870,20453840,Sanna S
+rs2040406-G,1E-20,-,0.26,2.05,-,[NR],HLA-DQA1,Multiple sclerosis,multiple sclerosis,-,GCST000680,6:32635230,20453840,Sanna S
+rs2935183-?,5E-07,-,NR,-,-,-,NPEPPS,Multiple sclerosis or amyotrophic lateral sclerosis,"amyotrophic lateral sclerosis,multiple sclerosis",-,GCST002274,17:47530206,24234648,Goris A
+rs11808092-A,2E-08,-,NR,-,-,-,EVI5,Epstein Barr virus nuclear antigen 1 IgG levels or multiple sclerosis,"Epstein Barr virus nuclear antigen 1 IgG measurement,multiple sclerosis",-,GCST003340,1:92607671,26819262,Zhou Y
+rs669607-A,4E-09,-,NR,-,-,-,LINC01967,Epstein Barr virus nuclear antigen 1 IgG levels or multiple sclerosis,"Epstein Barr virus nuclear antigen 1 IgG measurement,multiple sclerosis",-,GCST003340,3:28029953,26819262,Zhou Y
+rs2255214-T,5E-08,-,NR,-,-,-,"CD86,Y_RNA",Epstein Barr virus nuclear antigen 1 IgG levels or multiple sclerosis,"Epstein Barr virus nuclear antigen 1 IgG measurement,multiple sclerosis",-,GCST003340,3:122051692,26819262,Zhou Y
+rs12722561-C,6E-08,-,NR,-,-,-,IL2RA,Epstein Barr virus nuclear antigen 1 IgG levels or multiple sclerosis,"Epstein Barr virus nuclear antigen 1 IgG measurement,multiple sclerosis",-,GCST003340,10:6027930,26819262,Zhou Y
+rs6662618-?,3E-10,-,NR,-,-,[1.0965-1.1754],"GFI1,RN7SL824P",Multiple sclerosis and type 2 diabetes (pleiotropy),"type 2 diabetes mellitus,multiple sclerosis",-,GCST007120,1:92469854,26920376,Wang Y
+rs11864333-?,8E-06,-,NR,-,-,[1.0444-1.1097],"LITAF,RMI2",Multiple sclerosis and type 2 diabetes (pleiotropy),"type 2 diabetes mellitus,multiple sclerosis",-,GCST007120,16:11381719,26920376,Wang Y
+rs11256593-T,4E-09,-,NR,1.06,-,[0.92-1.23],"RBM17,RPL32P23",Multiple sclerosis,multiple sclerosis,-,GCST90132190,10:6075359,35545683,Sorosina M
+rs11079784-C,8E-10,-,NR,1.16,-,[1.11-1.22],KPNB1-DT,Multiple sclerosis,multiple sclerosis,-,GCST90132190,17:47624914,35545683,Sorosina M
+rs6065926-A,9E-09,-,NR,1.16,-,[1.11-1.23],"CD40,RPL13P2",Multiple sclerosis,multiple sclerosis,-,GCST90132190,20:46107215,35545683,Sorosina M
+rs6498160-T,7E-08,-,0.36,1.27,-,-,CLEC16A,Multiple sclerosis,multiple sclerosis,-,GCST004290,16:11105590,28445677,Steri M
+rs60733400-G,1E-06,-,0.702,1.27,-,-,"TNFRSF14,PRXL2B",Multiple sclerosis,multiple sclerosis,-,GCST004290,1:2585342,28445677,Steri M
+rs9657904-T,2E-07,-,0.832,1.37,-,-,CBLB,Multiple sclerosis,multiple sclerosis,-,GCST004290,3:105867870,28445677,Steri M
+rs78077440-G,2E-06,-,0.716,1.26,-,-,"TTC33,RNU1-150P",Multiple sclerosis,multiple sclerosis,-,GCST004290,5:40323665,28445677,Steri M
+rs12253981-G,1E-09,-,0.519,1.31,-,-,IL2RA,Multiple sclerosis,multiple sclerosis,-,GCST004290,10:6050383,28445677,Steri M
+rs1335532-A,1E-07,-,0.87,1.28,-,[NR],CD58,Multiple sclerosis,multiple sclerosis,-,GCST000425,1:116558335,19525955,Bahlo M
+rs6604026-G,3E-06,-,0.28,1.17,-,[NR],"DIPK1A,RPL5",Multiple sclerosis,multiple sclerosis,-,GCST000425,1:92838046,19525955,Bahlo M
+rs703842-A,5E-11,-,0.67,1.23,-,[NR],"CYP27B1,METTL1",Multiple sclerosis,multiple sclerosis,-,GCST000425,12:57768956,19525955,Bahlo M
+rs9271366-G,7E-184,-,0.15,2.78,-,[NR],"HLA-DQA1,HLA-DRB1",Multiple sclerosis,multiple sclerosis,-,GCST000425,6:32619077,19525955,Bahlo M
+rs2104286-A,7E-06,-,0.73,1.16,-,[NR],IL2RA,Multiple sclerosis,multiple sclerosis,-,GCST000425,10:6057082,19525955,Bahlo M
+rs6074022-G,1E-07,-,0.25,1.2,-,[NR],"RPL13P2,CD40",Multiple sclerosis,multiple sclerosis,-,GCST000425,20:46111557,19525955,Bahlo M
+rs8049603-T,1E-06,-,0.20,1.19,-,[NR],"USP31,HS3ST2",Multiple sclerosis,multiple sclerosis,-,GCST000425,16:23055939,19525955,Bahlo M
+rs6984045-C,2E-06,-,0.02,1.59,-,[NR],ASAP1,Multiple sclerosis,multiple sclerosis,-,GCST000425,8:130080167,19525955,Bahlo M
+rs2150702-G,3E-08,-,0.49,1.16,-,[NR],"MLANA,KIAA2026",Multiple sclerosis,multiple sclerosis,-,GCST001341,9:5893861,22190364,Patsopoulos NA
+rs6718520-A,3E-08,-,0.48,1.17,-,[NR],LINC02580,Multiple sclerosis,multiple sclerosis,-,GCST001341,2:43098432,22190364,Patsopoulos NA
+rs2300747-A,6E-09,-,0.91,1.37,-,[NR],CD58,Multiple sclerosis,multiple sclerosis,-,GCST001341,1:116561593,22190364,Patsopoulos NA
+rs3129889-G,1E-206,-,0.20,2.97,-,[NR],"HLA-DRB9,HLA-DRA",Multiple sclerosis,multiple sclerosis,-,GCST001341,6:32445768,22190364,Patsopoulos NA
+rs2293152-C,4E-08,-,0.62,1.22,-,[NR],STAT3,Multiple sclerosis,multiple sclerosis,-,GCST001341,17:42329511,22190364,Patsopoulos NA
+rs6074022-C,5E-06,-,0.27,1.15,-,[NR],"RPL13P2,CD40",Multiple sclerosis,multiple sclerosis,-,GCST001341,20:46111557,22190364,Patsopoulos NA
+rs2546890-A,8E-08,-,0.52,1.16,-,[NR],"LINC01845,IL12B",Multiple sclerosis,multiple sclerosis,-,GCST001341,5:159332892,22190364,Patsopoulos NA
+rs8070463-T,1E-07,-,0.50,1.15,-,[NR],"KPNB1,TBKBP1",Multiple sclerosis,multiple sclerosis,-,GCST001341,17:47691470,22190364,Patsopoulos NA
+rs2681424-T,2E-07,-,0.40,1.16,-,[NR],"Y_RNA,CD86",Multiple sclerosis,multiple sclerosis,-,GCST001341,3:122050675,22190364,Patsopoulos NA
+rs1738074-C,4E-07,-,0.58,1.15,-,[NR],"TAGAP,TAGAP-AS1",Multiple sclerosis,multiple sclerosis,-,GCST001341,6:159044945,22190364,Patsopoulos NA
+rs1250542-A,4E-07,-,0.37,1.15,-,[NR],ZMIZ1,Multiple sclerosis,multiple sclerosis,-,GCST001341,10:79274913,22190364,Patsopoulos NA
+rs7191700-C,6E-07,-,0.67,1.15,-,[NR],RMI2,Multiple sclerosis,multiple sclerosis,-,GCST001341,16:11312946,22190364,Patsopoulos NA
+rs9596270-T,7E-07,-,0.93,1.35,-,[NR],DLEU1,Multiple sclerosis,multiple sclerosis,-,GCST001341,13:50268304,22190364,Patsopoulos NA
+rs10866713-A,7E-07,-,0.22,1.17,-,[NR],"LINC01845,LINC01847",Multiple sclerosis,multiple sclerosis,-,GCST001341,5:159491886,22190364,Patsopoulos NA
+rs170934-T,2E-08,-,0.48,1.17,-,[NR],LINC01967,Multiple sclerosis,multiple sclerosis,-,GCST001341,3:28037594,22190364,Patsopoulos NA
+rs9260489-T,1E-11,-,0.45,1.21,-,[NR],"HLA-W,HLA-A",Multiple sclerosis,multiple sclerosis,-,GCST001341,6:29952555,22190364,Patsopoulos NA
+rs12722489-C,4E-08,-,0.85,1.23,-,[NR],IL2RA,Multiple sclerosis,multiple sclerosis,-,GCST001341,10:6060049,22190364,Patsopoulos NA
+rs10411936-A,2E-07,-,0.30,1.16,-,[NR],EPS15L1,Multiple sclerosis,multiple sclerosis,-,GCST001341,19:16437564,22190364,Patsopoulos NA
+rs7592330-A,2E-07,-,0.56,1.15,-,[NR],"PLEK,WDR4P2",Multiple sclerosis,multiple sclerosis,-,GCST001341,2:68419651,22190364,Patsopoulos NA
+rs6691722-?,6E-06,-,0.5191,2.37,-,[NR],GRHL3,Response to interferon beta in multiple sclerosis,response to interferon-beta,multiple sclerosis,GCST003193,1:24347376,26644207,Clarelli F
+rs16898029-?,2E-06,-,0.8798,4.69,-,[NR],"LINC02438,LCORL",Response to interferon beta in multiple sclerosis,response to interferon-beta,multiple sclerosis,GCST003193,4:19045994,26644207,Clarelli F
+rs12957214-C,6E-06,-,0.1305,4.1219,-,[NR],MIR924HG,Response to interferon beta in multiple sclerosis,response to interferon-beta,multiple sclerosis,GCST003193,18:39355576,26644207,Clarelli F
+rs12988804-T,3E-08,-,NR,2.18,-,[1.91-2.45],LRP2,Relapse in multiple sclerosis,disease recurrence,multiple sclerosis,GCST004752,2:169261301,28739605,Zhou Y
+rs72830848-T,4E-08,-,0.06,2.25,-,[1.78-2.85],MSI2,Decreased low contrast letter acuity in multiple sclerosis,visual acuity measurement,multiple sclerosis,GCST009560,17:57321218,31289819,Fitzgerald KC
+rs13241771-A,7E-07,-,0.16,1.77,-,[1.47-2.12],"RNU6-393P,TMEM130",Decreased low contrast letter acuity in multiple sclerosis,visual acuity measurement,multiple sclerosis,GCST009560,7:98834984,31289819,Fitzgerald KC
+rs10157709-C,2E-06,-,0.05,2.26,-,[1.76-2.91],ZNF692-DT,Decreased low contrast letter acuity in multiple sclerosis,visual acuity measurement,multiple sclerosis,GCST009560,1:248860368,31289819,Fitzgerald KC
+rs2888449-C,3E-06,-,0.29,0.64,-,[0.55-0.74],DIRC3-AS1,Decreased low contrast letter acuity in multiple sclerosis,visual acuity measurement,multiple sclerosis,GCST009560,2:216996799,31289819,Fitzgerald KC
+rs10980055-G,3E-06,-,0.15,1.76,-,[1.48-2.10],PALM2AKAP2,Decreased low contrast letter acuity in multiple sclerosis,visual acuity measurement,multiple sclerosis,GCST009560,9:109808616,31289819,Fitzgerald KC
+rs12713638-G,3E-06,-,0.37,0.63,-,[0.54-0.73],"Y_RNA,DTNB",Decreased low contrast letter acuity in multiple sclerosis,visual acuity measurement,multiple sclerosis,GCST009560,2:25693109,31289819,Fitzgerald KC
+rs522308-T,2E-15,-,0.25,2.6,-,[2.05-3.29],"HLA-DRB1,HLA-DQA1",Neutralising antibody response to interferon beta therapy in multiple sclerosis (presence of antibodies),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST005706,6:32614145,29521573,Buck D
+rs2454138-A,5E-19,-,0.22,-,0.41 unit increase,[0.31-0.51],"HLA-DRB1,HLA-DQA1",Neutralising antibody response to interferon beta therapy in multiple sclerosis (mean antibody levels),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST005707,6:32602624,29521573,Buck D
+rs2454138-A,8E-19,-,0.22,-,0.41 unit increase,[0.31-0.51],"HLA-DRB1,HLA-DQA1",Neutralising antibody response to interferon beta therapy in multiple sclerosis (area under the curve for the first two years),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST005708,6:32602624,29521573,Buck D
+rs2454138-A,1E-18,-,0.22,-,0.41 unit increase,-,"HLA-DRB1,HLA-DQA1",Neutralising antibody response to interferon beta therapy in multiple sclerosis (maximum antibody levels),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST005709,6:32602624,29521573,Buck D
+rs9281971-TTTTTTT,2E-17,-,0.36,-,0.6 unit decrease,[-0.46--0.74],HLA-DQA1,Neutralising antibody response to interferon beta therapy in multiple sclerosis (presence of antibodies; all treatment preparations),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST90093347,6:32628946,33143745,Andlauer TFM
+rs9272775-C,2E-19,-,NR,-,0.40715143 unit increase,[0.32-0.5],HLA-DQA1,Binding antibody response to interferon beta therapy in multiple sclerosis (antibody levels; IFNβ-1b subcutaneous),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST90093348,6:32642480,33143745,Andlauer TFM
+rs17205731-T,2E-11,(conditional on HLA-DRB1*04:01),0.05,-,0.62026006 unit increase,[0.44-0.8],"HLA-DQB1,MTCO3P1",Binding antibody response to interferon beta therapy in multiple sclerosis (antibody levels; IFNβ-1b subcutaneous),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST90093348,6:32682984,33143745,Andlauer TFM
+rs3129783-G,4E-19,-,0.44,-,0.3 unit decrease,[-0.24--0.36],"HLA-DQB1,MTCO3P1",Binding antibody response to interferon beta therapy in multiple sclerosis (antibody levels; IFNβ-1a subcutaneous and intramuscular),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST90093349,6:32687953,33143745,Andlauer TFM
+rs886401-A,4E-12,-,NR,-,0.24661802 unit increase,[0.18-0.32],CCHCR1,Binding antibody response to interferon beta therapy in multiple sclerosis (antibody levels; IFNβ-1a subcutaneous and intramuscular),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST90093349,6:31145498,33143745,Andlauer TFM
+rs9271721-G,5E-22,-,NR,-,0.32949224 unit increase,[0.26-0.4],"HLA-DQA1,HLA-DRB1",Binding antibody response to interferon beta therapy in multiple sclerosis (antibody levels; IFNβ-1a subcutaneous and intramuscular),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST90093349,6:32625742,33143745,Andlauer TFM
+rs9281962-T,5E-32,-,0.44,-,0.5091026 unit increase,[0.42-0.59],"HLA-DRB1,HLA-DQA1",Binding antibody response to interferon beta therapy in multiple sclerosis (antibody levels; IFNβ-1a subcutaneous),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST90093350,6:32626821,33143745,Andlauer TFM
+rs1265086-T,5E-09,(conditional on rs9272071 + rs28746882),0.38,-,0.15234222 unit decrease,[-0.1--0.2],"CCHCR1,POLR2LP1",Binding antibody response to interferon beta therapy in multiple sclerosis (antibody levels; all treatment preparations),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST90093351,6:31142105,33143745,Andlauer TFM
+rs2523608-G,2E-13,-,0.48,-,0.18175249 unit increase,[0.13-0.23],HLA-B,Binding antibody response to interferon beta therapy in multiple sclerosis (antibody levels; all treatment preparations),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST90093351,6:31354782,33143745,Andlauer TFM
+rs9260765-C,5E-11,-,0.45,-,0.17372645 unit increase,[0.12-0.23],"MICD,HLA-W",Binding antibody response to interferon beta therapy in multiple sclerosis (antibody levels; all treatment preparations),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST90093351,6:29968855,33143745,Andlauer TFM
+rs9272071-C,5E-18,-,0.32,-,0.22615278 unit decrease,[-0.17--0.28],HLA-DQA1,Binding antibody response to interferon beta therapy in multiple sclerosis (antibody levels; all treatment preparations),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST90093351,6:32631710,33143745,Andlauer TFM
+rs28746882-A,5E-11,(conditional on rs9272071),0.08,-,0.27678168 unit increase,[0.19-0.36],"HLA-DQB1,MTCO3P1",Binding antibody response to interferon beta therapy in multiple sclerosis (antibody levels; all treatment preparations),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST90093351,6:32670398,33143745,Andlauer TFM
+rs9272775-C,3E-24,-,0.23,-,0.41 unit increase,[0.33-0.49],HLA-DQA1,Neutralising antibody response to interferon beta therapy in multiple sclerosis (antibody titre; IFNβ-1b subcutaneous),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST90093352,6:32642480,33143745,Andlauer TFM
+rs559242105-TA,5E-10,(conditional on rs9272775),0.18,-,0.28 unit decrease,[-0.18--0.38],"HLA-DPA2,COL11A2P1",Neutralising antibody response to interferon beta therapy in multiple sclerosis (antibody titre; IFNβ-1b subcutaneous),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST90093352,6:33103251,33143745,Andlauer TFM
+rs9268633-A,1E-17,-,0.39,-,0.2 unit increase,[-0.0392-0.0392],"TSBP1-AS1,HLA-DRA",Neutralising antibody response to interferon beta therapy in multiple sclerosis (antibody titre; IFNβ-1a subcutaneous and intramuscular),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST90093353,6:32438696,33143745,Andlauer TFM
+rs9271673-C,2E-28,-,NR,-,0.37 unit increase,[0.31-0.43],"HLA-DRB1,HLA-DQA1",Neutralising antibody response to interferon beta therapy in multiple sclerosis (antibody titre; IFNβ-1a subcutaneous),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST90093354,6:32625056,33143745,Andlauer TFM
+rs9281971-TTTTTTT,2E-17,-,NR,-,0.16 unit decrease,[-0.12--0.2],HLA-DQA1,Neutralising antibody response to interferon beta therapy in multiple sclerosis (antibody titre; all treatment preparations),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST90093355,6:32628946,33143745,Andlauer TFM
+rs559242105-TA,1E-08,(conditional on rs28366299),0.18,-,0.85 unit decrease,[-0.56--1.14],"HLA-DPA2,COL11A2P1",Neutralising antibody response to interferon beta therapy in multiple sclerosis (presence of antibodies; IFNβ-1b subcutaneous),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST90093356,6:33103251,33143745,Andlauer TFM
+rs28366299-A,7E-19,-,0.19,-,1.27 unit increase,[1.0-1.54],"HLA-DQA1,HLA-DRB1",Neutralising antibody response to interferon beta therapy in multiple sclerosis (presence of antibodies; IFNβ-1b subcutaneous),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST90093356,6:32593093,33143745,Andlauer TFM
+rs77278603-A,2E-24,-,NR,-,1.06 unit increase,[0.86-1.26],"HLA-DRB9,HLA-DRB5",Neutralising antibody response to interferon beta therapy in multiple sclerosis (presence of antibodies; IFNβ-1a subcutaneous and intramuscular),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST90093357,6:32501644,33143745,Andlauer TFM
+rs9271700-G,5E-27,-,0.42,-,1.25 unit increase,[1.01-1.49],"HLA-DQA1,HLA-DRB1",Neutralising antibody response to interferon beta therapy in multiple sclerosis (presence of antibodies; IFNβ-1a subcutaneous),"response to interferon-beta,anti-drug antibody measurement",multiple sclerosis,GCST90093358,6:32625421,33143745,Andlauer TFM
+rs4364506-?,2E-06,-,NR,1.1235955,-,[1.08-1.18],L3MBTL3,Multiple sclerosis,multiple sclerosis,-,GCST003566,6:130068795,27386562,Andlauer TF
+rs2812197-?,3E-10,-,NR,1.1494253,-,[1.1-1.2],DLEU1,Multiple sclerosis,multiple sclerosis,-,GCST003566,13:50243690,27386562,Andlauer TF
+rs34286592-T,5E-07,-,NR,1.16,-,[1.09-1.23],"MAZ,MVP-DT",Multiple sclerosis,multiple sclerosis,-,GCST003566,16:29809159,27386562,Andlauer TF
+rs4925166-?,7E-12,-,NR,1.1627907,-,[1.11-1.22],TOP3A,Multiple sclerosis,multiple sclerosis,-,GCST003566,17:18307496,27386562,Andlauer TF
+rs2836425-T,2E-07,-,NR,1.18,-,[1.11-1.25],ERG,Multiple sclerosis,multiple sclerosis,-,GCST003566,21:38466902,27386562,Andlauer TF
+rs10797431-?,2E-10,-,NR,1.1904762,-,-,"PRXL2B,TNFRSF14",Multiple sclerosis,multiple sclerosis,-,GCST003566,1:2569783,27386562,Andlauer TF
+rs6689470-A,4E-10,-,NR,1.24,-,[1.16–1.33],GFI1,Multiple sclerosis,multiple sclerosis,-,GCST003566,1:92485653,27386562,Andlauer TF
+rs2300747-?,2E-12,-,NR,1.3333333,-,-,CD58,Multiple sclerosis,multiple sclerosis,-,GCST003566,1:116561593,27386562,Andlauer TF
+rs7535818-?,2E-15,-,NR,1.3157895,-,-,RGS1,Multiple sclerosis,multiple sclerosis,-,GCST003566,1:192575969,27386562,Andlauer TF
+rs2681424-?,1E-09,-,NR,1.1627907,-,-,"Y_RNA,CD86",Multiple sclerosis,multiple sclerosis,-,GCST003566,3:122050675,27386562,Andlauer TF
+rs6859219-?,8E-09,-,NR,1.1904762,-,-,ANKRD55,Multiple sclerosis,multiple sclerosis,-,GCST003566,5:56142753,27386562,Andlauer TF
+rs3104373-T,1E-234,-,NR,2.9,-,[2.72–3.09],HLA-DQA1,Multiple sclerosis,multiple sclerosis,-,GCST003566,6:32632598,27386562,Andlauer TF
+rs2182410-?,4E-09,-,NR,1.1904762,-,-,"RBM17,RPL32P23",Multiple sclerosis,multiple sclerosis,-,GCST003566,10:6080706,27386562,Andlauer TF
+rs1891621-?,1E-11,-,NR,1.1494253,-,-,"ZNF438,LINC02664",Multiple sclerosis,multiple sclerosis,-,GCST003566,10:31101198,27386562,Andlauer TF
+rs1800693-C,3E-08,-,NR,1.17,-,[1.11–1.23],TNFRSF1A,Multiple sclerosis,multiple sclerosis,-,GCST003566,12:6330843,27386562,Andlauer TF
+rs6498168-T,1E-09,-,NR,1.23,-,[1.17–1.29],CLEC16A,Multiple sclerosis,multiple sclerosis,-,GCST003566,16:11141273,27386562,Andlauer TF
+rs6793295-?,2E-09,-,NR,1.1072971,-,-,LRRC34,Chronic lymphocytic leukemia or multiple sclerosis,"multiple sclerosis,chronic lymphocytic leukemia",-,GCST008721,3:169800667,31407831,Din L
+rs11755724-?,1E-08,-,NR,1.0913455,-,-,RREB1,Chronic lymphocytic leukemia or multiple sclerosis,"multiple sclerosis,chronic lymphocytic leukemia",-,GCST008721,6:7118757,31407831,Din L
+rs802734-?,9E-09,-,NR,1.0934937,-,-,"THEMIS,PTPRK",Chronic lymphocytic leukemia or multiple sclerosis,"multiple sclerosis,chronic lymphocytic leukemia",-,GCST008721,6:127957653,31407831,Din L
+rs806321-?,2E-08,-,NR,1.0863662,-,-,DLEU1,Chronic lymphocytic leukemia or multiple sclerosis,"multiple sclerosis,chronic lymphocytic leukemia",-,GCST008721,13:50267187,31407831,Din L
+rs2777899-?,3E-08,-,NR,1.0857763,-,-,VMP1,Chronic lymphocytic leukemia or multiple sclerosis,"multiple sclerosis,chronic lymphocytic leukemia",-,GCST008721,17:59755030,31407831,Din L
+rs1292034-?,3E-08,-,NR,1.08613,-,-,RPS6KB1,Chronic lymphocytic leukemia or multiple sclerosis,"multiple sclerosis,chronic lymphocytic leukemia",-,GCST008721,17:59912499,31407831,Din L
+rs140522-?,6E-11,-,NR,1.1084018,-,-,"KLHDC7B-DT,CIMAP1B",Chronic lymphocytic leukemia or multiple sclerosis,"multiple sclerosis,chronic lymphocytic leukemia",-,GCST008721,22:50532837,31407831,Din L
+rs1323292-?,5E-08,-,NR,1.1111112,-,-,"RGS1,RGS21",Diffuse large B-cell lymphoma or multiple sclerosis,"diffuse large B-cell lymphoma,multiple sclerosis",-,GCST008722,1:192571891,31407831,Din L
+rs806321-?,5E-08,-,NR,1.0869565,-,-,DLEU1,Diffuse large B-cell lymphoma or multiple sclerosis,"diffuse large B-cell lymphoma,multiple sclerosis",-,GCST008722,13:50267187,31407831,Din L
+rs16978630-?,9E-08,-,NR,1.3333333,-,-,TNPO2,Diffuse large B-cell lymphoma or multiple sclerosis,"diffuse large B-cell lymphoma,multiple sclerosis",-,GCST008722,19:12702869,31407831,Din L
+rs2425752-?,5E-09,-,NR,1.098901,-,-,NCOA5,Diffuse large B-cell lymphoma or multiple sclerosis,"diffuse large B-cell lymphoma,multiple sclerosis",-,GCST008722,20:46073481,31407831,Din L
+rs140522-?,2E-08,-,NR,1.0869565,-,-,"KLHDC7B-DT,CIMAP1B",Diffuse large B-cell lymphoma or multiple sclerosis,"diffuse large B-cell lymphoma,multiple sclerosis",-,GCST008722,22:50532837,31407831,Din L
+rs7595037-?,9E-08,-,NR,1.0833063,-,-,"PLEK,WDR4P2",Follicular lymphoma or multiple sclerosis,"follicular lymphoma,multiple sclerosis",-,GCST008718,2:68419963,31407831,Din L
+rs2425752-?,1E-07,-,NR,1.0899183,-,-,NCOA5,Follicular lymphoma or multiple sclerosis,"follicular lymphoma,multiple sclerosis",-,GCST008718,20:46073481,31407831,Din L
+rs1323292-?,2E-08,-,NR,1.1227125,-,-,"RGS1,RGS21",Marginal zone lymphoma or multiple sclerosis,"marginal zone B-cell lymphoma,multiple sclerosis",-,GCST008723,1:192571891,31407831,Din L
+rs1107345-?,3E-08,-,NR,1.105461,-,-,IL2RA,Marginal zone lymphoma or multiple sclerosis,"marginal zone B-cell lymphoma,multiple sclerosis",-,GCST008723,10:6045332,31407831,Din L
+rs1250550-?,9E-08,-,NR,1.0931351,-,-,ZMIZ1,Marginal zone lymphoma or multiple sclerosis,"marginal zone B-cell lymphoma,multiple sclerosis",-,GCST008723,10:79300560,31407831,Din L
+rs2777899-?,2E-08,-,NR,1.0932546,-,-,VMP1,Marginal zone lymphoma or multiple sclerosis,"marginal zone B-cell lymphoma,multiple sclerosis",-,GCST008723,17:59755030,31407831,Din L
+rs8021741-?,2E-08,-,NR,1.0946907,-,-,"FLVCR2-AS1,BATF",Marginal zone lymphoma or multiple sclerosis,"marginal zone B-cell lymphoma,multiple sclerosis",-,GCST008723,14:75556057,31407831,Din L
+rs2425752-?,1E-07,-,NR,1.0957704,-,-,NCOA5,Marginal zone lymphoma or multiple sclerosis,"marginal zone B-cell lymphoma,multiple sclerosis",-,GCST008723,20:46073481,31407831,Din L
+rs6062314-?,2E-08,-,NR,1.1615751,-,-,ZBTB46,Marginal zone lymphoma or multiple sclerosis,"marginal zone B-cell lymphoma,multiple sclerosis",-,GCST008723,20:63778360,31407831,Din L
+rs11066320-A,3E-06,-,NR,1.0458,-,NR,PTPN11,Multiple sclerosis,multiple sclerosis,-,GCST009597,12:112468611,31604244,International Multiple Sclerosis Genetics Consortium
+rs2253675-C,6E-06,-,NR,1.046,-,NR,"SERBP1P3,RFT1",Multiple sclerosis,multiple sclerosis,-,GCST009597,3:53085518,31604244,International Multiple Sclerosis Genetics Consortium
+rs35280661-G,2E-06,-,NR,1.0464,-,NR,SGSM2,Multiple sclerosis,multiple sclerosis,-,GCST009597,17:2350174,31604244,International Multiple Sclerosis Genetics Consortium
+rs4941702-G,3E-06,-,NR,1.0474,-,NR,"TOMM22P3,LINC00423",Multiple sclerosis,multiple sclerosis,-,GCST009597,13:32918762,31604244,International Multiple Sclerosis Genetics Consortium
+rs2295799-G,8E-06,-,NR,1.0501,-,NR,"TMEM8B,FAM221B",Multiple sclerosis,multiple sclerosis,-,GCST009597,9:35821800,31604244,International Multiple Sclerosis Genetics Consortium
+rs2811727-A,7E-06,-,NR,1.0522,-,NR,LCN6,Multiple sclerosis,multiple sclerosis,-,GCST009597,9:136745506,31604244,International Multiple Sclerosis Genetics Consortium
+rs12909611-C,8E-06,-,NR,1.0524,-,NR,RORA,Multiple sclerosis,multiple sclerosis,-,GCST009597,15:60865204,31604244,International Multiple Sclerosis Genetics Consortium
+rs16903340-A,5E-06,-,NR,1.0524,-,NR,"MEF2C,MEF2C-AS2",Multiple sclerosis,multiple sclerosis,-,GCST009597,5:88768123,31604244,International Multiple Sclerosis Genetics Consortium
+rs566267-G,4E-06,-,NR,1.0527,-,NR,PDE4B,Multiple sclerosis,multiple sclerosis,-,GCST009597,1:66288850,31604244,International Multiple Sclerosis Genetics Consortium
+rs1877721-G,2E-06,-,NR,1.053,-,NR,"SH3BP2,TNIP2",Multiple sclerosis,multiple sclerosis,-,GCST009597,4:2767542,31604244,International Multiple Sclerosis Genetics Consortium
+rs2420518-C,6E-07,-,NR,1.053,-,NR,REL-DT,Multiple sclerosis,multiple sclerosis,-,GCST009597,2:60827845,31604244,International Multiple Sclerosis Genetics Consortium
+rs7565445-C,3E-06,-,NR,1.053,-,NR,MIR4435-2HG,Multiple sclerosis,multiple sclerosis,-,GCST009597,2:111177884,31604244,International Multiple Sclerosis Genetics Consortium
+rs2741190-C,7E-06,-,NR,1.0531,-,NR,"SLA,TG",Multiple sclerosis,multiple sclerosis,-,GCST009597,8:133041985,31604244,International Multiple Sclerosis Genetics Consortium
+rs4543864-T,3E-06,-,NR,1.0533,-,NR,"BTG2-DT,LINC01353",Multiple sclerosis,multiple sclerosis,-,GCST009597,1:203291372,31604244,International Multiple Sclerosis Genetics Consortium
+rs13330176-A,5E-06,-,NR,1.0546,-,NR,"LINC02132,LINC01082",Multiple sclerosis,multiple sclerosis,-,GCST009597,16:85985481,31604244,International Multiple Sclerosis Genetics Consortium
+chr6:130348257-T,3E-06,-,NR,1.0547,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+rs2505509-C,5E-07,-,NR,1.0548,-,NR,RASGEF1A,Multiple sclerosis,multiple sclerosis,-,GCST009597,10:43252974,31604244,International Multiple Sclerosis Genetics Consortium
+rs8078776-A,9E-06,-,NR,1.0549,-,NR,MINK1,Multiple sclerosis,multiple sclerosis,-,GCST009597,17:4875192,31604244,International Multiple Sclerosis Genetics Consortium
+rs11629690-G,8E-07,-,NR,1.0558,-,NR,AKAP13,Multiple sclerosis,multiple sclerosis,-,GCST009597,15:85744493,31604244,International Multiple Sclerosis Genetics Consortium
+chr10:21867179-T,4E-06,-,NR,1.0564,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+rs11008218-G,2E-06,-,NR,1.0564,-,NR,"ZNF438,LINC02644",Multiple sclerosis,multiple sclerosis,-,GCST009597,10:30744074,31604244,International Multiple Sclerosis Genetics Consortium
+rs1567526-G,3E-06,-,NR,1.0565,-,NR,MYO5B,Multiple sclerosis,multiple sclerosis,-,GCST009597,18:50155855,31604244,International Multiple Sclerosis Genetics Consortium
+rs10905353-G,3E-06,-,NR,1.0566,-,NR,"KRT8P37,LINC00708",Multiple sclerosis,multiple sclerosis,-,GCST009597,10:8380654,31604244,International Multiple Sclerosis Genetics Consortium
+rs62189580-G,8E-07,-,NR,1.0566,-,NR,"LINC01953,IKZF2",Multiple sclerosis,multiple sclerosis,-,GCST009597,2:213154257,31604244,International Multiple Sclerosis Genetics Consortium
+rs929566-C,6E-06,-,NR,1.0567,-,NR,NAB1,Multiple sclerosis,multiple sclerosis,-,GCST009597,2:190656715,31604244,International Multiple Sclerosis Genetics Consortium
+rs137955-T,1E-08,-,NR,1.0568,-,NR,"GRAP2,ENTHD1",Multiple sclerosis,multiple sclerosis,-,GCST009597,22:39895803,31604244,International Multiple Sclerosis Genetics Consortium
+rs71545193-A,6E-08,-,NR,1.0568,-,NR,EXOC2,Multiple sclerosis,multiple sclerosis,-,GCST009597,6:520595,31604244,International Multiple Sclerosis Genetics Consortium
+rs10931933-G,1E-06,-,NR,1.0573,-,NR,CASP8,Multiple sclerosis,multiple sclerosis,-,GCST009597,2:201247748,31604244,International Multiple Sclerosis Genetics Consortium
+rs62088246-G,7E-06,-,NR,1.0575,-,NR,UNK,Multiple sclerosis,multiple sclerosis,-,GCST009597,17:75811880,31604244,International Multiple Sclerosis Genetics Consortium
+rs12609500-C,5E-09,-,NR,1.0581,-,NR,SMARCA4,Multiple sclerosis,multiple sclerosis,-,GCST009597,19:11063252,31604244,International Multiple Sclerosis Genetics Consortium
+chr3:47005668-G,4E-07,-,NR,1.0582,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+rs1684468-T,9E-07,-,NR,1.0582,-,NR,"NRROS,LINC01063",Multiple sclerosis,multiple sclerosis,-,GCST009597,3:196633959,31604244,International Multiple Sclerosis Genetics Consortium
+rs335123-T,2E-06,-,NR,1.0585,-,NR,ANKRD36BP2,Multiple sclerosis,multiple sclerosis,-,GCST009597,2:88794264,31604244,International Multiple Sclerosis Genetics Consortium
+rs17591266-G,2E-07,-,NR,1.0586,-,NR,COG6,Multiple sclerosis,multiple sclerosis,-,GCST009597,13:39783540,31604244,International Multiple Sclerosis Genetics Consortium
+rs6921288-A,2E-07,-,NR,1.0586,-,NR,"TMEM244,L3MBTL3",Multiple sclerosis,multiple sclerosis,-,GCST009597,6:129897657,31604244,International Multiple Sclerosis Genetics Consortium
+rs3783196-C,1E-07,-,NR,1.0588,-,NR,RGCC,Multiple sclerosis,multiple sclerosis,-,GCST009597,13:41465152,31604244,International Multiple Sclerosis Genetics Consortium
+rs6020055-A,5E-08,-,NR,1.0590976,-,NR,"SLC9A8,RNU6-919P",Multiple sclerosis,multiple sclerosis,-,GCST009597,20:49805558,31604244,International Multiple Sclerosis Genetics Consortium
+rs1152430-C,8E-06,-,NR,1.0594,-,NR,RPS6KA5,Multiple sclerosis,multiple sclerosis,-,GCST009597,14:90906615,31604244,International Multiple Sclerosis Genetics Consortium
+rs6789653-G,1E-09,-,NR,1.0595,-,NR,ZBTB38,Multiple sclerosis,multiple sclerosis,-,GCST009597,3:141432148,31604244,International Multiple Sclerosis Genetics Consortium
+rs9977672-G,1E-07,-,NR,1.0595,-,NR,"RPL23AP12,LINC02940",Multiple sclerosis,multiple sclerosis,-,GCST009597,21:39091357,31604244,International Multiple Sclerosis Genetics Consortium
+rs7134559-C,6E-07,-,NR,1.0596,-,NR,"SLC38A1,RPL13AP21",Multiple sclerosis,multiple sclerosis,-,GCST009597,12:46025303,31604244,International Multiple Sclerosis Genetics Consortium
+rs11919880-A,8E-10,-,NR,1.0603,-,NR,"TRIM71,CCR4",Multiple sclerosis,multiple sclerosis,-,GCST009597,3:32920559,31604244,International Multiple Sclerosis Genetics Consortium
+rs33384-G,7E-07,-,NR,1.0603,-,NR,"ARHGAP26,NR3C1",Multiple sclerosis,multiple sclerosis,-,GCST009597,5:143229960,31604244,International Multiple Sclerosis Genetics Consortium
+chr16:30171625-C,3E-06,-,NR,1.0606,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+rs10789825-G,2E-06,-,NR,1.0608,-,NR,POU2AF1,Multiple sclerosis,multiple sclerosis,-,GCST009597,11:111379094,31604244,International Multiple Sclerosis Genetics Consortium
+rs28512338-A,4E-07,-,NR,1.0609,-,NR,"LIPG,SMUG1P1",Multiple sclerosis,multiple sclerosis,-,GCST009597,18:49600629,31604244,International Multiple Sclerosis Genetics Consortium
+rs290260-C,6E-07,-,NR,1.0613,-,NR,"OR7E108P,SYK",Multiple sclerosis,multiple sclerosis,-,GCST009597,9:90792671,31604244,International Multiple Sclerosis Genetics Consortium
+rs7222450-A,2E-10,-,NR,1.0617,-,NR,"ARHGAP27,RNA5SP443",Multiple sclerosis,multiple sclerosis,-,GCST009597,17:45330304,31604244,International Multiple Sclerosis Genetics Consortium
+rs2333227-C,8E-06,-,NR,1.0618,-,NR,"MPO,TSPOAP1",Multiple sclerosis,multiple sclerosis,-,GCST009597,17:58281401,31604244,International Multiple Sclerosis Genetics Consortium
+rs4940730-A,4E-10,-,NR,1.0626,-,NR,ALPK2,Multiple sclerosis,multiple sclerosis,-,GCST009597,18:58602505,31604244,International Multiple Sclerosis Genetics Consortium
+rs719316-T,2E-13,-,NR,1.0723,-,NR,ATXN1,Multiple sclerosis,multiple sclerosis,-,GCST009597,6:16672529,31604244,International Multiple Sclerosis Genetics Consortium
+rs735542-A,6E-13,-,NR,1.0728,-,NR,"PCAT1,CASC19",Multiple sclerosis,multiple sclerosis,-,GCST009597,8:127163451,31604244,International Multiple Sclerosis Genetics Consortium
+rs3737798-A,4E-14,-,NR,1.0741,-,NR,VANGL2,Multiple sclerosis,multiple sclerosis,-,GCST009597,1:160420194,31604244,International Multiple Sclerosis Genetics Consortium
+rs6738544-C,2E-13,-,NR,1.0741,-,NR,STAT4,Multiple sclerosis,multiple sclerosis,-,GCST009597,2:191124630,31604244,International Multiple Sclerosis Genetics Consortium
+rs4812772-C,6E-09,-,NR,1.0743,-,NR,TOX2,Multiple sclerosis,multiple sclerosis,-,GCST009597,20:43950411,31604244,International Multiple Sclerosis Genetics Consortium
+rs12614091-A,6E-12,-,NR,1.076,-,NR,"KRT18P39,NPM1P33",Multiple sclerosis,multiple sclerosis,-,GCST009597,2:203768138,31604244,International Multiple Sclerosis Genetics Consortium
+rs1857996-C,8E-07,-,NR,1.0761,-,NR,DOCK10,Multiple sclerosis,multiple sclerosis,-,GCST009597,2:224942047,31604244,International Multiple Sclerosis Genetics Consortium
+rs10936602-T,2E-11,-,NR,1.0766,-,NR,LRRIQ4,Multiple sclerosis,multiple sclerosis,-,GCST009597,3:169818849,31604244,International Multiple Sclerosis Genetics Consortium
+rs11083862-A,2E-09,-,NR,1.0769,-,NR,SAE1,Multiple sclerosis,multiple sclerosis,-,GCST009597,19:47135282,31604244,International Multiple Sclerosis Genetics Consortium
+rs7855251-T,1E-10,-,NR,1.0774,-,NR,TRIM14,Multiple sclerosis,multiple sclerosis,-,GCST009597,9:98105907,31604244,International Multiple Sclerosis Genetics Consortium
+rs13136820-C,8E-10,-,NR,1.0775,-,NR,"RHOH,LINC02265",Multiple sclerosis,multiple sclerosis,-,GCST009597,4:40305547,31604244,International Multiple Sclerosis Genetics Consortium
+chr6:119215402-A,3E-10,-,NR,1.0776,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+rs3845959-T,2E-07,-,NR,1.0787,-,NR,ALDH1L1,Multiple sclerosis,multiple sclerosis,-,GCST009597,3:126148404,31604244,International Multiple Sclerosis Genetics Consortium
+rs2187163-G,4E-07,-,NR,1.0793,-,NR,BCL2,Multiple sclerosis,multiple sclerosis,-,GCST009597,18:63263862,31604244,International Multiple Sclerosis Genetics Consortium
+rs2317231-G,3E-16,-,NR,1.0804,-,NR,"FCRL3,VDAC1P9",Multiple sclerosis,multiple sclerosis,-,GCST009597,1:157716547,31604244,International Multiple Sclerosis Genetics Consortium
+rs354033-G,8E-10,-,NR,1.0813,-,NR,ZNF767P,Multiple sclerosis,multiple sclerosis,-,GCST009597,7:149592373,31604244,International Multiple Sclerosis Genetics Consortium
+rs34681760-C,2E-11,-,NR,1.0819,-,NR,"LINC02102,TENT4A",Multiple sclerosis,multiple sclerosis,-,GCST009597,5:6712721,31604244,International Multiple Sclerosis Genetics Consortium
+rs9808753-G,2E-09,-,NR,1.082,-,NR,IFNGR2,Multiple sclerosis,multiple sclerosis,-,GCST009597,21:33415005,31604244,International Multiple Sclerosis Genetics Consortium
+rs12434551-A,4E-17,-,NR,1.0822,-,NR,"RNU6-921P,ZFP36L1",Multiple sclerosis,multiple sclerosis,-,GCST009597,14:68786647,31604244,International Multiple Sclerosis Genetics Consortium
+rs34695601-T,6E-13,-,NR,1.0832,-,NR,"FLVCR2-AS1,BATF",Multiple sclerosis,multiple sclerosis,-,GCST009597,14:75547955,31604244,International Multiple Sclerosis Genetics Consortium
+rs2084007-C,2E-13,-,NR,1.0835,-,NR,JADE2,Multiple sclerosis,multiple sclerosis,-,GCST009597,5:134555592,31604244,International Multiple Sclerosis Genetics Consortium
+rs10191360-T,4E-10,-,NR,1.0836,-,NR,"CXCR4,HNRNPKP2",Multiple sclerosis,multiple sclerosis,-,GCST009597,2:136127109,31604244,International Multiple Sclerosis Genetics Consortium
+rs2289746-C,5E-12,-,NR,1.0846,-,NR,CBLB,Multiple sclerosis,multiple sclerosis,-,GCST009597,3:105737111,31604244,International Multiple Sclerosis Genetics Consortium
+rs55733613-C,1E-06,-,NR,1.0852,-,NR,"CBFA2T3,ACSF3",Multiple sclerosis,multiple sclerosis,-,GCST009597,16:89075315,31604244,International Multiple Sclerosis Genetics Consortium
+rs71314176-G,8E-06,-,NR,1.0854,-,NR,"IL10RB,IFNAR1",Multiple sclerosis,multiple sclerosis,-,GCST009597,21:33323876,31604244,International Multiple Sclerosis Genetics Consortium
+rs1112718-A,2E-17,-,NR,1.086,-,NR,"Y_RNA,EXOC6",Multiple sclerosis,multiple sclerosis,-,GCST009597,10:92719350,31604244,International Multiple Sclerosis Genetics Consortium
+rs11859008-C,2E-07,-,NR,1.0863,-,NR,"RNA5SP431,WWOX",Multiple sclerosis,multiple sclerosis,-,GCST009597,16:79252606,31604244,International Multiple Sclerosis Genetics Consortium
+rs983494-G,6E-16,-,NR,1.0875,-,NR,"CD48,SLAMF7",Multiple sclerosis,multiple sclerosis,-,GCST009597,1:160734175,31604244,International Multiple Sclerosis Genetics Consortium
+rs10230723-A,8E-11,-,NR,1.0876,-,NR,"IKZF1,SPMIP7",Multiple sclerosis,multiple sclerosis,-,GCST009597,7:50200284,31604244,International Multiple Sclerosis Genetics Consortium
+rs2546890-A,5E-19,-,NR,1.0878,-,NR,"LINC01845,IL12B",Multiple sclerosis,multiple sclerosis,-,GCST009597,5:159332892,31604244,International Multiple Sclerosis Genetics Consortium
+rs8062446-T,4E-09,-,NR,1.0878,-,NR,NLRC5,Multiple sclerosis,multiple sclerosis,-,GCST009597,16:57043182,31604244,International Multiple Sclerosis Genetics Consortium
+rs61863928-G,3E-16,-,NR,1.0891,-,NR,"LINC02929,ALDH7A1P4",Multiple sclerosis,multiple sclerosis,-,GCST009597,10:62689789,31604244,International Multiple Sclerosis Genetics Consortium
+rs9610458-T,1E-19,-,NR,1.0893,-,NR,MAPK1,Multiple sclerosis,multiple sclerosis,-,GCST009597,22:21851064,31604244,International Multiple Sclerosis Genetics Consortium
+rs12622670-T,5E-16,-,NR,1.0901,-,NR,"PLEK,WDR4P2",Multiple sclerosis,multiple sclerosis,-,GCST009597,2:68419404,31604244,International Multiple Sclerosis Genetics Consortium
+chr7:50328339-A,3E-16,-,NR,1.0912,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+rs13257990-C,6E-06,-,NR,1.0912,-,NR,"IFITM3P8,NASPP1",Multiple sclerosis,multiple sclerosis,-,GCST009597,8:60927999,31604244,International Multiple Sclerosis Genetics Consortium
+rs13414105-C,7E-10,-,NR,1.0912,-,NR,LBH,Multiple sclerosis,multiple sclerosis,-,GCST009597,2:30249576,31604244,International Multiple Sclerosis Genetics Consortium
+rs17066362-T,1E-06,-,NR,1.0919,-,NR,"RN7SKP211,LINC02836",Multiple sclerosis,multiple sclerosis,-,GCST009597,6:105813894,31604244,International Multiple Sclerosis Genetics Consortium
+rs6533052-A,7E-16,-,NR,1.0927,-,NR,SLC9B1,Multiple sclerosis,multiple sclerosis,-,GCST009597,4:102990624,31604244,International Multiple Sclerosis Genetics Consortium
+rs7731626-G,4E-15,-,NR,1.0944,-,NR,ANKRD55,Multiple sclerosis,multiple sclerosis,-,GCST009597,5:56148856,31604244,International Multiple Sclerosis Genetics Consortium
+rs2331964-C,5E-20,-,NR,1.0948,-,NR,IQCB1,Multiple sclerosis,multiple sclerosis,-,GCST009597,3:121824051,31604244,International Multiple Sclerosis Genetics Consortium
+rs1177228-G,2E-19,-,NR,1.0953,-,NR,PUS10,Multiple sclerosis,multiple sclerosis,-,GCST009597,2:61015275,31604244,International Multiple Sclerosis Genetics Consortium
+rs61884005-C,6E-09,-,NR,1.0953,-,NR,"COPB1,RRAS2",Multiple sclerosis,multiple sclerosis,-,GCST009597,11:14381384,31604244,International Multiple Sclerosis Genetics Consortium
+rs10936182-T,5E-08,-,NR,1.0971,-,NR,"IL12A,IL12A-AS1",Multiple sclerosis,multiple sclerosis,-,GCST009597,3:159994586,31604244,International Multiple Sclerosis Genetics Consortium
+rs34723276-A,1E-22,-,NR,1.0973,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+rs134490-T,1E-07,-,NR,1.0975,-,NR,TTC28,Multiple sclerosis,multiple sclerosis,-,GCST009597,22:28334187,31604244,International Multiple Sclerosis Genetics Consortium
+rs6032662-C,5E-19,-,NR,1.0995,-,NR,"RPL13P2,CD40",Multiple sclerosis,multiple sclerosis,-,GCST009597,20:46105671,31604244,International Multiple Sclerosis Genetics Consortium
+rs9878602-T,2E-18,-,NR,1.1002,-,NR,FOXP1,Multiple sclerosis,multiple sclerosis,-,GCST009597,3:71486187,31604244,International Multiple Sclerosis Genetics Consortium
+rs17780048-C,5E-12,-,NR,1.1008,-,NR,WAKMAR2,Multiple sclerosis,multiple sclerosis,-,GCST009597,6:137858009,31604244,International Multiple Sclerosis Genetics Consortium
+rs10951042-C,1E-18,-,NR,1.1021,-,NR,"CARD11,SDK1-AS1",Multiple sclerosis,multiple sclerosis,-,GCST009597,7:3099783,31604244,International Multiple Sclerosis Genetics Consortium
+rs67111717-G,3E-21,-,NR,1.1041,-,NR,RGS14,Multiple sclerosis,multiple sclerosis,-,GCST009597,5:177363161,31604244,International Multiple Sclerosis Genetics Consortium
+rs59655222-T,6E-21,-,NR,1.1049,-,NR,INAVA,Multiple sclerosis,multiple sclerosis,-,GCST009597,1:200906769,31604244,International Multiple Sclerosis Genetics Consortium
+rs2327586-T,9E-20,-,NR,1.1053,-,NR,"HBS1L,MYB",Multiple sclerosis,multiple sclerosis,-,GCST009597,6:135174088,31604244,International Multiple Sclerosis Genetics Consortium
+rs62013236-C,9E-17,-,NR,1.106,-,NR,"CTSH,RASGRF1",Multiple sclerosis,multiple sclerosis,-,GCST009597,15:78955140,31604244,International Multiple Sclerosis Genetics Consortium
+rs6427540-C,1E-09,-,NR,1.106,-,NR,"SLAMF1,SETP9",Multiple sclerosis,multiple sclerosis,-,GCST009597,1:160664798,31604244,International Multiple Sclerosis Genetics Consortium
+rs12925972-C,1E-19,-,NR,1.107,-,NR,WWOX,Multiple sclerosis,multiple sclerosis,-,GCST009597,16:79077400,31604244,International Multiple Sclerosis Genetics Consortium
+rs11079784-C,2E-27,-,NR,1.1074,-,NR,KPNB1-DT,Multiple sclerosis,multiple sclerosis,-,GCST009597,17:47624914,31604244,International Multiple Sclerosis Genetics Consortium
+rs58166386-G,4E-24,-,NR,1.108,-,NR,EPS15L1,Multiple sclerosis,multiple sclerosis,-,GCST009597,19:16448610,31604244,International Multiple Sclerosis Genetics Consortium
+chr5:1519833-T,8E-06,-,NR,1.1081,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+rs62208470-G,5E-06,-,NR,1.1088,-,NR,ZHX3,Multiple sclerosis,multiple sclerosis,-,GCST009597,20:41317131,31604244,International Multiple Sclerosis Genetics Consortium
+chr13:100026952-A,9E-17,-,NR,1.11,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+rs1014486-C,3E-28,-,NR,1.11,-,NR,IL12A-AS1,Multiple sclerosis,multiple sclerosis,-,GCST009597,3:159973324,31604244,International Multiple Sclerosis Genetics Consortium
+rs6589706-A,5E-26,-,NR,1.11,-,NR,"CXCR5,Y_RNA",Multiple sclerosis,multiple sclerosis,-,GCST009597,11:118877104,31604244,International Multiple Sclerosis Genetics Consortium
+chr6:14691215-C,1E-17,-,NR,1.1108,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+rs244656-A,3E-14,-,NR,1.1116,-,NR,"VDAC1,TCF7",Multiple sclerosis,multiple sclerosis,-,GCST009597,5:134114136,31604244,International Multiple Sclerosis Genetics Consortium
+rs631204-A,5E-25,-,NR,1.1127,-,NR,"BTF3L4P3,LINC03004",Multiple sclerosis,multiple sclerosis,-,GCST009597,6:137638318,31604244,International Multiple Sclerosis Genetics Consortium
+rs4560284-A,6E-08,-,NR,1.1138,-,NR,"ITPR1,BHLHE40-AS1",Multiple sclerosis,multiple sclerosis,-,GCST009597,3:4849521,31604244,International Multiple Sclerosis Genetics Consortium
+chr3:5035903-C,2E-06,-,NR,1.1146,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+chr10:6390285-C,1E-06,-,NR,1.1147,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+rs2150879-G,4E-31,-,NR,1.1163,-,NR,VMP1,Multiple sclerosis,multiple sclerosis,-,GCST009597,17:59781849,31604244,International Multiple Sclerosis Genetics Consortium
+rs12478539-G,2E-24,-,NR,1.1165,-,NR,LINC02580,Multiple sclerosis,multiple sclerosis,-,GCST009597,2:43128185,31604244,International Multiple Sclerosis Genetics Consortium
+rs28834106-T,4E-19,-,NR,1.1171,-,NR,"PDE4A,KEAP1",Multiple sclerosis,multiple sclerosis,-,GCST009597,19:10481468,31604244,International Multiple Sclerosis Genetics Consortium
+rs2069852-G,8E-07,-,NR,1.1173,-,NR,"MTCYBP42,IL6",Multiple sclerosis,multiple sclerosis,-,GCST009597,7:22732641,31604244,International Multiple Sclerosis Genetics Consortium
+chr3:121783015-T,8E-10,-,NR,1.1199,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+rs12365699-G,2E-19,-,NR,1.1237,-,NR,"CXCR5,Y_RNA",Multiple sclerosis,multiple sclerosis,-,GCST009597,11:118872577,31604244,International Multiple Sclerosis Genetics Consortium
+chr11:118783424-G,9E-11,-,NR,1.2659,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+rs10801908-C,5E-70,-,NR,1.2987,-,NR,CD58,Multiple sclerosis,multiple sclerosis,-,GCST009597,1:116547871,31604244,International Multiple Sclerosis Genetics Consortium
+chr14:88523488-C,2E-30,-,NR,1.3316,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+chr3:112693983-T,3E-09,-,NR,1.3609,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+chr1:150593391-T,1E-06,-,NR,1.0961307,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+chr1:154983036-G,2E-08,-,NR,1.1837121,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+chr1:1682374-A,3E-06,-,NR,1.0458064,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+chr1:32715071-T,7E-07,-,NR,1.1682242,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+chr1:32738415-A,1E-15,-,NR,1.1318619,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+chr11:14868316-G,9E-12,-,NR,1.2866701,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+chr16:11213951-C,4E-71,-,NR,1.1951715,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+chr16:11353879-T,5E-16,-,NR,1.0906315,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+chr16:68335911-C,4E-06,-,NR,1.111976,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+chr16:68694818-C,8E-07,-,NR,1.0730765,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+chr18:60902282-G,9E-07,-,NR,1.1528707,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+chr2:112492986-C,2E-12,-,NR,1.0699764,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+chr20:52783991-G,2E-06,-,NR,1.0778185,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+chr5:40429250-T,1E-11,-,NR,1.0716965,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+chr8:129177769-C,3E-25,-,NR,1.1247329,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+chr8:95851818-G,3E-10,-,NR,1.1528707,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+chr9:86543849-G,1E-06,-,NR,1.0528532,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+rs10063294-G,2E-28,-,NR,1.1268876,-,NR,IL7R,Multiple sclerosis,multiple sclerosis,-,GCST009597,5:35877403,31604244,International Multiple Sclerosis Genetics Consortium
+rs10066308-A,3E-07,-,NR,1.0621349,-,NR,"IRF1-AS1,IRF1",Multiple sclerosis,multiple sclerosis,-,GCST009597,5:132454924,31604244,International Multiple Sclerosis Genetics Consortium
+rs10102600-C,1E-06,-,NR,1.0690614,-,NR,"FAM167A,FAM167A-AS1",Multiple sclerosis,multiple sclerosis,-,GCST009597,8:11427875,31604244,International Multiple Sclerosis Genetics Consortium
+rs10245867-T,1E-11,-,NR,1.0696331,-,NR,JAZF1,Multiple sclerosis,multiple sclerosis,-,GCST009597,7:28102567,31604244,International Multiple Sclerosis Genetics Consortium
+rs12094392-C,2E-06,-,NR,1.1760556,-,NR,PHGDH,Multiple sclerosis,multiple sclerosis,-,GCST009597,1:119731286,31604244,International Multiple Sclerosis Genetics Consortium
+rs12147246-A,2E-15,-,NR,1.0943314,-,NR,TRAF3,Multiple sclerosis,multiple sclerosis,-,GCST009597,14:102799507,31604244,International Multiple Sclerosis Genetics Consortium
+rs12211604-G,2E-08,-,NR,1.0654166,-,NR,"RREB1,RN7SL554P",Multiple sclerosis,multiple sclerosis,-,GCST009597,6:7099796,31604244,International Multiple Sclerosis Genetics Consortium
+rs12456021-A,2E-07,-,NR,1.0688329,-,NR,ALPK2,Multiple sclerosis,multiple sclerosis,-,GCST009597,18:58546158,31604244,International Multiple Sclerosis Genetics Consortium
+rs1250551-T,2E-23,-,NR,1.1009579,-,NR,ZMIZ1,Multiple sclerosis,multiple sclerosis,-,GCST009597,10:79299578,31604244,International Multiple Sclerosis Genetics Consortium
+rs12588969-G,2E-09,-,NR,1.0766581,-,NR,"TRAF3,RCOR1",Multiple sclerosis,multiple sclerosis,-,GCST009597,14:102764421,31604244,International Multiple Sclerosis Genetics Consortium
+rs12722574-A,4E-07,-,NR,1.1039965,-,NR,IL2RA,Multiple sclerosis,multiple sclerosis,-,GCST009597,10:6024499,31604244,International Multiple Sclerosis Genetics Consortium
+rs12755416-G,6E-08,-,NR,1.0824854,-,NR,"HORMAD1,CTSS",Multiple sclerosis,multiple sclerosis,-,GCST009597,1:150722004,31604244,International Multiple Sclerosis Genetics Consortium
+rs12971909-A,6E-09,-,NR,1.0725011,-,NR,"HDGFL2,UBXN6",Multiple sclerosis,multiple sclerosis,-,GCST009597,19:4466469,31604244,International Multiple Sclerosis Genetics Consortium
+rs13193860-A,1E-06,-,NR,1.0665529,-,NR,"LINC02541,MARCKS",Multiple sclerosis,multiple sclerosis,-,GCST009597,6:113828132,31604244,International Multiple Sclerosis Genetics Consortium
+rs13254990-T,6E-08,-,NR,1.0632641,-,NR,PVT1,Multiple sclerosis,multiple sclerosis,-,GCST009597,8:128064205,31604244,International Multiple Sclerosis Genetics Consortium
+rs13327021-T,2E-16,-,NR,1.0831889,-,NR,"EOMES,LINC01980",Multiple sclerosis,multiple sclerosis,-,GCST009597,3:27741524,31604244,International Multiple Sclerosis Genetics Consortium
+rs13428812-G,1E-07,-,NR,1.0542963,-,NR,DNMT3A,Multiple sclerosis,multiple sclerosis,-,GCST009597,2:25269598,31604244,International Multiple Sclerosis Genetics Consortium
+rs1365120-C,4E-08,-,NR,1.0957704,-,NR,PRR5L,Multiple sclerosis,multiple sclerosis,-,GCST009597,11:36416525,31604244,International Multiple Sclerosis Genetics Consortium
+rs1399180-C,7E-11,-,NR,1.1015642,-,NR,GATA3,Multiple sclerosis,multiple sclerosis,-,GCST009597,10:8056756,31604244,International Multiple Sclerosis Genetics Consortium
+rs140522-T,1E-21,-,NR,1.1158223,-,NR,"KLHDC7B-DT,CIMAP1B",Multiple sclerosis,multiple sclerosis,-,GCST009597,22:50532837,31604244,International Multiple Sclerosis Genetics Consortium
+rs1415069-G,3E-08,-,NR,1.0741138,-,NR,DIPK1A,Multiple sclerosis,multiple sclerosis,-,GCST009597,1:92961312,31604244,International Multiple Sclerosis Genetics Consortium
+rs1465697-T,3E-18,-,NR,1.0973334,-,NR,"CD37,SLC6A16",Multiple sclerosis,multiple sclerosis,-,GCST009597,19:49333989,31604244,International Multiple Sclerosis Genetics Consortium
+rs16917546-T,6E-06,-,NR,1.0648494,-,NR,LINC02929,Multiple sclerosis,multiple sclerosis,-,GCST009597,10:62637778,31604244,International Multiple Sclerosis Genetics Consortium
+rs17051321-T,1E-10,-,NR,1.0843635,-,NR,TNIP3,Multiple sclerosis,multiple sclerosis,-,GCST009597,4:121198294,31604244,International Multiple Sclerosis Genetics Consortium
+rs1738074-C,3E-35,-,NR,1.1327595,-,NR,"TAGAP,TAGAP-AS1",Multiple sclerosis,multiple sclerosis,-,GCST009597,6:159044945,31604244,International Multiple Sclerosis Genetics Consortium
+rs1800693-C,2E-47,-,NR,1.1494253,-,NR,TNFRSF1A,Multiple sclerosis,multiple sclerosis,-,GCST009597,12:6330843,31604244,International Multiple Sclerosis Genetics Consortium
+rs1801133-G,2E-15,-,NR,1.107052,-,NR,MTHFR,Multiple sclerosis,multiple sclerosis,-,GCST009597,1:11796321,31604244,International Multiple Sclerosis Genetics Consortium
+rs1819577-A,1E-07,-,NR,1.0606704,-,NR,"RNLS,MED6P1",Multiple sclerosis,multiple sclerosis,-,GCST009597,10:88067364,31604244,International Multiple Sclerosis Genetics Consortium
+rs2045769-C,5E-06,-,NR,1.0637165,-,NR,"KLF3,RNA5SP158",Multiple sclerosis,multiple sclerosis,-,GCST009597,4:38719543,31604244,International Multiple Sclerosis Genetics Consortium
+rs2242508-A,3E-07,-,NR,1.0589855,-,NR,PHKG1,Multiple sclerosis,multiple sclerosis,-,GCST009597,7:56083796,31604244,International Multiple Sclerosis Genetics Consortium
+rs2248137-C,2E-19,-,NR,1.0919415,-,NR,CYP24A1,Multiple sclerosis,multiple sclerosis,-,GCST009597,20:54173204,31604244,International Multiple Sclerosis Genetics Consortium
+rs2269434-C,1E-13,-,NR,1.0906315,-,NR,MYBPC3,Multiple sclerosis,multiple sclerosis,-,GCST009597,11:47338861,31604244,International Multiple Sclerosis Genetics Consortium
+rs2273215-G,3E-06,-,NR,1.076774,-,NR,LINC01624,Multiple sclerosis,multiple sclerosis,-,GCST009597,6:170276994,31604244,International Multiple Sclerosis Genetics Consortium
+rs2286974-A,4E-09,-,NR,1.1008366,-,NR,CLEC16A,Multiple sclerosis,multiple sclerosis,-,GCST009597,16:11020655,31604244,International Multiple Sclerosis Genetics Consortium
+rs2364485-A,2E-20,-,NR,1.1158223,-,NR,"LTBR,RPL31P10",Multiple sclerosis,multiple sclerosis,-,GCST009597,12:6405797,31604244,International Multiple Sclerosis Genetics Consortium
+rs2469434-C,3E-08,-,NR,1.0546298,-,NR,CD226,Multiple sclerosis,multiple sclerosis,-,GCST009597,18:69876810,31604244,International Multiple Sclerosis Genetics Consortium
+rs249677-A,6E-13,-,NR,1.0737679,-,NR,"NDFIP1,SPRY4",Multiple sclerosis,multiple sclerosis,-,GCST009597,5:142159774,31604244,International Multiple Sclerosis Genetics Consortium
+rs2585447-C,3E-10,-,NR,1.0879025,-,NR,"CYP24A1,BCAS1",Multiple sclerosis,multiple sclerosis,-,GCST009597,20:54127898,31604244,International Multiple Sclerosis Genetics Consortium
+rs2590438-G,5E-09,-,NR,1.0687187,-,NR,"BCL6,LINC01991",Multiple sclerosis,multiple sclerosis,-,GCST009597,3:187848180,31604244,International Multiple Sclerosis Genetics Consortium
+rs2618101-G,9E-08,-,NR,1.0674636,-,NR,LINC01980,Multiple sclerosis,multiple sclerosis,-,GCST009597,3:27883014,31604244,International Multiple Sclerosis Genetics Consortium
+rs27002-C,4E-06,-,NR,1.0566356,-,NR,MCTP1,Multiple sclerosis,multiple sclerosis,-,GCST009597,5:94870132,31604244,International Multiple Sclerosis Genetics Consortium
+rs2705616-C,1E-11,-,NR,1.077238,-,NR,AFF1,Multiple sclerosis,multiple sclerosis,-,GCST009597,4:86941244,31604244,International Multiple Sclerosis Genetics Consortium
+rs2724416-T,2E-06,-,NR,1.0577533,-,NR,LINC02732,Multiple sclerosis,multiple sclerosis,-,GCST009597,11:110375886,31604244,International Multiple Sclerosis Genetics Consortium
+rs2726479-C,4E-11,-,NR,1.0674636,-,NR,"PPA2,RN7SL89P",Multiple sclerosis,multiple sclerosis,-,GCST009597,4:105334432,31604244,International Multiple Sclerosis Genetics Consortium
+rs2727790-A,9E-06,-,NR,1.2525051,-,NR,"LNC-RHL1,APOA4",Multiple sclerosis,multiple sclerosis,-,GCST009597,11:116817667,31604244,International Multiple Sclerosis Genetics Consortium
+rs2836438-A,3E-10,-,NR,1.1061947,-,NR,ERG,Multiple sclerosis,multiple sclerosis,-,GCST009597,21:38492803,31604244,International Multiple Sclerosis Genetics Consortium
+rs28703878-G,5E-22,-,NR,1.1079105,-,NR,PKIA-AS1,Multiple sclerosis,multiple sclerosis,-,GCST009597,8:78504987,31604244,International Multiple Sclerosis Genetics Consortium
+rs2960172-A,2E-06,-,NR,1.0571942,-,NR,"ZNF652,FLJ40194",Multiple sclerosis,multiple sclerosis,-,GCST009597,17:49302219,31604244,International Multiple Sclerosis Genetics Consortium
+rs2986736-C,9E-17,-,NR,1.1200718,-,NR,ESPN,Multiple sclerosis,multiple sclerosis,-,GCST009597,1:6452487,31604244,International Multiple Sclerosis Genetics Consortium
+rs31220-G,3E-06,-,NR,1.0648494,-,NR,"ITK,GARIN3",Multiple sclerosis,multiple sclerosis,-,GCST009597,5:157163344,31604244,International Multiple Sclerosis Genetics Consortium
+rs32658-T,3E-08,-,NR,1.0631511,-,NR,TNFAIP8,Multiple sclerosis,multiple sclerosis,-,GCST009597,5:119367967,31604244,International Multiple Sclerosis Genetics Consortium
+rs34026809-G,8E-17,-,NR,1.0905125,-,NR,PHLDB1,Multiple sclerosis,multiple sclerosis,-,GCST009597,11:118609980,31604244,International Multiple Sclerosis Genetics Consortium
+rs35218683-T,1E-08,-,NR,1.0792143,-,NR,IFITM3,Multiple sclerosis,multiple sclerosis,-,GCST009597,11:321138,31604244,International Multiple Sclerosis Genetics Consortium
+rs35486093-G,2E-31,-,NR,1.2090436,-,NR,"Y_RNA,C1orf52",Multiple sclerosis,multiple sclerosis,-,GCST009597,1:85264137,31604244,International Multiple Sclerosis Genetics Consortium
+rs962052-C,8E-09,-,NR,1.0628,-,NR,"LINC02612,FABP5P10",Multiple sclerosis,multiple sclerosis,-,GCST009597,2:150787689,31604244,International Multiple Sclerosis Genetics Consortium
+chr8:129011095-C,7E-08,-,NR,1.0632,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+rs3923387-T,2E-08,-,NR,1.0639,-,NR,"PLEC,EPPK1",Multiple sclerosis,multiple sclerosis,-,GCST009597,8:143912625,31604244,International Multiple Sclerosis Genetics Consortium
+rs3184504-T,4E-11,-,NR,1.0643,-,NR,"SH2B3,ATXN2",Multiple sclerosis,multiple sclerosis,-,GCST009597,12:111446804,31604244,International Multiple Sclerosis Genetics Consortium
+rs34299154-C,5E-07,-,NR,1.0644,-,NR,LINC02929,Multiple sclerosis,multiple sclerosis,-,GCST009597,10:62663656,31604244,International Multiple Sclerosis Genetics Consortium
+rs5756405-A,5E-11,-,NR,1.0645,-,NR,CSF2RB,Multiple sclerosis,multiple sclerosis,-,GCST009597,22:36914912,31604244,International Multiple Sclerosis Genetics Consortium
+chr20:52210360-G,2E-07,-,NR,1.0646,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+rs7620803-T,7E-07,-,NR,1.0648,-,NR,SIDT1,Multiple sclerosis,multiple sclerosis,-,GCST009597,3:113552210,31604244,International Multiple Sclerosis Genetics Consortium
+rs9900529-C,5E-08,-,NR,1.0648,-,NR,GRB2,Multiple sclerosis,multiple sclerosis,-,GCST009597,17:75339695,31604244,International Multiple Sclerosis Genetics Consortium
+rs4820955-A,1E-08,-,NR,1.0652,-,NR,LIMK2,Multiple sclerosis,multiple sclerosis,-,GCST009597,22:31226553,31604244,International Multiple Sclerosis Genetics Consortium
+rs802730-T,1E-09,-,NR,1.0653,-,NR,"THEMIS,PTPRK",Multiple sclerosis,multiple sclerosis,-,GCST009597,6:127958959,31604244,International Multiple Sclerosis Genetics Consortium
+rs72989863-G,6E-09,-,NR,1.066,-,NR,MARCHF1,Multiple sclerosis,multiple sclerosis,-,GCST009597,4:163572655,31604244,International Multiple Sclerosis Genetics Consortium
+rs11762408-C,1E-06,-,NR,1.0665,-,NR,"GIMAP6,GIMAP2",Multiple sclerosis,multiple sclerosis,-,GCST009597,7:150676640,31604244,International Multiple Sclerosis Genetics Consortium
+rs13066789-C,1E-08,-,NR,1.0666,-,NR,LPP,Multiple sclerosis,multiple sclerosis,-,GCST009597,3:188269836,31604244,International Multiple Sclerosis Genetics Consortium
+rs1442118-A,8E-06,-,NR,1.0668,-,NR,NIHCOLE,Multiple sclerosis,multiple sclerosis,-,GCST009597,5:104354615,31604244,International Multiple Sclerosis Genetics Consortium
+rs2052401-C,2E-07,-,NR,1.0669,-,NR,"EIF3EP2,GCG",Multiple sclerosis,multiple sclerosis,-,GCST009597,2:162105535,31604244,International Multiple Sclerosis Genetics Consortium
+rs17741873-G,5E-08,-,NR,1.0676,-,NR,"PLAU,CAMK2G",Multiple sclerosis,multiple sclerosis,-,GCST009597,10:73894042,31604244,International Multiple Sclerosis Genetics Consortium
+rs13385171-C,3E-11,-,NR,1.0679,-,NR,"SPRED2,LINC02934",Multiple sclerosis,multiple sclerosis,-,GCST009597,2:65434709,31604244,International Multiple Sclerosis Genetics Consortium
+rs11231749-C,1E-11,-,NR,1.0681,-,NR,"PRDX5,CCDC88B",Multiple sclerosis,multiple sclerosis,-,GCST009597,11:64327706,31604244,International Multiple Sclerosis Genetics Consortium
+rs72709458-T,7E-07,-,NR,1.0683,-,NR,TERT,Multiple sclerosis,multiple sclerosis,-,GCST009597,5:1283640,31604244,International Multiple Sclerosis Genetics Consortium
+rs6433892-A,1E-06,-,NR,1.0689,-,NR,LINC01934,Multiple sclerosis,multiple sclerosis,-,GCST009597,2:181106510,31604244,International Multiple Sclerosis Genetics Consortium
+rs7525478-T,1E-07,-,NR,1.0697,-,NR,CR1L,Multiple sclerosis,multiple sclerosis,-,GCST009597,1:207692807,31604244,International Multiple Sclerosis Genetics Consortium
+rs760517-C,5E-11,-,NR,1.07,-,NR,"NCF4-AS1,NCF4",Multiple sclerosis,multiple sclerosis,-,GCST009597,22:36862944,31604244,International Multiple Sclerosis Genetics Consortium
+rs4392367-G,1E-07,-,NR,1.0701,-,NR,CRTAP,Multiple sclerosis,multiple sclerosis,-,GCST009597,3:33130167,31604244,International Multiple Sclerosis Genetics Consortium
+rs61708525-G,2E-08,-,NR,1.0702,-,NR,PLXNC1,Multiple sclerosis,multiple sclerosis,-,GCST009597,12:94267677,31604244,International Multiple Sclerosis Genetics Consortium
+rs4939490-G,2E-29,-,NR,1.1237,-,NR,"CD6,LINC02954",Multiple sclerosis,multiple sclerosis,-,GCST009597,11:61026179,31604244,International Multiple Sclerosis Genetics Consortium
+rs701006-G,1E-30,-,NR,1.124,-,NR,OS9,Multiple sclerosis,multiple sclerosis,-,GCST009597,12:57713053,31604244,International Multiple Sclerosis Genetics Consortium
+rs73414214-C,6E-10,-,NR,1.1282,-,NR,"SYPL1,CDHR3",Multiple sclerosis,multiple sclerosis,-,GCST009597,7:106066016,31604244,International Multiple Sclerosis Genetics Consortium
+rs12133753-C,2E-16,-,NR,1.131,-,NR,TGFBR3,Multiple sclerosis,multiple sclerosis,-,GCST009597,1:91756532,31604244,International Multiple Sclerosis Genetics Consortium
+rs35703946-G,3E-17,-,NR,1.1315,-,NR,"LINC02132,LINC01082",Multiple sclerosis,multiple sclerosis,-,GCST009597,16:85987899,31604244,International Multiple Sclerosis Genetics Consortium
+chr3:100656795-T,2E-06,-,NR,1.1368,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+rs12722559-C,2E-15,-,NR,1.1372,-,NR,IL2RA,Multiple sclerosis,multiple sclerosis,-,GCST009597,10:6028310,31604244,International Multiple Sclerosis Genetics Consortium
+chr3:121765368-C,7E-43,-,NR,1.1384,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+rs35540610-C,3E-33,-,NR,1.1423,-,NR,SP140,Multiple sclerosis,multiple sclerosis,-,GCST009597,2:230257114,31604244,International Multiple Sclerosis Genetics Consortium
+rs17724508-T,6E-14,-,NR,1.1431,-,NR,"MAF,RNA5SP431",Multiple sclerosis,multiple sclerosis,-,GCST009597,16:79316307,31604244,International Multiple Sclerosis Genetics Consortium
+rs62420820-A,9E-36,-,NR,1.1444,-,NR,"IL22RA2,IL20RA",Multiple sclerosis,multiple sclerosis,-,GCST009597,6:137116920,31604244,International Multiple Sclerosis Genetics Consortium
+rs34947566-C,1E-23,-,NR,1.1463,-,NR,RMI2,Multiple sclerosis,multiple sclerosis,-,GCST009597,16:11319069,31604244,International Multiple Sclerosis Genetics Consortium
+rs6742-C,4E-14,-,NR,1.1492,-,NR,SLC2A4RG,Multiple sclerosis,multiple sclerosis,-,GCST009597,20:63743088,31604244,International Multiple Sclerosis Genetics Consortium
+rs72855540-G,2E-07,-,NR,1.1495,-,NR,GTDC1,Multiple sclerosis,multiple sclerosis,-,GCST009597,2:144232981,31604244,International Multiple Sclerosis Genetics Consortium
+rs438613-C,2E-49,-,NR,1.1504,-,NR,LINC01967,Multiple sclerosis,multiple sclerosis,-,GCST009597,3:28030595,31604244,International Multiple Sclerosis Genetics Consortium
+rs9843355-G,4E-30,-,NR,1.1525,-,NR,TIMMDC1,Multiple sclerosis,multiple sclerosis,-,GCST009597,3:119509661,31604244,International Multiple Sclerosis Genetics Consortium
+rs1077667-C,8E-33,-,NR,1.1546,-,NR,TNFSF14,Multiple sclerosis,multiple sclerosis,-,GCST009597,19:6668961,31604244,International Multiple Sclerosis Genetics Consortium
+chr3:100848597-C,6E-11,-,NR,1.1557,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+rs1323292-A,4E-33,-,NR,1.1625,-,NR,"RGS1,RGS21",Multiple sclerosis,multiple sclerosis,-,GCST009597,1:192571891,31604244,International Multiple Sclerosis Genetics Consortium
+rs72922276-G,1E-15,-,NR,1.1642,-,NR,JAK1,Multiple sclerosis,multiple sclerosis,-,GCST009597,1:64963636,31604244,International Multiple Sclerosis Genetics Consortium
+rs12832171-C,4E-10,-,NR,1.166,-,NR,TNFRSF1A,Multiple sclerosis,multiple sclerosis,-,GCST009597,12:6332456,31604244,International Multiple Sclerosis Genetics Consortium
+rs34536443-G,3E-11,-,NR,1.204,-,NR,TYK2,Multiple sclerosis,multiple sclerosis,-,GCST009597,19:10352442,31604244,International Multiple Sclerosis Genetics Consortium
+rs11256593-T,3E-65,-,NR,1.2062,-,NR,"RBM17,RPL32P23",Multiple sclerosis,multiple sclerosis,-,GCST009597,10:6075359,31604244,International Multiple Sclerosis Genetics Consortium
+chr1:198573373-C,2E-07,-,NR,1.2197,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+rs9591325-T,1E-19,-,NR,1.2276,-,NR,DLEU1,Multiple sclerosis,multiple sclerosis,-,GCST009597,13:50237084,31604244,International Multiple Sclerosis Genetics Consortium
+rs1026916-A,2E-28,-,NR,1.114082,-,NR,STAT3,Multiple sclerosis,multiple sclerosis,-,GCST009597,17:42377817,31604244,International Multiple Sclerosis Genetics Consortium
+rs10271373-A,3E-09,-,NR,1.0571942,-,NR,ZC3HAV1,Multiple sclerosis,multiple sclerosis,-,GCST009597,7:139045049,31604244,International Multiple Sclerosis Genetics Consortium
+rs10414065-T,4E-06,-,NR,1.0884947,-,NR,"SLC7A10,CEBPA",Multiple sclerosis,multiple sclerosis,-,GCST009597,19:33230549,31604244,International Multiple Sclerosis Genetics Consortium
+rs1059501-T,6E-07,-,NR,1.0588734,-,NR,"CD27,CD27-AS1",Multiple sclerosis,multiple sclerosis,-,GCST009597,12:6451407,31604244,International Multiple Sclerosis Genetics Consortium
+rs10758669-C,3E-07,-,NR,1.0605578,-,NR,"HNRNPA1P41,JAK2",Multiple sclerosis,multiple sclerosis,-,GCST009597,9:4981602,31604244,International Multiple Sclerosis Genetics Consortium
+rs1076928-T,3E-19,-,NR,1.1299435,-,NR,ETV7,Multiple sclerosis,multiple sclerosis,-,GCST009597,6:36380912,31604244,International Multiple Sclerosis Genetics Consortium
+rs10853845-G,2E-06,-,NR,1.0484378,-,NR,FPR1,Multiple sclerosis,multiple sclerosis,-,GCST009597,19:51784930,31604244,International Multiple Sclerosis Genetics Consortium
+rs1087056-A,3E-19,-,NR,1.0877842,-,NR,"LINC02664,ZNF438",Multiple sclerosis,multiple sclerosis,-,GCST009597,10:31106832,31604244,International Multiple Sclerosis Genetics Consortium
+rs10891261-C,6E-08,-,NR,1.0670081,-,NR,POU2AF1,Multiple sclerosis,multiple sclerosis,-,GCST009597,11:111405360,31604244,International Multiple Sclerosis Genetics Consortium
+rs10893900-G,3E-06,-,NR,1.048218,-,NR,"ETS1,FLI1",Multiple sclerosis,multiple sclerosis,-,GCST009597,11:128632327,31604244,International Multiple Sclerosis Genetics Consortium
+rs10904115-T,1E-07,-,NR,1.0595465,-,NR,"LINC02660,LINC02639",Multiple sclerosis,multiple sclerosis,-,GCST009597,10:3875982,31604244,International Multiple Sclerosis Genetics Consortium
+rs10918297-G,8E-07,-,NR,1.056859,-,NR,UCK2,Multiple sclerosis,multiple sclerosis,-,GCST009597,1:165863039,31604244,International Multiple Sclerosis Genetics Consortium
+rs10951154-C,3E-10,-,NR,1.0799136,-,NR,"HOTAIRM1,HOXA1",Multiple sclerosis,multiple sclerosis,-,GCST009597,7:27095695,31604244,International Multiple Sclerosis Genetics Consortium
+rs10965250-A,4E-07,-,NR,1.0634904,-,NR,"CDKN2B-AS1,DMRTA1",Multiple sclerosis,multiple sclerosis,-,GCST009597,9:22133285,31604244,International Multiple Sclerosis Genetics Consortium
+rs11125803-C,5E-10,-,NR,1.0708932,-,NR,ADCY3,Multiple sclerosis,multiple sclerosis,-,GCST009597,2:24829308,31604244,International Multiple Sclerosis Genetics Consortium
+rs11150602-G,5E-06,-,NR,1.0729614,-,NR,SETD1A,Multiple sclerosis,multiple sclerosis,-,GCST009597,16:30982502,31604244,International Multiple Sclerosis Genetics Consortium
+rs11161550-G,2E-09,-,NR,1.061008,-,NR,"C1orf52,SYDE2",Multiple sclerosis,multiple sclerosis,-,GCST009597,1:85216337,31604244,International Multiple Sclerosis Genetics Consortium
+rs1129183-T,4E-07,-,NR,1.0765421,-,NR,LZTFL1,Multiple sclerosis,multiple sclerosis,-,GCST009597,3:45828480,31604244,International Multiple Sclerosis Genetics Consortium
+rs11578655-G,3E-08,-,NR,1.0866022,-,NR,SLC30A7,Multiple sclerosis,multiple sclerosis,-,GCST009597,1:100947346,31604244,International Multiple Sclerosis Genetics Consortium
+rs11669861-C,8E-06,-,NR,1.0506408,-,NR,"MEF2B,BORCS8-MEF2B",Multiple sclerosis,multiple sclerosis,-,GCST009597,19:19166593,31604244,International Multiple Sclerosis Genetics Consortium
+rs11749040-A,5E-25,-,NR,1.1495575,-,NR,"RNU1-150P,TTC33",Multiple sclerosis,multiple sclerosis,-,GCST009597,5:40396323,31604244,International Multiple Sclerosis Genetics Consortium
+rs11809700-T,3E-30,-,NR,1.1300713,-,NR,EVI5,Multiple sclerosis,multiple sclerosis,-,GCST009597,1:92687078,31604244,International Multiple Sclerosis Genetics Consortium
+rs11810158-T,5E-06,-,NR,1.0800303,-,NR,"FTH1P22,PTGFRN",Multiple sclerosis,multiple sclerosis,-,GCST009597,1:116800821,31604244,International Multiple Sclerosis Genetics Consortium
+rs11852059-C,1E-09,-,NR,1.0950503,-,NR,GNG2,Multiple sclerosis,multiple sclerosis,-,GCST009597,14:51839373,31604244,International Multiple Sclerosis Genetics Consortium
+rs11899404-C,2E-08,-,NR,1.0546298,-,NR,MIR3681HG,Multiple sclerosis,multiple sclerosis,-,GCST009597,2:12467767,31604244,International Multiple Sclerosis Genetics Consortium
+rs62059189-T,3E-06,-,NR,1.0752687,-,NR,"SLC2A4,Y_RNA",Multiple sclerosis,multiple sclerosis,-,GCST009597,17:7272525,31604244,International Multiple Sclerosis Genetics Consortium
+rs6492971-A,3E-06,-,NR,1.0539628,-,NR,"ISCA1P4,DLL4",Multiple sclerosis,multiple sclerosis,-,GCST009597,15:40940837,31604244,International Multiple Sclerosis Genetics Consortium
+rs6495124-C,3E-07,-,NR,1.05241,-,NR,SCAMP2,Multiple sclerosis,multiple sclerosis,-,GCST009597,15:74862438,31604244,International Multiple Sclerosis Genetics Consortium
+rs6496663-C,1E-12,-,NR,1.0896807,-,NR,"GOLGA2P8,GABARAPL3",Multiple sclerosis,multiple sclerosis,-,GCST009597,15:90344352,31604244,International Multiple Sclerosis Genetics Consortium
+rs6564681-C,4E-14,-,NR,1.0808474,-,NR,"LINC01229,MAF",Multiple sclerosis,multiple sclerosis,-,GCST009597,16:79618823,31604244,International Multiple Sclerosis Genetics Consortium
+rs6589939-G,2E-12,-,NR,1.0828371,-,NR,"UBASH3B,GLULP3",Multiple sclerosis,multiple sclerosis,-,GCST009597,11:122647817,31604244,International Multiple Sclerosis Genetics Consortium
+rs6670198-T,2E-36,-,NR,1.1367512,-,NR,PRXL2B,Multiple sclerosis,multiple sclerosis,-,GCST009597,1:2589088,31604244,International Multiple Sclerosis Genetics Consortium
+rs6672420-A,1E-09,-,NR,1.0633773,-,NR,RUNX3,Multiple sclerosis,multiple sclerosis,-,GCST009597,1:24964519,31604244,International Multiple Sclerosis Genetics Consortium
+rs67457628-T,7E-06,-,NR,1.0630382,-,NR,"SMG6,HIC1",Multiple sclerosis,multiple sclerosis,-,GCST009597,17:2061984,31604244,International Multiple Sclerosis Genetics Consortium
+rs67934705-G,4E-08,-,NR,1.0684903,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST009597,-,31604244,International Multiple Sclerosis Genetics Consortium
+rs6837324-G,1E-11,-,NR,1.0665529,-,NR,TXK,Multiple sclerosis,multiple sclerosis,-,GCST009597,4:48125245,31604244,International Multiple Sclerosis Genetics Consortium
+rs6911131-G,1E-10,-,NR,1.121202,-,NR,PHACTR2,Multiple sclerosis,multiple sclerosis,-,GCST009597,6:143544084,31604244,International Multiple Sclerosis Genetics Consortium
+rs6990534-G,6E-20,-,NR,1.1020498,-,NR,PVT1,Multiple sclerosis,multiple sclerosis,-,GCST009597,8:127801845,31604244,International Multiple Sclerosis Genetics Consortium
+rs7260482-C,1E-09,-,NR,1.0778185,-,NR,CEACAM16-AS1,Multiple sclerosis,multiple sclerosis,-,GCST009597,19:44640642,31604244,International Multiple Sclerosis Genetics Consortium
+rs72665771-A,8E-06,-,NR,1.0556318,-,NR,MAPK10,Multiple sclerosis,multiple sclerosis,-,GCST009597,4:86592426,31604244,International Multiple Sclerosis Genetics Consortium
+rs72928038-A,8E-29,-,NR,1.1543345,-,NR,BACH2,Multiple sclerosis,multiple sclerosis,-,GCST009597,6:90267049,31604244,International Multiple Sclerosis Genetics Consortium
+rs7295386-C,9E-06,-,NR,1.0539628,-,NR,"ATF1,RN7SL519P",Multiple sclerosis,multiple sclerosis,-,GCST009597,12:50827114,31604244,International Multiple Sclerosis Genetics Consortium
+rs73060045-G,8E-07,-,NR,1.1214534,-,NR,"BCL2L14,ETV6",Multiple sclerosis,multiple sclerosis,-,GCST009597,12:12015197,31604244,International Multiple Sclerosis Genetics Consortium
+rs73277163-G,2E-06,-,NR,1.2033695,-,NR,ETV6,Multiple sclerosis,multiple sclerosis,-,GCST009597,12:11845842,31604244,International Multiple Sclerosis Genetics Consortium
+rs7698247-G,6E-07,-,NR,1.0615711,-,NR,"N4BP2,RHOH",Multiple sclerosis,multiple sclerosis,-,GCST009597,4:40190429,31604244,International Multiple Sclerosis Genetics Consortium
+rs7830997-A,9E-08,-,NR,1.0625863,-,NR,"LINC03020,TRAM1",Multiple sclerosis,multiple sclerosis,-,GCST009597,8:70529879,31604244,International Multiple Sclerosis Genetics Consortium
+rs7975763-T,3E-13,-,NR,1.085305,-,NR,PITPNM2,Multiple sclerosis,multiple sclerosis,-,GCST009597,12:123119506,31604244,International Multiple Sclerosis Genetics Consortium
+rs7977720-T,5E-24,-,NR,1.0995052,-,NR,CLECL1P,Multiple sclerosis,multiple sclerosis,-,GCST009597,12:9713753,31604244,International Multiple Sclerosis Genetics Consortium
+rs883871-A,9E-14,-,NR,1.1280316,-,NR,NR1D1,Multiple sclerosis,multiple sclerosis,-,GCST009597,17:40096407,31604244,International Multiple Sclerosis Genetics Consortium
+rs9308424-G,9E-14,-,NR,1.0945709,-,NR,"NSL1,BATF3",Multiple sclerosis,multiple sclerosis,-,GCST009597,1:212704434,31604244,International Multiple Sclerosis Genetics Consortium
+rs3747562-G,9E-06,-,NR,1.0571942,-,NR,PRICKLE1,Multiple sclerosis,multiple sclerosis,-,GCST009597,12:42460403,31604244,International Multiple Sclerosis Genetics Consortium
+rs3809627-C,1E-21,-,NR,1.0943314,-,NR,TBX6,Multiple sclerosis,multiple sclerosis,-,GCST009597,16:30091839,31604244,International Multiple Sclerosis Genetics Consortium
+rs405343-T,3E-15,-,NR,1.101079,-,NR,"SSTR5,SOX8",Multiple sclerosis,multiple sclerosis,-,GCST009597,16:1017832,31604244,International Multiple Sclerosis Genetics Consortium
+rs408667-A,3E-07,-,NR,1.0526316,-,NR,GALC,Multiple sclerosis,multiple sclerosis,-,GCST009597,14:87951477,31604244,International Multiple Sclerosis Genetics Consortium
+rs4262739-G,4E-12,-,NR,1.0676917,-,NR,ETS1,Multiple sclerosis,multiple sclerosis,-,GCST009597,11:128551280,31604244,International Multiple Sclerosis Genetics Consortium
+rs4325907-C,2E-09,-,NR,1.0751532,-,NR,"ZPLD1,RDUR",Multiple sclerosis,multiple sclerosis,-,GCST009597,3:102030178,31604244,International Multiple Sclerosis Genetics Consortium
+rs4409785-C,7E-12,-,NR,1.0874293,-,NR,"FAM76B,LNCRNA-IUR",Multiple sclerosis,multiple sclerosis,-,GCST009597,11:95578258,31604244,International Multiple Sclerosis Genetics Consortium
+rs4661089-T,2E-06,-,NR,1.0605578,-,NR,"ETV3L,ETV3",Multiple sclerosis,multiple sclerosis,-,GCST009597,1:157119355,31604244,International Multiple Sclerosis Genetics Consortium
+rs4728142-A,3E-09,-,NR,1.058313,-,NR,"KCP,IRF5",Multiple sclerosis,multiple sclerosis,-,GCST009597,7:128933913,31604244,International Multiple Sclerosis Genetics Consortium
+rs4765569-C,2E-07,-,NR,1.0887316,-,NR,NCOR2,Multiple sclerosis,multiple sclerosis,-,GCST009597,12:124466106,31604244,International Multiple Sclerosis Genetics Consortium
+rs4796224-G,1E-15,-,NR,1.0915838,-,NR,ZNHIT3,Multiple sclerosis,multiple sclerosis,-,GCST009597,17:36486677,31604244,International Multiple Sclerosis Genetics Consortium
+rs4808760-C,6E-25,-,NR,1.1198208,-,NR,"IFI30,MPV17L2",Multiple sclerosis,multiple sclerosis,-,GCST009597,19:18191169,31604244,International Multiple Sclerosis Genetics Consortium
+rs4812492-C,3E-06,-,NR,1.0664392,-,NR,ZHX3,Multiple sclerosis,multiple sclerosis,-,GCST009597,20:41309482,31604244,International Multiple Sclerosis Genetics Consortium
+rs483180-C,1E-17,-,NR,1.0858942,-,NR,PHGDH,Multiple sclerosis,multiple sclerosis,-,GCST009597,1:119724882,31604244,International Multiple Sclerosis Genetics Consortium
+rs4834222-T,2E-07,-,NR,1.0647359,-,NR,FAM241A,Multiple sclerosis,multiple sclerosis,-,GCST009597,4:112153589,31604244,International Multiple Sclerosis Genetics Consortium
+rs4896153-T,3E-29,-,NR,1.1152002,-,NR,AHI1-DT,Multiple sclerosis,multiple sclerosis,-,GCST009597,6:135512325,31604244,International Multiple Sclerosis Genetics Consortium
+rs4896477-G,8E-08,-,NR,1.055409,-,NR,"LINC01625,ATP5PBP6",Multiple sclerosis,multiple sclerosis,-,GCST009597,6:139580677,31604244,International Multiple Sclerosis Genetics Consortium
+rs531612-T,1E-09,-,NR,1.0689471,-,NR,"DRAP1,TSGA10IP",Multiple sclerosis,multiple sclerosis,-,GCST009597,11:65937961,31604244,International Multiple Sclerosis Genetics Consortium
+rs55858457-T,3E-08,-,NR,1.0665529,-,NR,CHST12,Multiple sclerosis,multiple sclerosis,-,GCST009597,7:2403667,31604244,International Multiple Sclerosis Genetics Consortium
+rs56095240-A,1E-09,-,NR,1.108156,-,NR,"LNCRNA-IUR,FAM76B",Multiple sclerosis,multiple sclerosis,-,GCST009597,11:95688666,31604244,International Multiple Sclerosis Genetics Consortium
+rs56376240-A,7E-08,-,NR,1.0851872,-,NR,HTR3A,Multiple sclerosis,multiple sclerosis,-,GCST009597,11:113978180,31604244,International Multiple Sclerosis Genetics Consortium
+rs57116599-G,1E-11,-,NR,1.0944512,-,NR,MERTK,Multiple sclerosis,multiple sclerosis,-,GCST009597,2:112013222,31604244,International Multiple Sclerosis Genetics Consortium
+rs58394161-C,1E-14,-,NR,1.1326311,-,NR,GFI1,Multiple sclerosis,multiple sclerosis,-,GCST009597,1:92474402,31604244,International Multiple Sclerosis Genetics Consortium
+rs60600003-G,5E-19,-,NR,1.1460004,-,NR,ELMO1,Multiple sclerosis,multiple sclerosis,-,GCST009597,7:37342861,31604244,International Multiple Sclerosis Genetics Consortium
+rs61909096-G,5E-06,-,NR,1.0527425,-,NR,ETS1,Multiple sclerosis,multiple sclerosis,-,GCST009597,11:128481247,31604244,International Multiple Sclerosis Genetics Consortium
+rs9399125-C,7E-07,-,NR,1.066098,-,NR,"MEMO1P2,LINC03002",Multiple sclerosis,multiple sclerosis,-,GCST009597,6:134876770,31604244,International Multiple Sclerosis Genetics Consortium
+rs9568402-T,5E-09,-,NR,1.0899183,-,NR,DLEU1,Multiple sclerosis,multiple sclerosis,-,GCST009597,13:50387821,31604244,International Multiple Sclerosis Genetics Consortium
+rs9844930-A,8E-07,-,NR,1.0587612,-,NR,ARHGEF3,Multiple sclerosis,multiple sclerosis,-,GCST009597,3:56919146,31604244,International Multiple Sclerosis Genetics Consortium
+rs9863496-C,3E-14,-,NR,1.0755001,-,NR,SATB1-AS1,Multiple sclerosis,multiple sclerosis,-,GCST009597,3:18757356,31604244,International Multiple Sclerosis Genetics Consortium
+rs9909593-G,9E-17,-,NR,1.081198,-,NR,IKZF3,Multiple sclerosis,multiple sclerosis,-,GCST009597,17:39813896,31604244,International Multiple Sclerosis Genetics Consortium
+rs9955954-A,5E-11,-,NR,1.0893246,-,NR,MALT1,Multiple sclerosis,multiple sclerosis,-,GCST009597,18:58680812,31604244,International Multiple Sclerosis Genetics Consortium
+rs9992763-G,2E-11,-,NR,1.0656437,-,NR,LEF1,Multiple sclerosis,multiple sclerosis,-,GCST009597,4:108137562,31604244,International Multiple Sclerosis Genetics Consortium
+rs6072343-A,3E-09,-,NR,1.0815488,-,NR,"LPIN3,ADI1P1",Multiple sclerosis,multiple sclerosis,-,GCST009597,20:41339548,31604244,International Multiple Sclerosis Genetics Consortium
+rs9271640-A,5E-12,-,NR,1.56,-,[1.38-1.77],"HLA-DQA1,HLA-DRB1",Oligoclonal band status in multiple sclerosis,oligoclonal band measurement,multiple sclerosis,GCST002758,6:32624423,25616667,Goris A
+rs9807334-?,8E-07,-,NR,1.52,-,[1.28-1.79],"ELAC1,SMAD4",Oligoclonal band status in multiple sclerosis,oligoclonal band measurement,multiple sclerosis,GCST002758,18:50997791,25616667,Goris A
+"rs9271640-G,rs3135388-A,rs3957148-A",4E-15,-,0.28,2.23,-,[1.82-2.74],HLA-DRB1 - HLA-DQA1; HLA-DRA - HLA-DRB9; MTCO3P1 - HLA-DQB3,Oligoclonal band status in multiple sclerosis,oligoclonal band measurement,multiple sclerosis,GCST002758,"6:32624423,6:32445274,6:32714360",25616667,Goris A
+rs6457617-A,7E-17,-,NR,-,0.127 unit decrease,[NR],"MTCO3P1,HLA-DQB1",Immunoglobulin G index levels in multiple sclerosis,IgG index,multiple sclerosis,GCST002757,6:32696074,25616667,Goris A
+rs11621145-G,4E-37,-,NR,-,0.23 unit increase,[NR],IGHA1,Immunoglobulin G index levels in multiple sclerosis,IgG index,multiple sclerosis,GCST002757,14:105706543,25616667,Goris A
+"rs9271640-A,rs6457617-G,rs3957148-A",8E-14,-,0.28,-,-,-,HLA-DRB1 - HLA-DQA1; HLA-DQB1 - MTCO3P1; MTCO3P1 - HLA-DQB3,Immunoglobulin G index levels in multiple sclerosis,IgG index,multiple sclerosis,GCST002757,"6:32624423,6:32696074,6:32714360",25616667,Goris A
+rs2205986-?,2E-08,-,NR,8.3,-,[3.6-19.2],SYT14,Drug-induced liver injury in interferon-beta-treated multiple sclerosis,"response to interferon-beta,drug-induced liver injury",multiple sclerosis,GCST006270,1:209942767,30013178,Kowalec K
+rs3007421-A,5E-10,-,0.13,1.11,-,-,PLEKHG5,Multiple sclerosis,multiple sclerosis,-,GCST005531,1:6470129,24076602,Beecham AH
+rs2688608-A,4E-08,-,0.56,1.07,-,-,"CAMK2G,PLAU",Multiple sclerosis,multiple sclerosis,-,GCST005531,10:73898591,24076602,Beecham AH
+rs7120737-G,1E-09,-,0.15,1.1,-,-,AGBL2,Multiple sclerosis,multiple sclerosis,-,GCST005531,11:47680843,24076602,Beecham AH
+rs694739-A,2E-09,-,0.62,1.07,-,-,"CCDC88B,PRDX5",Multiple sclerosis,multiple sclerosis,-,GCST005531,11:64329761,24076602,Beecham AH
+rs666930-G,6E-12,-,0.53,1.08,-,-,PHGDH,Multiple sclerosis,multiple sclerosis,-,GCST005531,1:119716347,24076602,Beecham AH
+rs12296430-C,7E-14,-,0.21,1.12,-,-,"RPL31P10,LTBR",Multiple sclerosis,multiple sclerosis,-,GCST005531,12:6394334,24076602,Beecham AH
+rs35967351-A,4E-11,-,0.68,1.09,-,-,SLAMF7,Multiple sclerosis,multiple sclerosis,-,GCST005531,1:160742014,24076602,Beecham AH
+rs12148050-A,5E-13,-,0.36,1.09,-,-,TRAF3,Multiple sclerosis,multiple sclerosis,-,GCST005531,14:102797451,24076602,Beecham AH
+rs842639-A,2E-14,-,0.67,1.1,-,-,REL-DT,Multiple sclerosis,multiple sclerosis,-,GCST005531,2:60868110,24076602,Beecham AH
+rs9967792-G,4E-12,-,0.64,1.09,-,-,STAT4,Multiple sclerosis,multiple sclerosis,-,GCST005531,2:191109709,24076602,Beecham AH
+rs6498184-G,7E-18,-,0.82,1.15,-,-,RMI2,Multiple sclerosis,multiple sclerosis,-,GCST005531,16:11342133,24076602,Beecham AH
+rs4679081-G,2E-09,-,0.55,1.07,-,-,"CCR4,GLB1",Multiple sclerosis,multiple sclerosis,-,GCST005531,3:32971991,24076602,Beecham AH
+rs1886700-A,1E-08,-,0.14,1.1,-,-,CDH3,Multiple sclerosis,multiple sclerosis,-,GCST005531,16:68652002,24076602,Beecham AH
+rs12149527-A,3E-11,-,0.47,1.08,-,-,WWOX,Multiple sclerosis,multiple sclerosis,-,GCST005531,16:79076699,24076602,Beecham AH
+rs7196953-A,1E-10,-,0.3,1.09,-,-,"LINC01229,MAF",Multiple sclerosis,multiple sclerosis,-,GCST005531,16:79615497,24076602,Beecham AH
+rs12946510-A,3E-09,-,0.48,1.07,-,-,"IKZF3,GRB7",Multiple sclerosis,multiple sclerosis,-,GCST005531,17:39756124,24076602,Beecham AH
+rs17119-A,1E-10,-,0.8,1.1,-,-,"RNU6-793P,RPL6P17",Multiple sclerosis,multiple sclerosis,-,GCST005531,6:14719265,24076602,Beecham AH
+rs2288904-G,2E-11,-,0.78,1.1,-,-,SLC44A2,Multiple sclerosis,multiple sclerosis,-,GCST005531,19:10631494,24076602,Beecham AH
+rs1843938-A,1E-10,-,0.44,1.08,-,-,"SDK1-AS1,CARD11",Multiple sclerosis,multiple sclerosis,-,GCST005531,7:3073400,24076602,Beecham AH
+rs17785991-A,4E-08,-,0.34,1.07,-,-,SLC9A8,Multiple sclerosis,multiple sclerosis,-,GCST005531,20:49822224,24076602,Beecham AH
+rs917116-C,3E-10,-,0.21,1.09,-,-,JAZF1,Multiple sclerosis,multiple sclerosis,-,GCST005531,7:28133120,24076602,Beecham AH
+rs7769192-G,3E-09,(conditioned on rs67297943),0.54,1.08,-,-,"BTF3L4P3,LINC03004",Multiple sclerosis,multiple sclerosis,-,GCST005531,6:137641518,24076602,Beecham AH
+rs201847125-G,1E-11,-,0.7,1.1,-,-,"IKZF1,SPMIP7",Multiple sclerosis,multiple sclerosis,-,GCST005531,7:50285971,24076602,Beecham AH
+rs4780346-A,4E-10,(conditioned on rs12927355),0.25,1.09,-,-,"HNRNPCP4,CLEC16A",Multiple sclerosis,multiple sclerosis,-,GCST005531,16:11194949,24076602,Beecham AH
+rs793108-A,6E-12,-,0.51,1.08,-,-,"LINC02664,ZNF438",Multiple sclerosis,multiple sclerosis,-,GCST005531,10:31126177,24076602,Beecham AH
+rs12087340-A,1E-20,-,0.09,1.21,-,-,BCL10-AS1,Multiple sclerosis,multiple sclerosis,-,GCST005531,1:85281310,24076602,Beecham AH
+rs11587876-A,4E-09,-,0.81,1.09,-,-,DDAH1,Multiple sclerosis,multiple sclerosis,-,GCST005531,1:85449500,24076602,Beecham AH
+rs9736016-T,3E-15,-,0.63,1.1,-,-,"CXCR5,Y_RNA",Multiple sclerosis,multiple sclerosis,-,GCST005531,11:118854185,24076602,Beecham AH
+rs2050568-G,2E-10,-,0.54,1.08,-,-,FCRL1,Multiple sclerosis,multiple sclerosis,-,GCST005531,1:157800451,24076602,Beecham AH
+rs4772201-A,1E-10,-,0.83,1.1,-,-,"TM9SF2,CCR12P",Multiple sclerosis,multiple sclerosis,-,GCST005531,13:99434005,24076602,Beecham AH
+rs4665719-G,3E-09,-,0.25,1.08,-,-,CENPO,Multiple sclerosis,multiple sclerosis,-,GCST005531,2:24794991,24076602,Beecham AH
+rs59772922-A,1E-08,-,0.83,1.09,-,-,"CTSH,RNU6-415P",Multiple sclerosis,multiple sclerosis,-,GCST005531,15:78915124,24076602,Beecham AH
+rs8042861-A,2E-09,-,0.45,1.07,-,-,IQGAP1,Multiple sclerosis,multiple sclerosis,-,GCST005531,15:90434101,24076602,Beecham AH
+rs11719975-C,1E-08,-,0.28,1.08,-,-,SATB1-AS1,Multiple sclerosis,multiple sclerosis,-,GCST005531,3:18744093,24076602,Beecham AH
+rs7204270-G,2E-11,-,0.49,1.09,-,-,"CORO1A,MAPK3",Multiple sclerosis,multiple sclerosis,-,GCST005531,16:30145642,24076602,Beecham AH
+rs9828629-G,2E-10,-,0.64,1.08,-,-,FOXP1,Multiple sclerosis,multiple sclerosis,-,GCST005531,3:71481195,24076602,Beecham AH
+rs2726518-C,4E-08,-,0.58,1.07,-,-,TET2,Multiple sclerosis,multiple sclerosis,-,GCST005531,4:105252042,24076602,Beecham AH
+rs756699-A,9E-11,-,0.88,1.12,-,-,"VDAC1,TCF7",Multiple sclerosis,multiple sclerosis,-,GCST005531,5:134110884,24076602,Beecham AH
+rs1036207-C,4E-09,-,0.62,1.07,-,-,NDFIP1,Multiple sclerosis,multiple sclerosis,-,GCST005531,5:142119476,24076602,Beecham AH
+rs4976646-G,4E-18,-,0.36,1.12,-,-,RGS14,Multiple sclerosis,multiple sclerosis,-,GCST005531,5:177361569,24076602,Beecham AH
+rs4794058-A,1E-13,-,0.52,1.09,-,-,"MRPL45P2,NPEPPS",Multiple sclerosis,multiple sclerosis,-,GCST005531,17:47519732,24076602,Beecham AH
+rs941816-G,4E-10,-,0.2,1.11,-,-,PXT1,Multiple sclerosis,multiple sclerosis,-,GCST005531,6:36407527,24076602,Beecham AH
+rs1870071-G,2E-15,-,0.3,1.1,-,-,EPS15L1,Multiple sclerosis,multiple sclerosis,-,GCST005531,19:16394295,24076602,Beecham AH
+rs706015-C,1E-10,-,0.18,1.1,-,-,SKAP2,Multiple sclerosis,multiple sclerosis,-,GCST005531,7:26975369,24076602,Beecham AH
+rs2256814-A,4E-09,-,0.21,1.09,-,-,SLC2A4RG,Multiple sclerosis,multiple sclerosis,-,GCST005531,20:63742630,24076602,Beecham AH
+rs60600003-C,6E-14,-,0.1,1.15,-,-,ELMO1,Multiple sclerosis,multiple sclerosis,-,GCST005531,7:37342861,24076602,Beecham AH
+rs533646-G,8E-11,(conditioned on rs9736016),0.68,1.09,-,-,"TREHP1,RNU6-376P",Multiple sclerosis,multiple sclerosis,-,GCST005531,11:118696037,24076602,Beecham AH
+rs2456449-G,2E-09,-,0.37,1.08,-,-,"CASC19,PCAT1",Multiple sclerosis,multiple sclerosis,-,GCST005531,8:127180736,24076602,Beecham AH
+rs3748817-A,1E-26,-,0.65,1.14,-,-,MMEL1,Multiple sclerosis,multiple sclerosis,-,GCST005531,1:2594226,24076602,Beecham AH
+rs41286801-A,1E-26,-,0.16,1.19,-,-,EVI5,Multiple sclerosis,multiple sclerosis,-,GCST005531,1:92509907,24076602,Beecham AH
+rs2104286-A,2E-47,-,0.73,1.22,-,-,IL2RA,Multiple sclerosis,multiple sclerosis,-,GCST005531,10:6057082,24076602,Beecham AH
+rs1782645-A,3E-15,-,0.41,1.1,-,-,ZMIZ1,Multiple sclerosis,multiple sclerosis,-,GCST005531,10:79288854,24076602,Beecham AH
+rs7923837-G,4E-17,-,0.62,1.11,-,-,"Y_RNA,EXOC6",Multiple sclerosis,multiple sclerosis,-,GCST005531,10:92722160,24076602,Beecham AH
+rs34383631-A,4E-23,-,0.39,1.13,-,-,"CD6,LINC02954",Multiple sclerosis,multiple sclerosis,-,GCST005531,11:61025858,24076602,Beecham AH
+rs1800693-G,7E-28,-,0.41,1.14,-,-,TNFRSF1A,Multiple sclerosis,multiple sclerosis,-,GCST005531,12:6330843,24076602,Beecham AH
+rs11052877-G,6E-13,-,0.38,1.09,-,-,CD69,Multiple sclerosis,multiple sclerosis,-,GCST005531,12:9753094,24076602,Beecham AH
+rs201202118-A,9E-22,-,0.67,1.13,-,-,TSFM,Multiple sclerosis,multiple sclerosis,-,GCST005531,12:57788279,24076602,Beecham AH
+rs7132277-A,2E-13,-,0.19,1.12,-,-,PITPNM2,Multiple sclerosis,multiple sclerosis,-,GCST005531,12:123108835,24076602,Beecham AH
+rs2236262-A,3E-12,-,0.5,1.08,-,-,ZFP36L1,Multiple sclerosis,multiple sclerosis,-,GCST005531,14:68794755,24076602,Beecham AH
+rs74796499-C,2E-20,-,0.95,1.32,-,-,GALC,Multiple sclerosis,multiple sclerosis,-,GCST005531,14:87965984,24076602,Beecham AH
+rs12927355-G,6E-46,-,0.69,1.2,-,-,CLEC16A,Multiple sclerosis,multiple sclerosis,-,GCST005531,16:11100914,24076602,Beecham AH
+rs35929052-G,6E-12,-,0.88,1.15,-,-,"LINC01082,LINC02132",Multiple sclerosis,multiple sclerosis,-,GCST005531,16:85960878,24076602,Beecham AH
+rs4796791-A,4E-20,-,0.36,1.12,-,-,STAT3,Multiple sclerosis,multiple sclerosis,-,GCST005531,17:42378745,24076602,Beecham AH
+rs8070345-A,2E-23,-,0.46,1.12,-,-,VMP1,Multiple sclerosis,multiple sclerosis,-,GCST005531,17:59739396,24076602,Beecham AH
+rs1077667-G,2E-24,-,0.79,1.16,-,-,TNFSF14,Multiple sclerosis,multiple sclerosis,-,GCST005531,19:6668961,24076602,Beecham AH
+rs34536443-C,2E-14,-,0.96,1.29,-,-,TYK2,Multiple sclerosis,multiple sclerosis,-,GCST005531,19:10352442,24076602,Beecham AH
+rs11554159-G,2E-24,-,0.74,1.15,-,-,IFI30,Multiple sclerosis,multiple sclerosis,-,GCST005531,19:18175134,24076602,Beecham AH
+rs8107548-G,6E-15,-,0.26,1.11,-,-,DKKL1,Multiple sclerosis,multiple sclerosis,-,GCST005531,19:49367386,24076602,Beecham AH
+rs4810485-A,8E-16,-,0.25,1.11,-,-,CD40,Multiple sclerosis,multiple sclerosis,-,GCST005531,20:46119308,24076602,Beecham AH
+rs2248359-G,2E-13,-,0.62,1.09,-,-,"CYP24A1,PFDN4",Multiple sclerosis,multiple sclerosis,-,GCST005531,20:54174979,24076602,Beecham AH
+rs2283792-C,6E-16,-,0.53,1.1,-,-,MAPK1,Multiple sclerosis,multiple sclerosis,-,GCST005531,22:21776836,24076602,Beecham AH
+rs523604-A,6E-15,(conditioned on rs9736016 and rs533646),0.54,1.1,-,-,CXCR5,Multiple sclerosis,multiple sclerosis,-,GCST005531,11:118885029,24076602,Beecham AH
+rs5756391-A,1E-06,-,0.39,1.06,-,[1.03-1.08],"CSF2RB,NCF4",Multiple sclerosis,multiple sclerosis,-,GCST005531,22:36902302,24076602,Beecham AH
+rs2073167-A,1E-06,-,0.52,1.06,-,[1.03-1.08],TEF,Multiple sclerosis,multiple sclerosis,-,GCST005531,22:41395532,24076602,Beecham AH
+rs4755450-G,7E-06,-,0.66,1.06,-,[1.03-1.08],PRR5L,Multiple sclerosis,multiple sclerosis,-,GCST005531,11:36342025,24076602,Beecham AH
+rs7552544-A,2E-16,-,0.43,1.1,-,-,"VCAM1,EXTL2",Multiple sclerosis,multiple sclerosis,-,GCST005531,1:100775337,24076602,Beecham AH
+rs6677309-A,5E-42,-,0.88,1.29,-,-,CD58,Multiple sclerosis,multiple sclerosis,-,GCST005531,1:116537544,24076602,Beecham AH
+rs1359062-C,5E-20,-,0.83,1.15,-,-,"RGS21,RGS1",Multiple sclerosis,multiple sclerosis,-,GCST005531,1:192572342,24076602,Beecham AH
+rs55838263-A,4E-19,-,0.71,1.13,-,-,INAVA,Multiple sclerosis,multiple sclerosis,-,GCST005531,1:200905600,24076602,Beecham AH
+rs2163226-A,2E-16,-,0.73,1.12,-,-,LINC02580,Multiple sclerosis,multiple sclerosis,-,GCST005531,2:43134117,24076602,Beecham AH
+rs7595717-A,1E-13,-,0.27,1.1,-,-,"CNRIP1,PLEK",Multiple sclerosis,multiple sclerosis,-,GCST005531,2:68360345,24076602,Beecham AH
+rs9989735-C,4E-23,-,0.19,1.16,-,-,SP140,Multiple sclerosis,multiple sclerosis,-,GCST005531,2:230250739,24076602,Beecham AH
+rs2371108-A,2E-15,-,0.39,1.1,-,-,"LINC02084,EOMES",Multiple sclerosis,multiple sclerosis,-,GCST005531,3:27715527,24076602,Beecham AH
+rs1813375-A,2E-32,-,0.49,1.15,-,-,LINC01967,Multiple sclerosis,multiple sclerosis,-,GCST005531,3:28037080,24076602,Beecham AH
+rs1131265-C,1E-23,-,0.81,1.17,-,-,TIMMDC1,Multiple sclerosis,multiple sclerosis,-,GCST005531,3:119503609,24076602,Beecham AH
+rs1920296-C,7E-22,-,0.64,1.12,-,-,IQCB1,Multiple sclerosis,multiple sclerosis,-,GCST005531,3:121824730,24076602,Beecham AH
+rs2255214-C,1E-24,-,0.52,1.13,-,-,"CD86,Y_RNA",Multiple sclerosis,multiple sclerosis,-,GCST005531,3:122051692,24076602,Beecham AH
+rs1014486-G,1E-18,-,0.44,1.11,-,-,IL12A-AS1,Multiple sclerosis,multiple sclerosis,-,GCST005531,3:159973324,24076602,Beecham AH
+rs7665090-G,1E-08,-,0.53,1.09,-,-,"NFKB1,MANBA",Multiple sclerosis,multiple sclerosis,-,GCST005531,4:102630446,24076602,Beecham AH
+rs6881706-C,4E-17,-,0.73,1.12,-,-,IL7R,Multiple sclerosis,multiple sclerosis,-,GCST005531,5:35879054,24076602,Beecham AH
+rs6880778-G,8E-20,-,0.61,1.12,-,-,"TTC33,RNU1-150P",Multiple sclerosis,multiple sclerosis,-,GCST005531,5:40398994,24076602,Beecham AH
+rs71624119-G,3E-13,-,0.76,1.11,-,-,ANKRD55,Multiple sclerosis,multiple sclerosis,-,GCST005531,5:56144903,24076602,Beecham AH
+rs72928038-A,2E-15,-,0.19,1.14,-,-,BACH2,Multiple sclerosis,multiple sclerosis,-,GCST005531,6:90267049,24076602,Beecham AH
+rs11154801-A,2E-20,-,0.37,1.12,-,-,AHI1,Multiple sclerosis,multiple sclerosis,-,GCST005531,6:135418217,24076602,Beecham AH
+rs17066096-G,2E-23,-,0.25,1.14,-,-,"IL22RA2,IL20RA",Multiple sclerosis,multiple sclerosis,-,GCST005531,6:137131771,24076602,Beecham AH
+rs67297943-A,6E-13,-,0.8,1.11,-,-,"TNFAIP3,SIMALR",Multiple sclerosis,multiple sclerosis,-,GCST005531,6:137923679,24076602,Beecham AH
+rs212405-T,8E-21,-,0.64,1.12,-,-,TAGAP-AS1,Multiple sclerosis,multiple sclerosis,-,GCST005531,6:159049527,24076602,Beecham AH
+rs1021156-A,9E-17,-,0.26,1.11,-,-,"ZC2HC1A,PKIA",Multiple sclerosis,multiple sclerosis,-,GCST005531,8:78663569,24076602,Beecham AH
+rs4410871-G,4E-16,-,0.72,1.11,-,-,PVT1,Multiple sclerosis,multiple sclerosis,-,GCST005531,8:127802783,24076602,Beecham AH
+rs759648-C,5E-10,-,0.31,1.08,-,-,PVT1,Multiple sclerosis,multiple sclerosis,-,GCST005531,8:128146699,24076602,Beecham AH
+rs3004212-G,3E-07,-,0.73,1.07,-,[1.04-1.10],CSGALNACT2,Multiple sclerosis,multiple sclerosis,-,GCST005531,10:43147362,24076602,Beecham AH
+rs12368653-A,2E-09,(Conditioned on rs7238078),NR,1.1,-,[1.09-1.12],"AGAP2,TSPAN31",Multiple sclerosis,multiple sclerosis,-,GCST001198,12:57739473,21833088,Sawcer S
+rs11154801-A,1E-13,-,NR,1.13,-,[1.11-1.15],AHI1,Multiple sclerosis,multiple sclerosis,-,GCST001198,6:135418217,21833088,Sawcer S
+rs12456021-A,4E-06,-,NR,1.1,-,[1.08-1.12],ALPK2,Multiple sclerosis,multiple sclerosis,-,GCST001198,18:58546158,21833088,Sawcer S
+rs12212193-G,4E-08,-,NR,1.09,-,[1.08-1.1],BACH2,Multiple sclerosis,multiple sclerosis,-,GCST001198,6:90287050,21833088,Sawcer S
+rs2300603-A,2E-08,-,NR,1.11,-,[1.09-1.12],BATF,Multiple sclerosis,multiple sclerosis,-,GCST001198,14:75539214,21833088,Sawcer S
+rs7522462-G,2E-09,-,NR,1.11,-,[1.1-1.13],INAVA,Multiple sclerosis,multiple sclerosis,-,GCST001198,1:200912467,21833088,Sawcer S
+rs2293370-G,3E-09,-,NR,1.13,-,[1.11-1.15],TIMMDC1,Multiple sclerosis,multiple sclerosis,-,GCST001198,3:119501087,21833088,Sawcer S
+rs650258-G,2E-11,-,NR,1.12,-,[1.1-1.13],LINC02954,Multiple sclerosis,multiple sclerosis,-,GCST001198,11:61064810,21833088,Sawcer S
+rs1335532-A,3E-16,-,NR,1.22,-,[1.19-1.24],CD58,Multiple sclerosis,multiple sclerosis,-,GCST001198,1:116558335,21833088,Sawcer S
+rs9282641-G,1E-11,-,NR,1.21,-,[1.18-1.24],CD86,Multiple sclerosis,multiple sclerosis,-,GCST001198,3:122077921,21833088,Sawcer S
+rs8112449-G,1E-06,-,NR,1.08,-,[1.07-1.1],CDC37,Multiple sclerosis,multiple sclerosis,-,GCST001198,19:10409388,21833088,Sawcer S
+rs6952809-A,4E-06,(Conditioned on rs1843938),NR,1.08,-,[1.06-1.09],CHST12,Multiple sclerosis,multiple sclerosis,-,GCST001198,7:2408858,21833088,Sawcer S
+rs7200786-A,9E-17,-,NR,1.15,-,[1.13-1.16],CLEC16A,Multiple sclerosis,multiple sclerosis,-,GCST001198,16:11083944,21833088,Sawcer S
+rs10466829-A,1E-08,-,NR,1.09,-,[1.08-1.11],CLECL1P,Multiple sclerosis,multiple sclerosis,-,GCST001198,12:9723495,21833088,Sawcer S
+rs630923-C,3E-07,-,NR,1.12,-,[1.1-1.14],"Y_RNA,CXCR5",Multiple sclerosis,multiple sclerosis,-,GCST001198,11:118883644,21833088,Sawcer S
+rs233100-G,1E-06,-,NR,1.08,-,[1.07-1.1],BCL10-AS1,Multiple sclerosis,multiple sclerosis,-,GCST001198,1:85306326,21833088,Sawcer S
+rs2303759-C,5E-09,-,NR,1.11,-,[1.09-1.13],DKKL1,Multiple sclerosis,multiple sclerosis,-,GCST001198,19:49365794,21833088,Sawcer S
+rs11129295-A,1E-09,(Conditioned on rs669607),NR,1.11,-,[1.09-1.12],"LINC01980,EOMES",Multiple sclerosis,multiple sclerosis,-,GCST001198,3:27747289,21833088,Sawcer S
+rs11810217-A,6E-15,-,NR,1.15,-,[1.13-1.16],EVI5,Multiple sclerosis,multiple sclerosis,-,GCST001198,1:92682820,21833088,Sawcer S
+rs12048904-A,4E-08,-,NR,1.09,-,[1.08-1.11],"VCAM1,EXTL2",Multiple sclerosis,multiple sclerosis,-,GCST001198,1:100865980,21833088,Sawcer S
+rs2119704-C,2E-10,-,NR,1.22,-,[1.19-1.25],LINC01147,Multiple sclerosis,multiple sclerosis,-,GCST001198,14:88021345,21833088,Sawcer S
+rs7923837-G,5E-09,-,NR,1.1,-,[1.08-1.11],"Y_RNA,EXOC6",Multiple sclerosis,multiple sclerosis,-,GCST001198,10:92722160,21833088,Sawcer S
+rs2546890-A,1E-11,-,NR,1.11,-,[1.1-1.13],"LINC01845,IL12B",Multiple sclerosis,multiple sclerosis,-,GCST001198,5:159332892,21833088,Sawcer S
+rs17066096-G,6E-13,-,NR,1.14,-,[1.12-1.15],"IL22RA2,IL20RA",Multiple sclerosis,multiple sclerosis,-,GCST001198,6:137131771,21833088,Sawcer S
+rs6897932-G,2E-08,-,NR,1.11,-,[1.09-1.13],IL7R,Multiple sclerosis,multiple sclerosis,-,GCST001198,5:35874473,21833088,Sawcer S
+rs13333054-A,1E-08,-,NR,1.11,-,[1.1-1.13],"LINC02132,LINC01082",Multiple sclerosis,multiple sclerosis,-,GCST001198,16:85977427,21833088,Sawcer S
+rs17594362-A,4E-06,-,NR,1.11,-,[1.09-1.13],"RGCC,VWA8",Multiple sclerosis,multiple sclerosis,-,GCST001198,13:41565109,21833088,Sawcer S
+rs7238078-A,3E-09,-,NR,1.12,-,[1.1-1.14],MALT1,Multiple sclerosis,multiple sclerosis,-,GCST001198,18:58716960,21833088,Sawcer S
+rs281380-G,2E-06,(Conditioned on rs2303759),NR,1.08,-,[1.07-1.09],"MAMSTR,FUT2",Multiple sclerosis,multiple sclerosis,-,GCST001198,19:48711213,21833088,Sawcer S
+rs228614-G,1E-07,-,NR,1.09,-,[1.07-1.1],MANBA,Multiple sclerosis,multiple sclerosis,-,GCST001198,4:102657480,21833088,Sawcer S
+rs2283792-C,5E-09,-,NR,1.1,-,[1.08-1.11],MAPK1,Multiple sclerosis,multiple sclerosis,-,GCST001198,22:21776836,21833088,Sawcer S
+rs17174870-G,1E-08,-,NR,1.11,-,[1.09-1.13],MERTK,Multiple sclerosis,multiple sclerosis,-,GCST001198,2:111907624,21833088,Sawcer S
+rs4648356-C,1E-14,-,NR,1.14,-,[1.12-1.16],TTC34,Multiple sclerosis,multiple sclerosis,-,GCST001198,1:2792599,21833088,Sawcer S
+rs9321490-G,2E-06,(Conditioned on rs11154801),NR,1.1,-,[1.08-1.11],"HBS1L,MYB",Multiple sclerosis,multiple sclerosis,-,GCST001198,6:135173737,21833088,Sawcer S
+rs4410871-G,8E-09,-,NR,1.11,-,[1.09-1.12],PVT1,Multiple sclerosis,multiple sclerosis,-,GCST001198,8:127802783,21833088,Sawcer S
+rs12466022-C,6E-10,-,NR,1.11,-,[1.1-1.13],LINC02580,Multiple sclerosis,multiple sclerosis,-,GCST001198,2:43131922,21833088,Sawcer S
+rs669607-C,2E-15,-,NR,1.13,-,[1.12-1.15],LINC01967,Multiple sclerosis,multiple sclerosis,-,GCST001198,3:28029953,21833088,Sawcer S
+rs13192841-A,1E-08,(Conditioned on rs17066096),NR,1.1,-,[1.09-1.12],"LINC03004,BTF3L4P3",Multiple sclerosis,multiple sclerosis,-,GCST001198,6:137646077,21833088,Sawcer S
+rs2425752-A,5E-10,-,NR,1.11,-,[1.1-1.13],NCOA5,Multiple sclerosis,multiple sclerosis,-,GCST001198,20:46073481,21833088,Sawcer S
+rs1062158-A,2E-06,-,NR,1.08,-,[1.07-1.1],NDFIP1,Multiple sclerosis,multiple sclerosis,-,GCST001198,5:142143435,21833088,Sawcer S
+rs140522-A,2E-08,-,NR,1.1,-,[1.09-1.12],"KLHDC7B-DT,CIMAP1B",Multiple sclerosis,multiple sclerosis,-,GCST001198,22:50532837,21833088,Sawcer S
+rs1520333-G,2E-07,-,NR,1.1,-,[1.08-1.11],PKIA-AS1,Multiple sclerosis,multiple sclerosis,-,GCST001198,8:78488803,21833088,Sawcer S
+rs9821630-G,4E-06,-,NR,1.08,-,[1.07-1.1],PLCL2,Multiple sclerosis,multiple sclerosis,-,GCST001198,3:16929446,21833088,Sawcer S
+rs7595037-A,5E-11,-,NR,1.11,-,[1.1-1.12],"PLEK,WDR4P2",Multiple sclerosis,multiple sclerosis,-,GCST001198,2:68419963,21833088,Sawcer S
+rs4613763-G,3E-16,-,NR,1.2,-,[1.18-1.22],"RNU1-150P,TTC33",Multiple sclerosis,multiple sclerosis,-,GCST001198,5:40392626,21833088,Sawcer S
+rs7255066-G,1E-06,-,NR,1.09,-,[1.07-1.11],CEACAM16-AS1,Multiple sclerosis,multiple sclerosis,-,GCST001198,19:44642803,21833088,Sawcer S
+rs2019960-G,5E-09,(Conditioned on rs4410871),NR,1.12,-,[1.1-1.13],PVT1,Multiple sclerosis,multiple sclerosis,-,GCST001198,8:128180025,21833088,Sawcer S
+rs4075958-A,5E-07,-,NR,1.09,-,[1.08-1.11],"LMAN2,RGS14",Multiple sclerosis,multiple sclerosis,-,GCST001198,5:177357511,21833088,Sawcer S
+rs180515-G,9E-08,-,NR,1.09,-,[1.08-1.11],RPS6KB1,Multiple sclerosis,multiple sclerosis,-,GCST001198,17:59946914,21833088,Sawcer S
+rs11755724-A,3E-06,-,NR,1.08,-,[1.06-1.09],RREB1,Multiple sclerosis,multiple sclerosis,-,GCST001198,6:7118757,21833088,Sawcer S
+rs11581062-G,3E-10,-,NR,1.12,-,[1.1-1.13],"SLC30A7,HNRNPA1P68",Multiple sclerosis,multiple sclerosis,-,GCST001198,1:100941963,21833088,Sawcer S
+rs2744148-G,8E-08,-,NR,1.12,-,[1.1-1.14],"SOX8,SSTR5",Multiple sclerosis,multiple sclerosis,-,GCST001198,16:1023552,21833088,Sawcer S
+rs9891119-C,2E-10,-,NR,1.11,-,[1.09-1.12],STAT3,Multiple sclerosis,multiple sclerosis,-,GCST001198,17:42355962,21833088,Sawcer S
+rs290986-A,9E-07,-,NR,1.1,-,[1.08-1.12],"OR7E108P,SYK",Multiple sclerosis,multiple sclerosis,-,GCST001198,9:90801254,21833088,Sawcer S
+rs1738074-G,7E-15,-,NR,1.13,-,[1.12-1.15],"TAGAP,TAGAP-AS1",Multiple sclerosis,multiple sclerosis,-,GCST001198,6:159044945,21833088,Sawcer S
+rs1800693-G,4E-14,-,NR,1.12,-,[1.11-1.14],TNFRSF1A,Multiple sclerosis,multiple sclerosis,-,GCST001198,12:6330843,21833088,Sawcer S
+rs1077667-G,9E-14,-,NR,1.16,-,[1.14-1.18],TNFSF14,Multiple sclerosis,multiple sclerosis,-,GCST001198,19:6668961,21833088,Sawcer S
+rs4902647-G,9E-12,-,NR,1.11,-,[1.1-1.13],"RNU6-921P,ZFP36L1",Multiple sclerosis,multiple sclerosis,-,GCST001198,14:68787474,21833088,Sawcer S
+rs1250550-A,6E-09,-,NR,1.1,-,[1.09-1.12],ZMIZ1,Multiple sclerosis,multiple sclerosis,-,GCST001198,10:79300560,21833088,Sawcer S
+rs354033-G,5E-09,-,NR,1.11,-,[1.1-1.13],ZNF767P,Multiple sclerosis,multiple sclerosis,-,GCST001198,7:149592373,21833088,Sawcer S
+rs2248359-G,3E-11,-,NR,1.12,-,[1.1-1.13],"CYP24A1,PFDN4",Multiple sclerosis,multiple sclerosis,-,GCST001198,20:54174979,21833088,Sawcer S
+rs806321-A,5E-07,-,NR,1.08,-,[1.07-1.1],DLEU1,Multiple sclerosis,multiple sclerosis,-,GCST001198,13:50267187,21833088,Sawcer S
+rs3761959-G,3E-06,-,NR,1.08,-,[1.06-1.09],FCRL3,Multiple sclerosis,multiple sclerosis,-,GCST001198,1:157699488,21833088,Sawcer S
+rs2243123-G,7E-06,-,NR,1.08,-,[1.06-1.1],"IL12A-AS1,IL12A",Multiple sclerosis,multiple sclerosis,-,GCST001198,3:159991864,21833088,Sawcer S
+rs7090512-G,5E-20,(Conditioned on rs3118470),NR,1.19,-,[1.17-1.21],"IL2RA,RPL32P23",Multiple sclerosis,multiple sclerosis,-,GCST001198,10:6068866,21833088,Sawcer S
+rs386965-G,4E-06,-,NR,1.09,-,[1.07-1.11],"MAF,LINC01229",Multiple sclerosis,multiple sclerosis,-,GCST001198,16:79618644,21833088,Sawcer S
+rs4792814-G,3E-06,-,NR,1.08,-,[1.06-1.09],"RNA5SP443,MAP3K14",Multiple sclerosis,multiple sclerosis,-,GCST001198,17:45325639,21833088,Sawcer S
+rs874628-A,1E-08,-,NR,1.11,-,[1.09-1.12],MPV17L2,Multiple sclerosis,multiple sclerosis,-,GCST001198,19:18193890,21833088,Sawcer S
+rs10936599-G,7E-07,-,NR,1.1,-,[1.08-1.11],MYNN,Multiple sclerosis,multiple sclerosis,-,GCST001198,3:169774313,21833088,Sawcer S
+rs4409785-G,6E-07,-,NR,1.1,-,[1.09-1.12],"FAM76B,LNCRNA-IUR",Multiple sclerosis,multiple sclerosis,-,GCST001198,11:95578258,21833088,Sawcer S
+rs771767-A,9E-09,-,NR,1.1,-,[1.09-1.12],"ZPLD1,RDUR",Multiple sclerosis,multiple sclerosis,-,GCST001198,3:102029794,21833088,Sawcer S
+rs802734-A,6E-09,-,NR,1.1,-,[1.09-1.12],"THEMIS,PTPRK",Multiple sclerosis,multiple sclerosis,-,GCST001198,6:127957653,21833088,Sawcer S
+rs1323292-A,2E-08,-,NR,1.12,-,[1.1-1.14],"RGS1,RGS21",Multiple sclerosis,multiple sclerosis,-,GCST001198,1:192571891,21833088,Sawcer S
+rs307896-G,5E-07,-,NR,1.09,-,[1.08-1.11],SAE1,Multiple sclerosis,multiple sclerosis,-,GCST001198,19:47158236,21833088,Sawcer S
+rs10201872-A,2E-10,-,NR,1.14,-,[1.12-1.16],SP140,Multiple sclerosis,multiple sclerosis,-,GCST001198,2:230242009,21833088,Sawcer S
+rs756699-A,6E-07,-,NR,1.12,-,[1.1-1.14],"VDAC1,TCF7",Multiple sclerosis,multiple sclerosis,-,GCST001198,5:134110884,21833088,Sawcer S
+rs12048904-A,4E-08,(Conditioned on rs11581062),NR,1.09,-,[1.08-1.11],"VCAM1,EXTL2",Multiple sclerosis,multiple sclerosis,-,GCST001198,1:100865980,21833088,Sawcer S
+rs4285028-A,2E-08,(Conditioned on rs9282641),NR,1.1,-,[1.09-1.12],SLC15A2,Multiple sclerosis,multiple sclerosis,-,GCST001198,3:121941817,21833088,Sawcer S
+rs4308217-C,6E-08,"(Conditioned on rs4285028, rs9282641)",NR,1.1,-,[1.08-1.11],CD86,Multiple sclerosis,multiple sclerosis,-,GCST001198,3:122074340,21833088,Sawcer S
+rs3118470-G,3E-11,-,NR,1.12,-,[1.1-1.13],IL2RA,Multiple sclerosis,multiple sclerosis,-,GCST001198,10:6059750,21833088,Sawcer S
+DRB*15:01-?,1E-132,-,NR,3.08,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST001198,-,21833088,Sawcer S
+DRB*13:03-?,1E-11,-,NR,2.43,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST001198,-,21833088,Sawcer S
+DRB*03:01-?,4E-10,-,NR,1.26,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST001198,-,21833088,Sawcer S
+A*02:01-?,9E-23,-,NR,1.37,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST001198,-,21833088,Sawcer S
+DRB*08:01-?,2E-07,-,NR,1.18,-,NR,-,Multiple sclerosis,multiple sclerosis,-,GCST001198,-,21833088,Sawcer S
+rs6062314-A,1E-07,-,NR,1.16,-,[1.14-1.19],ZBTB46,Multiple sclerosis,multiple sclerosis,-,GCST001198,20:63778360,21833088,Sawcer S
+rs793108-A,3E-06,-,NR,1.08,-,[1.06-1.09],"LINC02664,ZNF438",Multiple sclerosis,multiple sclerosis,-,GCST001198,10:31126177,21833088,Sawcer S
+rs175126-G,2E-07,-,0.46,1.06,-,[1.04-1.09],LINC02954,Multiple sclerosis,multiple sclerosis,-,GCST005531,11:61066152,24076602,Beecham AH
+rs3809006-G,4E-07,-,0.49,1.06,-,[1.04-1.09],ETS1,Multiple sclerosis,multiple sclerosis,-,GCST005531,11:128540941,24076602,Beecham AH
+rs731089-A,1E-06,-,0.69,1.06,-,[1.04-1.09],"LINC00423,TOMM22P3",Multiple sclerosis,multiple sclerosis,-,GCST005531,13:32923897,24076602,Beecham AH
+rs7993214-G,2E-06,-,0.65,1.06,-,[1.03-1.09],COG6,Multiple sclerosis,multiple sclerosis,-,GCST005531,13:39776775,24076602,Beecham AH
+rs806349-A,8E-07,-,0.48,1.06,-,[1.04-1.08],DLEU1,Multiple sclerosis,multiple sclerosis,-,GCST005531,13:50285854,24076602,Beecham AH
+rs4903324-A,2E-07,-,0.2,1.08,-,[1.05-1.11],"JDP2,BATF",Multiple sclerosis,multiple sclerosis,-,GCST005531,14:75495168,24076602,Beecham AH
+rs4924273-G,1E-06,-,0.26,1.07,-,[1.04-1.09],RASGRP1,Multiple sclerosis,multiple sclerosis,-,GCST005531,15:38554537,24076602,Beecham AH
+rs223889-A,2E-06,-,0.29,1.06,-,[1.04-1.09],"RPL23AP91,CCL22",Multiple sclerosis,multiple sclerosis,-,GCST005531,16:57358329,24076602,Beecham AH
+rs7260516-A,3E-06,-,0.36,1.06,-,[1.03-1.08],FPR1,Multiple sclerosis,multiple sclerosis,-,GCST005531,19:51784199,24076602,Beecham AH
+rs17371986-A,5E-06,-,0.79,1.07,-,[1.04-1.10],"VANGL2,SLAMF6",Multiple sclerosis,multiple sclerosis,-,GCST005531,1:160432469,24076602,Beecham AH
+rs113116201-G,1E-06,-,0.02,1.29,-,[1.16-1.43],MIR181A1HG,Multiple sclerosis,multiple sclerosis,-,GCST005531,1:198861813,24076602,Beecham AH
+rs1534422-G,3E-07,-,0.46,1.06,-,[1.04-1.09],MIR3681HG,Multiple sclerosis,multiple sclerosis,-,GCST005531,2:12500615,24076602,Beecham AH
+rs6716355-C,2E-06,-,0.31,1.06,-,[1.04-1.09],LINC01934,Multiple sclerosis,multiple sclerosis,-,GCST005531,2:181370365,24076602,Beecham AH
+rs6435203-A,1E-07,-,0.73,1.07,-,[1.04-1.10],"CD28,KRT18P39",Multiple sclerosis,multiple sclerosis,-,GCST005531,2:203746472,24076602,Beecham AH
+rs9846396-G,8E-08,-,0.57,1.07,-,[1.04-1.09],ZBTB38,Multiple sclerosis,multiple sclerosis,-,GCST005531,3:141422126,24076602,Beecham AH
+rs522127-C,5E-07,-,0.43,1.07,-,[1.04-1.09],"IL12A-AS1,LINC01100",Multiple sclerosis,multiple sclerosis,-,GCST005531,3:160016881,24076602,Beecham AH
+rs66756607-G,2E-07,-,0.44,1.06,-,[1.04-1.09],Y_RNA,Multiple sclerosis,multiple sclerosis,-,GCST005531,4:59644490,24076602,Beecham AH
+rs189139-A,1E-06,-,0.33,1.07,-,[1.04-1.10],SH3BP2,Multiple sclerosis,multiple sclerosis,-,GCST005531,4:2831000,24076602,Beecham AH
+rs727098-G,7E-07,-,0.25,1.07,-,[1.04-1.10],"ATP5PBP6,LINC01625",Multiple sclerosis,multiple sclerosis,-,GCST005531,6:139590185,24076602,Beecham AH
+rs9355260-A,6E-07,-,0.18,1.08,-,[1.05-1.11],"FNDC1-AS1,TAGAP-AS1",Multiple sclerosis,multiple sclerosis,-,GCST005531,6:159103590,24076602,Beecham AH
+rs75637965-C,9E-06,-,0.13,1.08,-,[1.04-1.11],FAM167A,Multiple sclerosis,multiple sclerosis,-,GCST005531,8:11458083,24076602,Beecham AH
+rs13260060-A,7E-07,-,0.1,1.1,-,[1.06-1.14],NCOA2,Multiple sclerosis,multiple sclerosis,-,GCST005531,8:70306125,24076602,Beecham AH
+rs6072343-A,7E-08,-,0.15,1.09,-,[1.06-1.13],"LPIN3,ADI1P1",Multiple sclerosis,multiple sclerosis,-,GCST005531,20:41339548,24076602,Beecham AH
+rs9808753-G,1E-07,-,0.14,1.09,-,[1.06-1.13],IFNGR2,Multiple sclerosis,multiple sclerosis,-,GCST005531,21:33415005,24076602,Beecham AH
+rs62626325-G,9E-06,-,0.83,1.1,-,[1.05-1.15],"RPL32P23,RBM17",Multiple sclerosis,multiple sclerosis,-,GCST005531,10:6079322,24076602,Beecham AH
