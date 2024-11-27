@@ -1,11 +1,6 @@
+# Genetic Variation Analysis for Predicting Multiple Sclerosis (MS) Using Machine Learning and SNP Data
 
-Genetic Variation Analysis for Predicting Multiple Sclerosis (MS) Using Machine Learning and SNP Data
-
-Title:- Data Analysis Project
-
-Name:- P.Venkatesh
-
-Reg No:- 36823025
+**Title:- Data Analysis Project**
 
 Project Overview
 
@@ -18,22 +13,6 @@ The primary objective of this project is to investigate associations between gen
 
 Each analytical approach provides a deeper understanding of the role of SNPs in MS.
 
-#import required libraries
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from scipy.stats import ttest_ind
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LogisticRegression
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import classification_report
-from sklearn.model_selection import GridSearchCV
-from sklearn.metrics import classification_report, accuracy_score
-import dash
-from dash import dcc, html
-from dash.dependencies import Input, Output
-import plotly.express as px
 1. Data Loading and Preparation
 
 Dataset The dataset used in this analysis is sourced from SNP associations with MS (MONDO_0005301_associations_exportmscv.csv). It contains columns such as riskFrequency, orValue, pValue, traitName, mappedGenes, and more. Each row represents an SNP and its corresponding characteristics related to MS
